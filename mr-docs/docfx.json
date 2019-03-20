@@ -1,0 +1,79 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "uhfHeaderId": "MSDocsHeader-Dynamics365",
+      "contributors_to_exclude": [
+        "buck1ey",
+        "bishalgoswami",
+        "kathleenmcgrath",
+        "marycc",
+        "tinaburden",
+        "almostdunh"
+      ],
+      "titleSuffix": "Dynamics 365 Mixed Reality",
+      "breadcrumb_path": "/dynamics365/mixed-reality/breadcrumb/toc.json",
+      "extendBreadcrumb": true,
+      "feedback_system": "None"
+    },
+    "fileMetadata": {
+      "searchScope": {
+        "**.*": [
+          "Dynamics 365",
+          "Mixed Reality"
+        ],
+        "layout/**.*": [
+          "Dynamics 365",
+          "Layout"
+        ],
+        "remote-assist/**.*": [
+          "Dynamics 365",
+          "Customer Engagement",
+          "Remote Assist"
+        ],
+        "licensing/**.*":[
+          "Dynamics 365",
+          "Layout",
+          "Remote Assist",
+          "Mixed Reality"
+        ]
+      }
+    },
+    "template": [],
+    "dest": "mr-docs",
+    "markdownEngineName": "markdig"
+  }
+}
