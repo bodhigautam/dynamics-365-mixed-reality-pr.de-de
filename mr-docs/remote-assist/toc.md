@@ -1,0 +1,18 @@
+# Dynamics 365 Remote Assist
+## [Überblick](index.md)
+## [Anforderungen](requirements.md)
+## [Remote Assist kostenlos testen](try-remote-assist-free.md)
+## [Remote Assist kaufen und bereitstellen](buy-and-deploy-remote-assist.md)
+## [Unternehmensübergreifende Anrufe einrichten (für Administratoren)](cross-company-calling.md)
+## [HoloLens-Benutzerhandbuch](user-guide.md)
+## [Benutzerhandbuch für die mobile App](mobile-app.md)
+## [Microsoft Teams einrichten und verwenden](use-microsoft-teams-with-remote-assist.md)
+## [Problembehandlung für die Field Service-Integration](troubleshoot-field-service.md)
+## [Anleitungsvideos](https://go.microsoft.com/fwlink/p/?linkid=2021485)
+## [Für Entwickler - Protokollaktivierung](protocol-activation.md)
+## [Häufig gestellte Fragen](faq.md)
+## Rechtliche Dokumente
+### [Remote Assist Software-Lizenzbedingungen](../legal/remote-assist-license-terms.md)
+### [Remote Assist kostenlose Test-Software-Lizenzbedingungen](../legal/remote-assist-license-terms-free-trial.md)
+### [Lizenzbedingungen der Vorschau der Remote Assist Mobile-App](../legal/remote-assist-mobile-terms.md)
+### [Hinweise von Drittanbietern](../legal/remote-assist-third-party-notice.md)
