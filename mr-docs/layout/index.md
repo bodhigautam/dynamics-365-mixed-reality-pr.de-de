@@ -1,29 +1,60 @@
----
-author: ornellaalt
-description: Überblick über Dynamics 365 Layout
-ms.author: ornella
-ms.date: 05/15/2019
-ms.service: crm-online
-ms.topic: article
-title: Überblick über Dynamics 365 Layout
-ms.reviewer: v-brycho
-ms.openlocfilehash: dd37c9f1ed4a60dd9bb755d1f1c4da9bafea04a1
-ms.sourcegitcommit: 34891391e0a0ffcef6ec9c56cf1d315ac0363ffc
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "1576456"
----
-# <a name="overview-of-dynamics-365-layout"></a><span data-ttu-id="dfa29-103">Überblick über Dynamics 365 Layout</span><span class="sxs-lookup"><span data-stu-id="dfa29-103">Overview of Dynamics 365 Layout</span></span>
-
-<span data-ttu-id="dfa29-104">Setzen Sie Entwürfe von der Entwicklung bis zur Fertigstellung schnell und zuverlässig um.</span><span class="sxs-lookup"><span data-stu-id="dfa29-104">Bring physical designs from concept to completion with confidence.</span></span> <span data-ttu-id="dfa29-105">Importieren Sie 3D-Modelle, um Raumlayouts als Hologramme in der physischen Welt oder in der virtuellen Realität zu erleben.</span><span class="sxs-lookup"><span data-stu-id="dfa29-105">Import 3D models to experience room layouts as holograms in the physical world or in virtual reality.</span></span> <span data-ttu-id="dfa29-106">Teilen Sie Ihre Vorstellungen mit Stakeholdern und bearbeiten Sie Layouts einfach im realen Maßstab, damit Sie noch vor der Erstellung bessere Entscheidungen treffen können.</span><span class="sxs-lookup"><span data-stu-id="dfa29-106">Share your vision with stakeholders and easily edit layouts in real-world scale, so you can make better decisions before you build.</span></span>
-
-[<span data-ttu-id="dfa29-107">Video zu ansehen Dynamics 365 Layout.</span><span class="sxs-lookup"><span data-stu-id="dfa29-107">Watch a video on Dynamics 365 Layout.</span></span>](https://dynamics.microsoft.com/en-us/mixed-reality/layout/)
-
-### <a name="see-also"></a><span data-ttu-id="dfa29-108">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="dfa29-108">See also</span></span>
-[<span data-ttu-id="dfa29-109">Gerätoptionen und technische Anforderungen</span><span class="sxs-lookup"><span data-stu-id="dfa29-109">Device options and technical requirements</span></span>](requirements.md)<br/>
-[<span data-ttu-id="dfa29-110">Testen Sie Dynamics 365 Layout kostenlos</span><span class="sxs-lookup"><span data-stu-id="dfa29-110">Try Dynamics 365 Layout for free</span></span>](try-layout-free.md)<br/>
-[<span data-ttu-id="dfa29-111">Dynamics 365 Layout kaufen und bereitstellen</span><span class="sxs-lookup"><span data-stu-id="dfa29-111">Buy and deploy Dynamics 365 Layout</span></span>](buy-and-deploy-layout.md)<br>
-[<span data-ttu-id="dfa29-112">Benutzerhandbuch</span><span class="sxs-lookup"><span data-stu-id="dfa29-112">User Guide</span></span>](user-guide.md)<br/>
-[<span data-ttu-id="dfa29-113">Anleitungsvideos</span><span class="sxs-lookup"><span data-stu-id="dfa29-113">How-to videos</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
-[<span data-ttu-id="dfa29-114">Häufig gestellte Fragen</span><span class="sxs-lookup"><span data-stu-id="dfa29-114">FAQ</span></span>](faq.md)<br/>
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:logoport="urn:logoport:xliffeditor:xliff-extras:1.0" xmlns:tilt="urn:logoport:xliffeditor:tilt-non-translatables:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" original="index.md" target-language="de-DE">
+    <header>
+      <tool tool-company="Microsoft" tool-version="1.0-7889195" tool-name="mdxliff" tool-id="mdxliff"/>
+      <xliffext:skl_file_name>index.3f3f89.973135511a12f75aa6081da9afc95117b32c1a6d.skl</xliffext:skl_file_name>
+      <xliffext:version>1.2</xliffext:version>
+      <xliffext:ms.openlocfilehash>973135511a12f75aa6081da9afc95117b32c1a6d</xliffext:ms.openlocfilehash>
+      <xliffext:ms.sourcegitcommit>a9ae3e613938a7c53b2de2ce787fae6a3499c9ae</xliffext:ms.sourcegitcommit>
+      <xliffext:ms.lasthandoff>05/21/2019</xliffext:ms.lasthandoff>
+      <xliffext:ms.openlocfilepath>mr-docs\layout\index.md</xliffext:ms.openlocfilepath>
+    </header>
+    <body>
+      <group extype="content" id="content">
+        <trans-unit xml:space="preserve" translate="yes" id="101" restype="x-metadata">
+          <source>Overview of Dynamics 365 Layout</source>
+        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Überblick über Dynamics 365 Layout</target></trans-unit>
+        <trans-unit xml:space="preserve" translate="yes" id="102" restype="x-metadata">
+          <source>Overview of Dynamics 365 Layout</source>
+        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Überblick über Dynamics 365 Layout</target></trans-unit>
+        <trans-unit xml:space="preserve" translate="yes" id="103">
+          <source>Overview of Dynamics 365 Layout</source>
+        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Überblick über Dynamics 365 Layout</target></trans-unit>
+        <trans-unit xml:space="preserve" translate="yes" id="104">
+          <source>Bring physical designs from concept to completion with confidence.</source>
+        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Setzen Sie Entwürfe von der Entwicklung bis zur Fertigstellung schnell und zuverlässig um.</target></trans-unit>
+        <trans-unit xml:space="preserve" translate="yes" id="105">
+          <source>Import 3D models to experience room layouts as holograms in the physical world or in virtual reality.</source>
+        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Importieren Sie 3D-Modelle, um Raumlayouts als Hologramme in der physischen Welt oder in der virtuellen Realität zu erleben.</target></trans-unit>
+        <trans-unit xml:space="preserve" translate="yes" id="106">
+          <source>Share your vision with stakeholders and easily edit layouts in real-world scale, so you can make better decisions before you build.</source>
+        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Teilen Sie Ihre Vorstellungen mit Stakeholdern und bearbeiten Sie Layouts einfach im realen Maßstab, damit Sie noch vor der Erstellung bessere Entscheidungen treffen können.</target></trans-unit>
+        <trans-unit xml:space="preserve" translate="yes" id="107">
+          <source><bpt id="p1">[</bpt>Watch a video on Dynamics 365 Layout.<ept id="p1">](https://dynamics.microsoft.com/en-us/mixed-reality/layout/)</ept></source>
+        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">[</bpt>Video zu ansehen Dynamics 365 Layout.<ept id="p1">](https://dynamics.microsoft.com/en-us/mixed-reality/layout/)</ept></target></trans-unit>
+        <trans-unit xml:space="preserve" translate="yes" id="108">
+          <source>See also</source>
+        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Siehe auch</target></trans-unit>
+        <trans-unit xml:space="preserve" translate="yes" id="109">
+          <source><bpt id="p1">[</bpt>Device options and technical requirements<ept id="p1">](requirements.md)</ept></source>
+        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">[</bpt>Gerätoptionen und technische Anforderungen<ept id="p1">](requirements.md)</ept></target></trans-unit>
+        <trans-unit xml:space="preserve" translate="yes" id="110">
+          <source><bpt id="p1">[</bpt>Try Dynamics 365 Layout for free<ept id="p1">](try-layout-free.md)</ept></source>
+        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">[</bpt>Testen Sie Dynamics 365 Layout kostenlos<ept id="p1">](try-layout-free.md)</ept></target></trans-unit>
+        <trans-unit xml:space="preserve" translate="yes" id="111">
+          <source><bpt id="p1">[</bpt>Buy and deploy Dynamics 365 Layout<ept id="p1">](buy-and-deploy-layout.md)</ept></source>
+        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">[</bpt>Dynamics 365 Layout kaufen und bereitstellen<ept id="p1">](buy-and-deploy-layout.md)</ept></target></trans-unit>
+        <trans-unit xml:space="preserve" translate="yes" id="112">
+          <source><bpt id="p1">[</bpt>User Guide<ept id="p1">](user-guide.md)</ept></source>
+        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">[</bpt>Benutzerhandbuch<ept id="p1">](user-guide.md)</ept></target></trans-unit>
+        <trans-unit xml:space="preserve" translate="yes" id="113">
+          <source><bpt id="p1">[</bpt>How-to videos<ept id="p1">](videos.md)</ept></source>
+        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">[</bpt>Anleitungsvideos<ept id="p1">](videos.md)</ept></target></trans-unit>
+        <trans-unit xml:space="preserve" translate="yes" id="114">
+          <source><bpt id="p1">[</bpt>FAQ<ept id="p1">](faq.md)</ept></source>
+        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">[</bpt>Häufig gestellte Fragen<ept id="p1">](faq.md)</ept></target></trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
