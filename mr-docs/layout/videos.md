@@ -1,66 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff xmlns:logoport="urn:logoport:xliffeditor:xliff-extras:1.0" xmlns:tilt="urn:logoport:xliffeditor:tilt-non-translatables:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en-US" original="videos.md" target-language="de-DE">
-    <header>
-      <tool tool-company="Microsoft" tool-version="1.0-7889195" tool-name="mdxliff" tool-id="mdxliff"/>
-      <xliffext:skl_file_name>videos.02fd04.b6d454f129df828660c9cbffa1d66a9a1fb86979.skl</xliffext:skl_file_name>
-      <xliffext:version>1.2</xliffext:version>
-      <xliffext:ms.openlocfilehash>b6d454f129df828660c9cbffa1d66a9a1fb86979</xliffext:ms.openlocfilehash>
-      <xliffext:ms.sourcegitcommit>a9ae3e613938a7c53b2de2ce787fae6a3499c9ae</xliffext:ms.sourcegitcommit>
-      <xliffext:ms.lasthandoff>05/21/2019</xliffext:ms.lasthandoff>
-      <xliffext:ms.openlocfilepath>mr-docs\layout\videos.md</xliffext:ms.openlocfilepath>
-    </header>
-    <body>
-      <group extype="content" id="content">
-        <trans-unit xml:space="preserve" translate="yes" id="101" restype="x-metadata">
-          <source>Watch these short videos to get up and running with Microsoft Dynamics 365 Layout</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Sehen Sie sich diese kurzen Videos an, um mit Microsoft Dynamics 365 Layout zu beginnen.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="102" restype="x-metadata">
-          <source>How-to videos for Dynamics 365 Layout</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Anleitungsvideos zu Dynamics 365 Layout</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="103">
-          <source>How-to videos for Dynamics 365 Layout</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Anleitungsvideos zu Dynamics 365 Layout</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="104">
-          <source>Watch these short videos to get up and running with <ph id="ph1">[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]</ph>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Sehen Sie sich diese kurzen Videos an, um mit <ph id="ph1">[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]</ph> zu beginnen.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="105">
-          <source>Looking for more help?</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Sie benötigen weitere Hilfe?</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="106">
-          <source>Check out our <bpt id="p1">[</bpt>User guide<ept id="p1">](user-guide.md)</ept>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Nehmen Sie unser <bpt id="p1">[</bpt>Benutzerhandbuch<ept id="p1">](user-guide.md)</ept> zur Hand.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="107">
-          <source>To turn on closed captions for videos, select the <bpt id="p1">**</bpt>More options<ept id="p1">**</ept> (...) button, select <bpt id="p2">**</bpt>Closed captions<ept id="p2">**</ept>, and then select <bpt id="p3">**</bpt>English<ept id="p3">**</ept>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Um für Videos Untertitel zu aktivieren, wählen Sie die Schaltfläche <bpt id="p1">**</bpt>Weitere Optionen<ept id="p1">**</ept> ( ... ), <bpt id="p2">**</bpt>Untertitel<ept id="p2">**</ept> und anschließend <bpt id="p3">**</bpt>Englisch<ept id="p3">**</ept> aus.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="108">
-          <source><bpt id="p1">![</bpt>Closed captions<ept id="p1">]</ept><bpt id="p2">(media/closed-captions.PNG "</bpt>Closed captions<ept id="p2">")</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">![</bpt>Untertitel<ept id="p1">]</ept><bpt id="p2">(media/closed-captions.PNG "</bpt>Untertitel<ept id="p2">")</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="109">
-          <source><ph id="ph1">[!include[pn-layout](../includes/pn-layout.md)]</ph> is not available in languages other than English at this time.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><ph id="ph1">[!include[pn-layout](../includes/pn-layout.md)]</ph> ist derzeit nur in Englisch verfügbar.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="110">
-          <source>Dynamics 365 Layout for HoloLens</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Dynamics 365 Layout für HoloLens</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="111">
-          <source>Dynamics 365 Layout for Windows Mixed Reality</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Dynamics 365 Layout für Windows Mixed Reality</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="112">
-          <source>Dynamics 365 Import Tool (Preview) for PC</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Dynamics 365 Import Tool (Vorschau) für PC</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="113">
-          <source>See also</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Siehe auch</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="114">
-          <source><bpt id="p1">[</bpt>Overview of Dynamics 365 Layout<ept id="p1">](index.md)</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">[</bpt>Überblick über Dynamics 365 Layout<ept id="p1">](index.md)</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="115">
-          <source><bpt id="p1">[</bpt>User guide<ept id="p1">](user-guide.md)</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">[</bpt>Benutzerhandbuch<ept id="p1">](user-guide.md)</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="116">
-          <source><bpt id="p1">[</bpt>FAQ<ept id="p1">](faq.md)</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">[</bpt>Häufig gestellte Fragen<ept id="p1">](faq.md)</ept></target></trans-unit>
-      </group>
-    </body>
-  </file>
-</xliff>
+---
+author: ornellaalt
+description: Sehen Sie sich diese kurzen Videos an, um mit Microsoft Dynamics 365 Layout zu beginnen.
+ms.author: ornella
+ms.date: 05/15/2019
+ms.service: crm-online
+ms.topic: article
+title: Anleitungsvideos zu Dynamics 365 Layout
+ms.reviewer: v-brycho
+ms.openlocfilehash: b6d454f129df828660c9cbffa1d66a9a1fb86979
+ms.sourcegitcommit: a9ae3e613938a7c53b2de2ce787fae6a3499c9ae
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "1593539"
+---
+# <a name="how-to-videos-for-dynamics-365-layout"></a><span data-ttu-id="3c8d4-103">Anleitungsvideos zu Dynamics 365 Layout</span><span class="sxs-lookup"><span data-stu-id="3c8d4-103">How-to videos for Dynamics 365 Layout</span></span>
+
+<span data-ttu-id="3c8d4-104">Sehen Sie sich diese kurzen Videos an, um mit [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] zu beginnen.</span><span class="sxs-lookup"><span data-stu-id="3c8d4-104">Watch these short videos to get up and running with [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].</span></span>
+
+<span data-ttu-id="3c8d4-105">Sie benötigen weitere Hilfe?</span><span class="sxs-lookup"><span data-stu-id="3c8d4-105">Looking for more help?</span></span> <span data-ttu-id="3c8d4-106">Nehmen Sie unser [Benutzerhandbuch](user-guide.md) zur Hand.</span><span class="sxs-lookup"><span data-stu-id="3c8d4-106">Check out our [User guide](user-guide.md).</span></span>
+
+> [!TIP]
+> <span data-ttu-id="3c8d4-107">Um für Videos Untertitel zu aktivieren, wählen Sie die Schaltfläche **Weitere Optionen** ( ... ), **Untertitel** und anschließend **Englisch** aus.</span><span class="sxs-lookup"><span data-stu-id="3c8d4-107">To turn on closed captions for videos, select the **More options** (...) button, select **Closed captions**, and then select **English**.</span></span><br></br><span data-ttu-id="3c8d4-108">![Untertitel](media/closed-captions.PNG "Untertitel")</span><span class="sxs-lookup"><span data-stu-id="3c8d4-108">![Closed captions](media/closed-captions.PNG "Closed captions")</span></span><br>[!include[pn-layout](../includes/pn-layout.md)] <span data-ttu-id="3c8d4-109">ist derzeit nur in Englisch verfügbar.</span><span class="sxs-lookup"><span data-stu-id="3c8d4-109">is not available in languages other than English at this time.</span></span>
+
+## <a name="dynamics-365-layout-for-hololens"></a><span data-ttu-id="3c8d4-110">Dynamics 365 Layout für HoloLens</span><span class="sxs-lookup"><span data-stu-id="3c8d4-110">Dynamics 365 Layout for HoloLens</span></span>
+
+<div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2EWQP" frameborder="0" allowfullscreen=""></iframe></div>
+</br>
+<div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2EK2u" frameborder="0" allowfullscreen=""></iframe></div>
+</br>
+<div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2EZt5" frameborder="0" allowfullscreen=""></iframe></div>
+
+## <a name="dynamics-365-layout-for-windows-mixed-reality"></a><span data-ttu-id="3c8d4-111">Dynamics 365 Layout für Windows Mixed Reality</span><span class="sxs-lookup"><span data-stu-id="3c8d4-111">Dynamics 365 Layout for Windows Mixed Reality</span></span>
+
+<div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2EOUG" frameborder="0" allowfullscreen=""></iframe></div>
+</br>
+<div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2EK2x" frameborder="0" allowfullscreen=""></iframe></div>
+</br>
+<div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2EK2w" frameborder="0" allowfullscreen=""></iframe></div>
+
+## <a name="dynamics-365-import-tool-preview-for-pc"></a><span data-ttu-id="3c8d4-112">Dynamics 365 Import Tool (Vorschau) für PC</span><span class="sxs-lookup"><span data-stu-id="3c8d4-112">Dynamics 365 Import Tool (Preview) for PC</span></span>
+
+<div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RWqjaR" frameborder="0" allowfullscreen=""></iframe></div>
+</br>
+<div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RWqDZa" frameborder="0" allowfullscreen=""></iframe></div>
+
+### <a name="see-also"></a><span data-ttu-id="3c8d4-113">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="3c8d4-113">See also</span></span>
+[<span data-ttu-id="3c8d4-114">Überblick über Dynamics 365 Layout</span><span class="sxs-lookup"><span data-stu-id="3c8d4-114">Overview of Dynamics 365 Layout</span></span>](index.md)<br/>
+[<span data-ttu-id="3c8d4-115">Benutzerhandbuch</span><span class="sxs-lookup"><span data-stu-id="3c8d4-115">User guide</span></span>](user-guide.md)<br/>
+[<span data-ttu-id="3c8d4-116">Häufig gestellte Fragen</span><span class="sxs-lookup"><span data-stu-id="3c8d4-116">FAQ</span></span>](faq.md)<br/>

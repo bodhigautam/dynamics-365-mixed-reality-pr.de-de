@@ -1,78 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff xmlns:logoport="urn:logoport:xliffeditor:xliff-extras:1.0" xmlns:tilt="urn:logoport:xliffeditor:tilt-non-translatables:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en-US" original="try-remote-assist-free.md" target-language="de-DE">
-    <header>
-      <tool tool-company="Microsoft" tool-version="1.0-d915bc8" tool-name="mdxliff" tool-id="mdxliff"/>
-      <xliffext:skl_file_name>try-remote-assist-free.e7713b.b4b87ae696b8355647ad94cae7b35c9bb0116a47.skl</xliffext:skl_file_name>
-      <xliffext:version>1.2</xliffext:version>
-      <xliffext:ms.openlocfilehash>b4b87ae696b8355647ad94cae7b35c9bb0116a47</xliffext:ms.openlocfilehash>
-      <xliffext:ms.sourcegitcommit>80c2a9dc71cab3914d3a96d37904bd1e16e4b450</xliffext:ms.sourcegitcommit>
-      <xliffext:ms.lasthandoff>06/03/2019</xliffext:ms.lasthandoff>
-      <xliffext:ms.openlocfilepath>mr-docs\remote-assist\try-remote-assist-free.md</xliffext:ms.openlocfilepath>
-    </header>
-    <body>
-      <group extype="content" id="content">
-        <trans-unit xml:space="preserve" translate="yes" id="101" restype="x-metadata">
-          <source>Try Dynamics 365 Remote Assist for free for up to 90 days.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Testen Sie Dynamics 365 Remote Assist kostenlos bis zu 90 Tage.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="102" restype="x-metadata">
-          <source>Try Dynamics 365 Remote Assist for free for up to 90 days.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Testen Sie Dynamics 365 Remote Assist kostenlos bis zu 90 Tage.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="103">
-          <source>Try Dynamics 365 Remote Assist for free</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Testen Sie Dynamics 365 Remote Assist kostenlos</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="104">
-          <source>You can try <ph id="ph1">[!include[cc-microsoft](../includes/cc-microsoft.md)]</ph> <ph id="ph2">[!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]</ph> for free for up to 90 days.</source><target logoport:matchpercent="100" state="translated" state-qualifier="exact-match">Sie können <ph id="ph1">[!include[cc-microsoft](../includes/cc-microsoft.md)]</ph> <ph id="ph2">[!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]</ph> bis zu 90 Tage lang kostenlos ausprobieren.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="105">
-          <source>Starting a free 90-day trial is nearly effortless.</source><target logoport:matchpercent="100" state="translated" state-qualifier="exact-match">Eine kostenlose 90-Tage-Testphase in Anspruch zu nehmen, ist ganz einfach.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="106">
-          <source>Just install the <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> app from the <ph id="ph2">[!include[cc-microsoft](../includes/cc-microsoft.md)]</ph> Store, and then sign in to <ph id="ph3">[!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)]</ph> using your <ph id="ph4">[!include[pn-azure](../includes/pn-azure.md)]</ph> Active Directory (<ph id="ph5">[!include[pn-azure](../includes/pn-azure.md)]</ph> AD) credentials.</source><target logoport:matchpercent="80" state="translated" state-qualifier="fuzzy-match">Installieren Sie einfach die <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph>-App aus dem <ph id="ph2">[!include[cc-microsoft](../includes/cc-microsoft.md)]</ph> Store, und melden Sie sich dann mit Ihren <ph id="ph4">[!include[pn-azure](../includes/pn-azure.md)]</ph> Active Directory(<ph id="ph5">[!include[pn-azure](../includes/pn-azure.md)]</ph>AD)-Zugangsdaten bei <ph id="ph3">[!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)]</ph> an.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="107">
-          <source>If you don't already have a <ph id="ph1">[!include[pn-teams](../includes/pn-teams.md)]</ph> account and an <ph id="ph2">[!include[pn-azure](../includes/pn-azure.md)]</ph> AD account, the app helps you set them up for free.</source><target logoport:matchpercent="92" state="translated" state-qualifier="fuzzy-match">Wenn Sie noch kein <ph id="ph1">[!include[pn-teams](../includes/pn-teams.md)]</ph>-Konto und <ph id="ph2">[!include[pn-azure](../includes/pn-azure.md)]</ph> AD-Konto haben, unterstützt Sie die App bei der kostenlosen Einrichtung.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="108">
-          <source>After you're signed in, you can access any and all features and capabilities in the app without any restrictions.</source><target logoport:matchpercent="101" state="translated" state-qualifier="id-match">Nachdem Sie sich angemeldet haben, können Sie ohne Einschränkungen auf alle Funktionen der App zugreifen.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="109">
-          <source>Install Remote Assist and try it out for free</source><target logoport:matchpercent="101" state="translated" state-qualifier="id-match">Remote Assist installieren und kostenlos testen</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="110">
-          <source>On your <ph id="ph1">[!include[pn-hololens](../includes/pn-hololens.md)]</ph>, go to <bpt id="p1">**</bpt>Start<ept id="p1">**</ept> <bpt id="p2">![</bpt>Start<ept id="p2">]</ept><bpt id="p3">(media/d2a2ae5e90bdd0e0642abb5458af1016.png "</bpt>Start<ept id="p3">")</ept> <ph id="ph2">\&gt;</ph> <bpt id="p4">**</bpt><ph id="ph3">[!include[cc-microsoft](../includes/cc-microsoft.md)]</ph> Store<ept id="p4">**</ept> <bpt id="p5">![</bpt>Microsoft Store<ept id="p5">]</ept><bpt id="p6">(media/2ac602b5a7855d312f3e7d924732acca.png "</bpt>Microsoft Store<ept id="p6">")</ept>.</source><target logoport:matchpercent="101" state="translated" state-qualifier="id-match">Wählen Sie in Ihrem <ph id="ph1">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> die Option <bpt id="p1">**</bpt>Start<ept id="p1">**</ept> <bpt id="p2">![</bpt>Start<ept id="p2">]</ept><bpt id="p3">(media/d2a2ae5e90bdd0e0642abb5458af1016.png "</bpt>Start<ept id="p3">")</ept> <ph id="ph2">\&gt;</ph> <bpt id="p4">**</bpt><ph id="ph3">[!include[cc-microsoft](../includes/cc-microsoft.md)]</ph> Store<ept id="p4">**</ept> <bpt id="p5">![</bpt>Microsoft Store<ept id="p5">]</ept><bpt id="p6">(media/2ac602b5a7855d312f3e7d924732acca.png "</bpt>Microsoft Store<ept id="p6">")</ept> aus.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="111">
-          <source>Search for "<ph id="ph1">[!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]</ph>".</source><target logoport:matchpercent="101" state="translated" state-qualifier="id-match">Suchen Sie nach „<ph id="ph1">[!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]</ph>“.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="112">
-          <source>Download and install the <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> app.</source><target logoport:matchpercent="101" state="translated" state-qualifier="id-match">Laden Sie die <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph>-App herunter, und installieren Sie sie.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="113">
-          <source>Start the app, and then sign in to <ph id="ph1">[!include[pn-teams](../includes/pn-teams.md)]</ph> with your <ph id="ph2">[!include[pn-azure](../includes/pn-azure.md)]</ph> AD credentials.</source><target logoport:matchpercent="101" state="translated" state-qualifier="id-match">Starten Sie die App, und melden Sie sich dann mit Ihren <ph id="ph2">[!include[pn-azure](../includes/pn-azure.md)]</ph> AD-Anmeldeinformationen bei <ph id="ph1">[!include[pn-teams](../includes/pn-teams.md)]</ph> an.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="114">
-          <source>If you don't already have a <ph id="ph1">[!include[pn-teams](../includes/pn-teams.md)]</ph> account and an <ph id="ph2">[!include[pn-azure](../includes/pn-azure.md)]</ph> AD account, the app will prompt you to create free accounts.</source><target logoport:matchpercent="101" state="translated" state-qualifier="id-match">Wenn Sie noch kein <ph id="ph1">[!include[pn-teams](../includes/pn-teams.md)]</ph>- und <ph id="ph2">[!include[pn-azure](../includes/pn-azure.md)]</ph> AD-Konto haben, fordert die App Sie auf, kostenlose Konten zu erstellen.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="115">
-          <source>Or you can <bpt id="p1">[</bpt>go to this website to sign up for your free Teams and Azure AD accounts<ept id="p1">](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&amp;lm=deeplink&amp;lmsrc=freePageWeb&amp;cmpid=FreemiumSignUpHeader)</ept>.</source><target logoport:matchpercent="101" state="translated" state-qualifier="id-match">Oder Sie können <bpt id="p1">[</bpt>zu dieser Website wechseln, um sich in Ihren kostenlosen Teams- und Azure AD-Konten anzumelden<ept id="p1">](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&amp;lm=deeplink&amp;lmsrc=freePageWeb&amp;cmpid=FreemiumSignUpHeader)</ept>.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="116">
-          <source>See also</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Siehe auch</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="117">
-          <source><bpt id="p1">[</bpt>Terms and conditions for free trial<ept id="p1">](../legal/remote-assist-license-terms-free-trial.md)</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">[</bpt>Nutzungsbedingungen für kostenlose Testversion<ept id="p1">](../legal/remote-assist-license-terms-free-trial.md)</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="118">
-          <source><bpt id="p1">[</bpt>Buy and deploy Remote Assist<ept id="p1">](buy-and-deploy-remote-assist.md)</ept></source>
-        <target logoport:matchpercent="100" state="translated" state-qualifier="leveraged-inherited"><bpt id="p1">[</bpt>Remote Assist kaufen und bereitstellen<ept id="p1">](buy-and-deploy-remote-assist.md)</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="119">
-          <source><bpt id="p1">[</bpt>Overview of Remote Assist<ept id="p1">](index.md)</ept></source><target logoport:matchpercent="101" state="translated" state-qualifier="id-match"><bpt id="p1">[</bpt>Überblick über Remote Assist<ept id="p1">](index.md)</ept></target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="120">
-          <source><bpt id="p1">[</bpt>Remote Assist user guide<ept id="p1">](user-guide.md)</ept></source><target logoport:matchpercent="101" state="translated" state-qualifier="id-match"><bpt id="p1">[</bpt>Remote Assist-Benutzerhandbuch<ept id="p1">](user-guide.md)</ept></target>
-        </trans-unit>
-      </group>
-    </body>
-  </file>
-</xliff>
+---
+author: bencorn
+description: Testen Sie Dynamics 365 Remote Assist kostenlos bis zu 90 Tage.
+ms.author: bencorn
+ms.date: 6/04/2019
+ms.service: crm-online
+ms.topic: article
+title: Testen Sie Dynamics 365 Remote Assist kostenlos bis zu 90 Tage.
+ms.reviewer: v-brycho
+ms.openlocfilehash: b4b87ae696b8355647ad94cae7b35c9bb0116a47
+ms.sourcegitcommit: 80c2a9dc71cab3914d3a96d37904bd1e16e4b450
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "1617249"
+---
+# <a name="try-dynamics-365-remote-assist-for-free"></a><span data-ttu-id="a2634-103">Testen Sie Dynamics 365 Remote Assist kostenlos</span><span class="sxs-lookup"><span data-stu-id="a2634-103">Try Dynamics 365 Remote Assist for free</span></span>
+
+<span data-ttu-id="a2634-104">Sie können [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] bis zu 90 Tage lang kostenlos ausprobieren.</span><span class="sxs-lookup"><span data-stu-id="a2634-104">You can try [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] for free for up to 90 days.</span></span> <span data-ttu-id="a2634-105">Eine kostenlose 90-Tage-Testphase in Anspruch zu nehmen, ist ganz einfach.</span><span class="sxs-lookup"><span data-stu-id="a2634-105">Starting a free 90-day trial is nearly effortless.</span></span> <span data-ttu-id="a2634-106">Installieren Sie einfach die [!include[pn-remote-assist](../includes/pn-remote-assist.md)]-App aus dem [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, und melden Sie sich dann mit Ihren [!include[pn-azure](../includes/pn-azure.md)] Active Directory([!include[pn-azure](../includes/pn-azure.md)]AD)-Zugangsdaten bei [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] an.</span><span class="sxs-lookup"><span data-stu-id="a2634-106">Just install the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, and then sign in to [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] using your [!include[pn-azure](../includes/pn-azure.md)] Active Directory ([!include[pn-azure](../includes/pn-azure.md)] AD) credentials.</span></span> <span data-ttu-id="a2634-107">Wenn Sie noch kein [!include[pn-teams](../includes/pn-teams.md)]-Konto und [!include[pn-azure](../includes/pn-azure.md)] AD-Konto haben, unterstützt Sie die App bei der kostenlosen Einrichtung.</span><span class="sxs-lookup"><span data-stu-id="a2634-107">If you don't already have a [!include[pn-teams](../includes/pn-teams.md)] account and an [!include[pn-azure](../includes/pn-azure.md)] AD account, the app helps you set them up for free.</span></span>
+
+<span data-ttu-id="a2634-108">Nachdem Sie sich angemeldet haben, können Sie ohne Einschränkungen auf alle Funktionen der App zugreifen.</span><span class="sxs-lookup"><span data-stu-id="a2634-108">After you're signed in, you can access any and all features and capabilities in the app without any restrictions.</span></span> 
+
+## <a name="install-remote-assist-and-try-it-out-for-free"></a><span data-ttu-id="a2634-109">Remote Assist installieren und kostenlos testen</span><span class="sxs-lookup"><span data-stu-id="a2634-109">Install Remote Assist and try it out for free</span></span>
+
+1. <span data-ttu-id="a2634-110">Wählen Sie in Ihrem [!include[pn-hololens](../includes/pn-hololens.md)] die Option **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store") aus.</span><span class="sxs-lookup"><span data-stu-id="a2634-110">On your [!include[pn-hololens](../includes/pn-hololens.md)], go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store").</span></span>
+
+2. <span data-ttu-id="a2634-111">Suchen Sie nach „[!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]“.</span><span class="sxs-lookup"><span data-stu-id="a2634-111">Search for "[!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]".</span></span>
+
+3. <span data-ttu-id="a2634-112">Laden Sie die [!include[pn-remote-assist](../includes/pn-remote-assist.md)]-App herunter, und installieren Sie sie.</span><span class="sxs-lookup"><span data-stu-id="a2634-112">Download and install the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] app.</span></span>
+
+4. <span data-ttu-id="a2634-113">Starten Sie die App, und melden Sie sich dann mit Ihren [!include[pn-azure](../includes/pn-azure.md)] AD-Anmeldeinformationen bei [!include[pn-teams](../includes/pn-teams.md)] an.</span><span class="sxs-lookup"><span data-stu-id="a2634-113">Start the app, and then sign in to [!include[pn-teams](../includes/pn-teams.md)] with your [!include[pn-azure](../includes/pn-azure.md)] AD credentials.</span></span> <span data-ttu-id="a2634-114">Wenn Sie noch kein [!include[pn-teams](../includes/pn-teams.md)]- und [!include[pn-azure](../includes/pn-azure.md)] AD-Konto haben, fordert die App Sie auf, kostenlose Konten zu erstellen.</span><span class="sxs-lookup"><span data-stu-id="a2634-114">If you don't already have a [!include[pn-teams](../includes/pn-teams.md)] account and an [!include[pn-azure](../includes/pn-azure.md)] AD account, the app will prompt you to create free accounts.</span></span> <span data-ttu-id="a2634-115">Oder Sie können [zu dieser Website wechseln, um sich in Ihren kostenlosen Teams- und Azure AD-Konten anzumelden](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader).</span><span class="sxs-lookup"><span data-stu-id="a2634-115">Or you can [go to this website to sign up for your free Teams and Azure AD accounts](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader).</span></span> 
+
+### <a name="see-also"></a><span data-ttu-id="a2634-116">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="a2634-116">See also</span></span>
+
+[<span data-ttu-id="a2634-117">Nutzungsbedingungen für kostenlose Testversion</span><span class="sxs-lookup"><span data-stu-id="a2634-117">Terms and conditions for free trial</span></span>](../legal/remote-assist-license-terms-free-trial.md)<br>
+[<span data-ttu-id="a2634-118">Remote Assist kaufen und bereitstellen</span><span class="sxs-lookup"><span data-stu-id="a2634-118">Buy and deploy Remote Assist</span></span>](buy-and-deploy-remote-assist.md)<br>
+[<span data-ttu-id="a2634-119">Überblick über Remote Assist</span><span class="sxs-lookup"><span data-stu-id="a2634-119">Overview of Remote Assist</span></span>](index.md)<br>
+[<span data-ttu-id="a2634-120">Remote Assist-Benutzerhandbuch</span><span class="sxs-lookup"><span data-stu-id="a2634-120">Remote Assist user guide</span></span>](user-guide.md)

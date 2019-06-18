@@ -1,255 +1,137 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff xmlns:logoport="urn:logoport:xliffeditor:xliff-extras:1.0" xmlns:tilt="urn:logoport:xliffeditor:tilt-non-translatables:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en-US" original="faq.md" target-language="de-DE">
-    <header>
-      <tool tool-company="Microsoft" tool-version="1.0-7889195" tool-name="mdxliff" tool-id="mdxliff"/>
-      <xliffext:skl_file_name>faq.6b583f.b096d85f0264294c3a7d6bc25a296592992d049a.skl</xliffext:skl_file_name>
-      <xliffext:version>1.2</xliffext:version>
-      <xliffext:ms.openlocfilehash>b096d85f0264294c3a7d6bc25a296592992d049a</xliffext:ms.openlocfilehash>
-      <xliffext:ms.sourcegitcommit>a9ae3e613938a7c53b2de2ce787fae6a3499c9ae</xliffext:ms.sourcegitcommit>
-      <xliffext:ms.lasthandoff>05/21/2019</xliffext:ms.lasthandoff>
-      <xliffext:ms.openlocfilepath>mr-docs\remote-assist\faq.md</xliffext:ms.openlocfilepath>
-    </header>
-    <body>
-      <group extype="content" id="content">
-        <trans-unit xml:space="preserve" translate="yes" id="101" restype="x-metadata">
-          <source>Answers to common questions about using Microsoft Dynamics 365 Remote Assist.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Antworten auf häufige Fragen zur Verwendung von Microsoft Dynamics 365 Remote Assist.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="102" restype="x-metadata">
-          <source>Dynamics 365 Remote Assist FAQ</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Dynamics 365 Remote Assist – Häufig gestellte Fragen</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="103">
-          <source>Dynamics 365 Remote Assist FAQ</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Dynamics 365 Remote Assist – Häufig gestellte Fragen</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="104">
-          <source>Here are answers to common questions about using <ph id="ph1">[!include[cc-microsoft](../includes/cc-microsoft.md)]</ph> <ph id="ph2">[!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]</ph>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Hier sind Antworten auf häufige Fragen zur Verwendung von <ph id="ph1">[!include[cc-microsoft](../includes/cc-microsoft.md)]</ph> <ph id="ph2">[!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]</ph>.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="105">
-          <source>For additional information, see <bpt id="p1">[</bpt>Get help with HoloLens<ept id="p1">](https://support.microsoft.com/products/hololens)</ept>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Weitere Informationen finden Sie unter <bpt id="p1">[</bpt>Hilfe zu HoloLens<ept id="p1">](https://support.microsoft.com/products/hololens)</ept>.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="106">
-          <source>If you’re an IT admin and you want to deploy <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> to devices running the <ph id="ph2">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> Commercial Suite, see <bpt id="p1">[</bpt>Buy and deploy Remote Assist<ept id="p1">](buy-and-deploy-remote-assist.md)</ept>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wenn Sie ein IT-Administrator sind und <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> auf Geräten bereitstellen möchten, auf denen die <ph id="ph2">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> Commercial Suite ausgeführt wird, lesen Sie <bpt id="p1">[</bpt>Remote Assist kaufen und bereitstellen<ept id="p1">](buy-and-deploy-remote-assist.md)</ept>.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="107">
-          <source>Can I try the app before buying it?</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Kann ich die App testen, bevor ich sie kaufe?</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="108">
-          <source>Yes, <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> is available as a free 90-day trial.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Ja, <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> ist als 90-Tage-Testversion verfügbar.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="109">
-          <source>For more information, see <bpt id="p1">[</bpt>Try Remote Assist for free<ept id="p1">](try-remote-assist-free.md)</ept>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Weitere Informationen finden Sie unter <bpt id="p1">[</bpt>Remote Assist kostenlos testen<ept id="p1">](try-remote-assist-free.md)</ept>.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="110">
-          <source>Note that the 90-day free trial is only available for users who haven't already purchased a subscription.</source><target logoport:matchpercent="100" state="translated" state-qualifier="exact-match">Beachten Sie, dass die kostenlose 90-Tage-Testversion nur für Benutzer erhältlich ist, die noch kein Abonnement haben.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="111">
-          <source>What are the technical requirements for installing Remote Assist?</source><target logoport:matchpercent="100" state="translated" state-qualifier="exact-match">Was sind die technischen Anforderungen für die Installation von Remote Assist?</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="112">
-          <source>To use <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph>, you’ll need:</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Zur Verwendung von <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> ist Folgendes erforderlich:</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="113">
-          <source><bpt id="p1">[</bpt>A subscription to Dynamics 365 Remote Assist.<ept id="p1">](../licensing/buy-and-deploy.md)</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">[</bpt>Ein Abonnement von Dynamics 365 Remote Assist.<ept id="p1">](../licensing/buy-and-deploy.md)</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="114">
-          <source>A <bpt id="p1">[</bpt>HoloLens running the Windows 10 April 2018 Update<ept id="p1">](https://support.microsoft.com/en-us/help/12643)</ept>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Ein <bpt id="p1">[</bpt>HoloLens auf dem das Windows 10 April 2018 Update<ept id="p1">](https://support.microsoft.com/en-us/help/12643)</ept> ausgeführt wird.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="115">
-          <source>To make a video call, you'll need a contact using the latest version of <bpt id="p1">[</bpt>Microsoft Teams<ept id="p1">](https://products.office.com/microsoft-teams/group-chat-software)</ept> on a PC running Windows 10 or a mobile device running <ph id="ph1">[!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)]</ph> Mobile.<ph id="ph2"> [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)]</ph></source><target logoport:matchpercent="98" state="translated" state-qualifier="fuzzy-match">Um einen Videoanruf vorzunehmen, benötigen Sie einen Kontakt, der die aktuelle Version von <bpt id="p1">[</bpt>Microsoft Teams<ept id="p1">](https://products.office.com/microsoft-teams/group-chat-software)</ept> auf einem PC mit Windows 10 oder einem mobilen Gerät mit <ph id="ph1">[!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)]</ph> Mobile verwendet.<ph id="ph2"> [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)]</ph></target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="116">
-          <source>is <bpt id="p1">[</bpt>available as a free download<ept id="p1">](https://teams.microsoft.com/downloads)</ept>.</source><target logoport:matchpercent="0" state="translated">kann <bpt id="p1">[</bpt>kostenlos heruntergeladen werden<ept id="p1">](https://teams.microsoft.com/downloads)</ept>.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="117">
-          <source>Do I need a subscription to Microsoft Teams or Office 365?</source><target logoport:matchpercent="100" state="translated" state-qualifier="exact-match">Benötige ich ein Abonnement von Microsoft Teams oder Office 365?</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="118">
-          <source>A Teams subscription is included in the <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> subscription for individuals using a <ph id="ph2">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> license on <ph id="ph3">[!include[pn-hololens](../includes/pn-hololens.md)]</ph>.</source><target logoport:matchpercent="69" state="translated" state-qualifier="fuzzy-match">Im Abonnement von <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> für Einzelpersonen, die eine <ph id="ph2">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph>-Lizenz auf <ph id="ph3">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> verwenden, ist ein Teams-Abonnement enthalten.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="119">
-          <source>A <ph id="ph1">[!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)]</ph> license is also required for individuals (experts) who communicate with a <ph id="ph2">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> user on <ph id="ph3">[!include[pn-hololens](../includes/pn-hololens.md)]</ph>.</source><target logoport:matchpercent="0" state="translated">Für Einzelpersonen (Experten), die mit einem <ph id="ph2">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph>-Benutzer von <ph id="ph3">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> kommunizieren, ist außerdem eine <ph id="ph1">[!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)]</ph>-Lizenz erforderlich.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="120">
-          <source><ph id="ph1">[!include[pn-teams](../includes/pn-teams.md)]</ph> may be available <bpt id="p1">[</bpt>as a free download<ept id="p1">](https://teams.microsoft.com/downloads)</ept> for these users.</source><target logoport:matchpercent="87" state="translated" state-qualifier="fuzzy-match"><ph id="ph1">[!include[pn-teams](../includes/pn-teams.md)]</ph> steht diesen Benutzern eventuell <bpt id="p1">[</bpt>als kostenloser Download<ept id="p1">](https://teams.microsoft.com/downloads)</ept> zur Verfügung.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="121">
-          <source>How often is Remote Assist updated?</source><target logoport:matchpercent="100" state="translated" state-qualifier="exact-match">Wie häufig wird Remote Assist aktualisiert?</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="122">
-          <source><ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> follows the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April).</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> entspricht der Modern Lifecyle-Richtlinie mit regelmäßigen Dienstupdates und größeren Updates alle 6 Monate (Oktober/April).</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="123">
-          <source>How can I tell what version I'm using?</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wie finde ich heraus, welche Version ich verwende?</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="124">
-          <source>Go to <bpt id="p1">**</bpt>Settings<ept id="p1">**</ept>, and then find the version number in the <bpt id="p2">**</bpt>About<ept id="p2">**</ept> section.</source><target logoport:matchpercent="100" state="translated" state-qualifier="exact-match">Rufen Sie <bpt id="p1">**</bpt>Einstellungen<ept id="p1">**</ept> auf, und suchen Sie unter <bpt id="p2">**</bpt>Info<ept id="p2">**</ept> die Versionsnummer.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="125">
-          <source>What languages is Remote Assist available in?</source><target logoport:matchpercent="100" state="translated" state-qualifier="exact-match">In welchen Sprachen ist Remote Assist erhältlich?</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="126">
-          <source>At this time, <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> is available in English and Japanese.</source><target logoport:matchpercent="70" state="translated" state-qualifier="leveraged-mt">Derzeit gibt es <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> auf Englisch und Japanisch.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="127">
-          <source>Where is Remote Assist available?</source><target logoport:matchpercent="100" state="translated" state-qualifier="exact-match">Wo ist Remote Assist erhältlich?</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="128">
-          <source><ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph>, which requires <ph id="ph2">[!include[cc-microsoft](../includes/cc-microsoft.md)]</ph> <ph id="ph3">[!include[pn-hololens](../includes/pn-hololens.md)]</ph>, is available worldwide.</source><target logoport:matchpercent="100" state="translated" state-qualifier="exact-match"><ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph>, das <ph id="ph2">[!include[cc-microsoft](../includes/cc-microsoft.md)]</ph> <ph id="ph3">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> erfordert, ist weltweit verfügbar.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="129">
-          <source><ph id="ph1">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> devices are available in the following markets (English only):</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><ph id="ph1">[!include[pn-hololens](../includes/pn-hololens.md)]</ph>-Geräte sind für die folgenden Märkte verfügbar (nur auf Englisch):</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="130">
-          <source>Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom, United States</source><target logoport:matchpercent="100" state="translated" state-qualifier="exact-match">Australien, Belgien, Bulgarien, China, Kanada, Kroatien, Dänemark, Deutschland, Estland, Finnland, Frankreich, Griechenland, Hong Kong, Island, Irland, Italien, Japan, Lettland, Liechtenstein, Litauen, Niederlande, Neuseeland, Norwegen, Österreich, Polen, Portugal, Rumänien, Singapur, Slowakei, Slowenien, Spanien, Schweden, Schweiz, Tschechische Republik, Türkei, Ungarn, Vereinigtes Königreich, Vereinigte Staaten, Zypern</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="131">
-          <source>Why am I not getting incoming call notifications?</source><target logoport:matchpercent="100" state="translated" state-qualifier="exact-match">Warum werde ich nicht über eingehende Anrufe benachrichtigt?</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="132">
-          <source>This can happen if you’re signed in to <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> with a different account than the one you used to sign in to your <ph id="ph2">[!include[pn-hololens](../includes/pn-hololens.md)]</ph>.</source><target logoport:matchpercent="100" state="translated" state-qualifier="exact-match">Dies kann beispielsweise der Fall sein, wenn Sie sich bei <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> mit einem anderen Konto angemeldet haben als dem, das Sie für die Anmeldung bei Ihrem <ph id="ph2">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> verwendet haben.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="133">
-          <source>Make sure you’re signed in to both the app and the device with the same account.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Achten Sie darauf, dass Sie sich bei der App und dem Gerät mit demselben Konto anmelden.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="134">
-          <source>I see a message saying I have no internet connection.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">In einer Meldung wird angegeben, dass kein Zugang zum Internet möglich ist.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="135">
-          <source>To use <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph>, you need a Wi-Fi connection.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Zum Verwenden von <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> benötigen Sie eine WLAN-Verbindung.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="136">
-          <source>Make sure your <ph id="ph1">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> is <bpt id="p1">[</bpt>connected to Wi-Fi<ept id="p1">](https://support.microsoft.com/en-us/help/12629)</ept>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Sorgen Sie dafür, dass Ihr <ph id="ph1">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> <bpt id="p1">[</bpt>mit einem WLAN verbunden ist<ept id="p1">](https://support.microsoft.com/en-us/help/12629)</ept>.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="137">
-          <source>Remote Assist is frozen or unresponsive.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Remote Assist ist gesperrt oder reagiert nicht.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="138">
-          <source>Try closing and reopening <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Schließen Sie <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> und öffnen Sie es neu.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="139">
-          <source>If you’re still having problems, <bpt id="p1">[</bpt>restart your HoloLens<ept id="p1">](https://support.microsoft.com/en-us/help/12642)</ept>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wenn es weiter Probleme gibt, <bpt id="p1">[</bpt>starten Sie HoloLens<ept id="p1">](https://support.microsoft.com/en-us/help/12642)</ept> neu.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="140">
-          <source>Remote Assist isn't showing my contacts.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Remote Assist zeigt meine Kontakte nicht an.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="141">
-          <source>If you don’t see the contacts you expect, try the following:</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wenn Sie die erwarteten Kontakte nicht sehen, versuchen Sie Folgendes:</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="142">
-          <source>Make sure you’ve signed in to <ph id="ph1">[!include[cc-microsoft](../includes/cc-microsoft.md)]</ph> <ph id="ph2">[!include[pn-teams](../includes/pn-teams.md)]</ph> at least once with the account you’re using on your <ph id="ph3">[!include[pn-hololens](../includes/pn-hololens.md)]</ph>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Sie müssen sich mindestens einmal bei <ph id="ph1">[!include[cc-microsoft](../includes/cc-microsoft.md)]</ph> <ph id="ph2">[!include[pn-teams](../includes/pn-teams.md)]</ph> mit dem Konto angemeldet haben, das Sie in Ihrem <ph id="ph3">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> verwenden.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="143">
-          <source>Close and reopen <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Schließen Sie <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> und öffnen Sie es neu.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="144">
-          <source><bpt id="p1">[</bpt>Restart your HoloLens<ept id="p1">](https://support.microsoft.com/en-us/help/12642)</ept>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">[</bpt>Starten Sie Ihr HoloLens<ept id="p1">](https://support.microsoft.com/en-us/help/12642)</ept> neu.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="145">
-          <source>The Mixed Reality toolbar doesn’t appear on the PC Teams client during a Remote Assist call.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Die Mixed Reality-Symbolleiste wird während eines Remote Assist-Anrufs nicht auf dem PC Teams-Client angezeigt.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="146">
-          <source>This might happen if <ph id="ph1">[!include[pn-teams](../includes/pn-teams.md)]</ph> has downloaded a new version of the client in the background but is still running the older version of the app.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Dies kann passieren, wenn <ph id="ph1">[!include[pn-teams](../includes/pn-teams.md)]</ph> eine neue Version des Client im Hintergrund heruntergeladen hat, aber weiterhin die ältere Version der App verwendet.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="147">
-          <source>Restarting your PC will usually fix this issue.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Durch einen Neustart des PCs wird dieses Problem normalerweise behoben.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="148">
-          <source>Why does audio sometimes cut out even in quiet environments?</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Warum wird der Ton teilweise auch in ruhigen Umgebungen abgeschaltet?</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="149">
-          <source>If <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> is used in a loud environment, use headphones on both ends for better communication.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wenn <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> in einer lauten Umgebung verwendet wird, sollten an beiden Enden Kopfhörer verwendet werden, um die Kommunikation zu verbessern.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="150">
-          <source>Using headphones for both users prevents any echo filtering from proactively turning on noise cancellation, which turns off audio.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wenn Kopfhörer für beide Benutzer verwendet werden, kann Echofilterung aktiv Geräuschunterdrückung aktiviert, wodurch der Ton abgeschaltet wird.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="151">
-          <source>Can I use Remote Assist to place a call between two separate tenants?</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Kann ich mit Remote Assist einen Anruf zwischen zwei separaten Mandanten vornehmen?</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="152">
-          <source>Yes, but only if the expert is calling as a guest on the other user’s tenant.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Ja, aber nur, wenn der Experte als Gast vom Mandanten des anderen Benutzers aus anruft.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="153">
-          <source>Currently, <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> doesn’t support two users calling each other even if two tenants are joined by federation.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Derzeit bietet <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> keine Unterstützung für zwei Benutzer, die sich gegenseitig anrufen, auch wenn zwei Mandanten verbunden sind.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="154">
-          <source>Does Microsoft Teams include the same Remote Assist features on all platforms and devices?</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Enthält Microsoft Teams auf allen Plattformen und Geräten dieselben Remote Assist-Funktionen?</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="155">
-          <source>No.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Nein.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="156">
-          <source>Ink, arrows, and adding files are only available on <ph id="ph1">[!include[pn-teams](../includes/pn-teams.md)]</ph> for PC.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Freihand, Pfeile und Hinzufügen von Dateien ist nur auf <ph id="ph1">[!include[pn-teams](../includes/pn-teams.md)]</ph> für PC verfügbar.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="157">
-          <source>I signed in to my HoloLens, but I still can't sign in to Remote Assist.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Ich habe mich bei meinem HoloLens angemeldet, kann mich aber dennoch nicht bei Remote Assist anmelden.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="158">
-          <source>If you’re having trouble signing in to <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph>, try the following:</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wenn Sie Schwierigkeiten haben, sich bei <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> anzumelden, versuchen Sie Folgendes:</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="159">
-          <source>Make sure you’re using a work or school account, not a <ph id="ph1">[!include[cc-microsoft](../includes/cc-microsoft.md)]</ph> account, to sign in to <ph id="ph2">[!include[pn-hololens](../includes/pn-hololens.md)]</ph>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Verwenden Sie unbedingt ein Geschäfts-, Schul- oder Unikonto, kein <ph id="ph1">[!include[cc-microsoft](../includes/cc-microsoft.md)]</ph>-Konto für die Anmeldung bei <ph id="ph2">[!include[pn-hololens](../includes/pn-hololens.md)]</ph>.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="160">
-          <source>Make sure that the work or school account you’re using has a valid <bpt id="p1">[</bpt>Office 365 Business<ept id="p1">](https://products.office.com/en-us/business/office)</ept> Premium or Essentials subscription with <bpt id="p2">[</bpt>Microsoft Teams<ept id="p2">](https://products.office.com/en-us/microsoft-teams/group-chat-software)</ept> enabled.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Stellen Sie sicher, dass das Arbeits- oder Schulkonto, das Sie verwenden, über ein gültiges Abonnement für <bpt id="p1">[</bpt>Office 365 Business<ept id="p1">](https://products.office.com/en-us/business/office)</ept> Premium oder Essentials mit aktiviertem <bpt id="p2">[</bpt>Microsoft Teams<ept id="p2">](https://products.office.com/en-us/microsoft-teams/group-chat-software)</ept> verfügt.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="161">
-          <source>Make sure your <ph id="ph1">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> is connected to the internet.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Sorgen Sie dafür, dass Ihr <ph id="ph1">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> mit dem Internet verbunden ist.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="162">
-          <source>Check with your administrator to make sure your device and network are set up to work with <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Fragen Sie bei Ihrem Administrator nach, ob Ihr Gerät und Netzwerk für die Arbeit mit <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> eingerichtet sind.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="163">
-          <source>How do I set up Dynamics 365 for Field Service to work with Remote Assist?</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wie richte ich Dynamics 365 for Field Service für die Funktion mit Remote Assist ein?</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="164">
-          <source>To learn how to set up <ph id="ph1">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> integration with <ph id="ph2">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> so that a first-line worker can call an expert in the context of a <ph id="ph3">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> work order, see <bpt id="p1">[</bpt>Troubleshoot Field Service integration with Remote Assist<ept id="p1">](troubleshoot-field-service.md)</ept>.</source><target logoport:matchpercent="100" state="translated" state-qualifier="exact-match">Informationen zum Einrichten der <ph id="ph1">[!include[pn-field-service](../includes/pn-field-service.md)]</ph>-Integration mit <ph id="ph2">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph>, sodass ein Mitarbeiter mit direktem Kundenkontakt einen Experten zu einem <ph id="ph3">[!include[pn-field-service](../includes/pn-field-service.md)]</ph>-Arbeitsauftrag anrufen kann, finden Sie unter <bpt id="p1">[</bpt>Problembehandlung für die Field Service-Integration mit Remote Assist<ept id="p1">](troubleshoot-field-service.md)</ept>.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="165">
-          <source>Is group calling available in Remote Assist?</source><target logoport:matchpercent="100" state="translated" state-qualifier="exact-match">Sind Gruppenanrufe in Remote Assist möglich?</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="166">
-          <source>Yes, group calling is available starting in the April release of <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph>.</source><target logoport:matchpercent="84" state="translated" state-qualifier="fuzzy-match">Ja, Gruppenanrufe sind seit der Aprilversion von <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> möglich.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="167">
-          <source>Up to 50 people can be on the same video call.</source><target logoport:matchpercent="100" state="translated" state-qualifier="exact-match">An einem Videoanruf können bis zu 50 Personen teilnehmen.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="168">
-          <source>What file formats does the Insert file feature support?</source><target logoport:matchpercent="100" state="translated" state-qualifier="exact-match">Welche Dateiformate unterstützt die Funktion zum Einfügen von Dateien?</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="169">
-          <source>The Insert file feature supports most image formats (JPG, GIF, PNG) and PDF files.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Die Funktion zum Dateieinfügen unterstützt die meisten Bildformate (JPG, GIF, PNG) und PDF-Dateien.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="170">
-          <source>Can I share files from SharePoint on Remote Assist?</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Kann ich Dateien von SharePoint auf Remote Assist freigeben?</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="171">
-          <source>No, you can only share local files and files from <ph id="ph1">[!include[pn-onedrive](../includes/pn-onedrive.md)]</ph>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Nein, Sie können nur lokale Dateien und Dateien aus <ph id="ph1">[!include[pn-onedrive](../includes/pn-onedrive.md)]</ph> freigeben.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="172">
-          <source>Still need help?</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Brauchen Sie noch Hilfe?</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="173">
-          <source>Try our <bpt id="p1">[</bpt>user forums<ept id="p1">](https://community.dynamics.com/365/remoteassist)</ept>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Sehen Sie sich auch unsere <bpt id="p1">[</bpt>Benutzerforen<ept id="p1">](https://community.dynamics.com/365/remoteassist)</ept> an.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="174">
-          <source>See also</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Siehe auch</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="175">
-          <source><bpt id="p1">[</bpt>Overview of Remote Assist<ept id="p1">](index.md)</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">[</bpt>Überblick über Remote Assist<ept id="p1">](index.md)</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="176">
-          <source><bpt id="p1">[</bpt>Requirements<ept id="p1">](requirements.md)</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">[</bpt>Anforderungen<ept id="p1">](requirements.md)</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="177">
-          <source><bpt id="p1">[</bpt>User guide<ept id="p1">](user-guide.md)</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">[</bpt>Benutzerhandbuch<ept id="p1">](user-guide.md)</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="178">
-          <source><bpt id="p1">[</bpt>Set up and use Microsoft Teams with Remote Assist<ept id="p1">](use-microsoft-teams-with-remote-assist.md)</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">[</bpt>Microsoft Teams mit Remote Assist einrichten und verwenden<ept id="p1">](use-microsoft-teams-with-remote-assist.md)</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="179">
-          <source><bpt id="p1">[</bpt>How-to videos<ept id="p1">](videos.md)</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">[</bpt>Anleitungsvideos<ept id="p1">](videos.md)</ept></target></trans-unit>
-      </group>
-    </body>
-  </file>
-</xliff>
+---
+author: MatthewJonPaul
+description: Antworten auf häufige Fragen zur Verwendung von Microsoft Dynamics 365 Remote Assist.
+ms.author: mapau
+ms.date: 4/26/2019
+ms.service: crm-online
+ms.topic: article
+title: Dynamics 365 Remote Assist – Häufig gestellte Fragen
+ms.reviewer: v-brycho
+ms.openlocfilehash: b096d85f0264294c3a7d6bc25a296592992d049a
+ms.sourcegitcommit: a9ae3e613938a7c53b2de2ce787fae6a3499c9ae
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "1593559"
+---
+# <a name="dynamics-365-remote-assist-faq"></a><span data-ttu-id="0a391-103">Dynamics 365 Remote Assist – Häufig gestellte Fragen</span><span class="sxs-lookup"><span data-stu-id="0a391-103">Dynamics 365 Remote Assist FAQ</span></span>
+
+<span data-ttu-id="0a391-104">Hier sind Antworten auf häufige Fragen zur Verwendung von [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)].</span><span class="sxs-lookup"><span data-stu-id="0a391-104">Here are answers to common questions about using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)].</span></span>
+
+<span data-ttu-id="0a391-105">Weitere Informationen finden Sie unter [Hilfe zu HoloLens](https://support.microsoft.com/products/hololens).</span><span class="sxs-lookup"><span data-stu-id="0a391-105">For additional information, see [Get help with HoloLens](https://support.microsoft.com/products/hololens).</span></span>
+
+<span data-ttu-id="0a391-106">Wenn Sie ein IT-Administrator sind und [!include[pn-remote-assist](../includes/pn-remote-assist.md)] auf Geräten bereitstellen möchten, auf denen die [!include[pn-hololens](../includes/pn-hololens.md)] Commercial Suite ausgeführt wird, lesen Sie [Remote Assist kaufen und bereitstellen](buy-and-deploy-remote-assist.md).</span><span class="sxs-lookup"><span data-stu-id="0a391-106">If you’re an IT admin and you want to deploy [!include[pn-remote-assist](../includes/pn-remote-assist.md)] to devices running the [!include[pn-hololens](../includes/pn-hololens.md)] Commercial Suite, see [Buy and deploy Remote Assist](buy-and-deploy-remote-assist.md).</span></span> 
+
+## <a name="can-i-try-the-app-before-buying-it"></a><span data-ttu-id="0a391-107">Kann ich die App testen, bevor ich sie kaufe?</span><span class="sxs-lookup"><span data-stu-id="0a391-107">Can I try the app before buying it?</span></span>
+
+<span data-ttu-id="0a391-108">Ja, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] ist als 90-Tage-Testversion verfügbar.</span><span class="sxs-lookup"><span data-stu-id="0a391-108">Yes, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is available as a free 90-day trial.</span></span> <span data-ttu-id="0a391-109">Weitere Informationen finden Sie unter [Remote Assist kostenlos testen](try-remote-assist-free.md).</span><span class="sxs-lookup"><span data-stu-id="0a391-109">For more information, see [Try Remote Assist for free](try-remote-assist-free.md).</span></span> <span data-ttu-id="0a391-110">Beachten Sie, dass die kostenlose 90-Tage-Testversion nur für Benutzer erhältlich ist, die noch kein Abonnement haben.</span><span class="sxs-lookup"><span data-stu-id="0a391-110">Note that the 90-day free trial is only available for users who haven't already purchased a subscription.</span></span> 
+
+## <a name="what-are-the-technical-requirements-for-installing-remote-assist"></a><span data-ttu-id="0a391-111">Was sind die technischen Anforderungen für die Installation von Remote Assist?</span><span class="sxs-lookup"><span data-stu-id="0a391-111">What are the technical requirements for installing Remote Assist?</span></span>
+
+<span data-ttu-id="0a391-112">Zur Verwendung von [!include[pn-remote-assist](../includes/pn-remote-assist.md)] ist Folgendes erforderlich:</span><span class="sxs-lookup"><span data-stu-id="0a391-112">To use [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you’ll need:</span></span>
+
+-   [<span data-ttu-id="0a391-113">Ein Abonnement von Dynamics 365 Remote Assist.</span><span class="sxs-lookup"><span data-stu-id="0a391-113">A subscription to Dynamics 365 Remote Assist.</span></span>](../licensing/buy-and-deploy.md)
+
+-   <span data-ttu-id="0a391-114">Ein [HoloLens auf dem das Windows 10 April 2018 Update](https://support.microsoft.com/en-us/help/12643) ausgeführt wird.</span><span class="sxs-lookup"><span data-stu-id="0a391-114">A [HoloLens running the Windows 10 April 2018 Update](https://support.microsoft.com/en-us/help/12643).</span></span> 
+
+-   <span data-ttu-id="0a391-115">Um einen Videoanruf vorzunehmen, benötigen Sie einen Kontakt, der die aktuelle Version von [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) auf einem PC mit Windows 10 oder einem mobilen Gerät mit [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] Mobile verwendet. [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)]</span><span class="sxs-lookup"><span data-stu-id="0a391-115">To make a video call, you'll need a contact using the latest version of [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) on a PC running Windows 10 or a mobile device running [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] Mobile. [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)]</span></span> <span data-ttu-id="0a391-116">kann [kostenlos heruntergeladen werden](https://teams.microsoft.com/downloads).</span><span class="sxs-lookup"><span data-stu-id="0a391-116">is [available as a free download](https://teams.microsoft.com/downloads).</span></span>
+
+## <a name="do-i-need-a-subscription-to-microsoft-teams-or-office-365"></a><span data-ttu-id="0a391-117">Benötige ich ein Abonnement von Microsoft Teams oder Office 365?</span><span class="sxs-lookup"><span data-stu-id="0a391-117">Do I need a subscription to Microsoft Teams or Office 365?</span></span>
+
+<span data-ttu-id="0a391-118">Im Abonnement von [!include[pn-remote-assist](../includes/pn-remote-assist.md)] für Einzelpersonen, die eine [!include[pn-remote-assist](../includes/pn-remote-assist.md)]-Lizenz auf [!include[pn-hololens](../includes/pn-hololens.md)] verwenden, ist ein Teams-Abonnement enthalten.</span><span class="sxs-lookup"><span data-stu-id="0a391-118">A Teams subscription is included in the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] subscription for individuals using a [!include[pn-remote-assist](../includes/pn-remote-assist.md)] license on [!include[pn-hololens](../includes/pn-hololens.md)].</span></span> <span data-ttu-id="0a391-119">Für Einzelpersonen (Experten), die mit einem [!include[pn-remote-assist](../includes/pn-remote-assist.md)]-Benutzer von [!include[pn-hololens](../includes/pn-hololens.md)] kommunizieren, ist außerdem eine [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)]-Lizenz erforderlich.</span><span class="sxs-lookup"><span data-stu-id="0a391-119">A [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] license is also required for individuals (experts) who communicate with a [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user on [!include[pn-hololens](../includes/pn-hololens.md)].</span></span> [!include[pn-teams](../includes/pn-teams.md)] <span data-ttu-id="0a391-120">steht diesen Benutzern eventuell [als kostenloser Download](https://teams.microsoft.com/downloads) zur Verfügung.</span><span class="sxs-lookup"><span data-stu-id="0a391-120">may be available [as a free download](https://teams.microsoft.com/downloads) for these users.</span></span> 
+
+## <a name="how-often-is-remote-assist-updated"></a><span data-ttu-id="0a391-121">Wie häufig wird Remote Assist aktualisiert?</span><span class="sxs-lookup"><span data-stu-id="0a391-121">How often is Remote Assist updated?</span></span>
+
+[!include[pn-remote-assist](../includes/pn-remote-assist.md)] <span data-ttu-id="0a391-122">entspricht der Modern Lifecyle-Richtlinie mit regelmäßigen Dienstupdates und größeren Updates alle 6 Monate (Oktober/April).</span><span class="sxs-lookup"><span data-stu-id="0a391-122">follows the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April).</span></span> 
+
+## <a name="how-can-i-tell-what-version-im-using"></a><span data-ttu-id="0a391-123">Wie finde ich heraus, welche Version ich verwende?</span><span class="sxs-lookup"><span data-stu-id="0a391-123">How can I tell what version I'm using?</span></span>
+
+<span data-ttu-id="0a391-124">Rufen Sie **Einstellungen** auf, und suchen Sie unter **Info** die Versionsnummer.</span><span class="sxs-lookup"><span data-stu-id="0a391-124">Go to **Settings**, and then find the version number in the **About** section.</span></span>
+
+## <a name="what-languages-is-remote-assist-available-in"></a><span data-ttu-id="0a391-125">In welchen Sprachen ist Remote Assist erhältlich?</span><span class="sxs-lookup"><span data-stu-id="0a391-125">What languages is Remote Assist available in?</span></span>
+
+<span data-ttu-id="0a391-126">Derzeit gibt es [!include[pn-remote-assist](../includes/pn-remote-assist.md)] auf Englisch und Japanisch.</span><span class="sxs-lookup"><span data-stu-id="0a391-126">At this time, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is available in English and Japanese.</span></span>
+
+## <a name="where-is-remote-assist-available"></a><span data-ttu-id="0a391-127">Wo ist Remote Assist erhältlich?</span><span class="sxs-lookup"><span data-stu-id="0a391-127">Where is Remote Assist available?</span></span>
+
+[!include[pn-remote-assist](../includes/pn-remote-assist.md)]<span data-ttu-id="0a391-128">, das [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] erfordert, ist weltweit verfügbar.</span><span class="sxs-lookup"><span data-stu-id="0a391-128">, which requires [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], is available worldwide.</span></span>
+
+[!include[pn-hololens](../includes/pn-hololens.md)]<span data-ttu-id="0a391-129">-Geräte sind für die folgenden Märkte verfügbar (nur auf Englisch):</span><span class="sxs-lookup"><span data-stu-id="0a391-129">devices are available in the following markets (English only):</span></span>
+
+<span data-ttu-id="0a391-130">Australien, Belgien, Bulgarien, China, Kanada, Kroatien, Dänemark, Deutschland, Estland, Finnland, Frankreich, Griechenland, Hong Kong, Island, Irland, Italien, Japan, Lettland, Liechtenstein, Litauen, Niederlande, Neuseeland, Norwegen, Österreich, Polen, Portugal, Rumänien, Singapur, Slowakei, Slowenien, Spanien, Schweden, Schweiz, Tschechische Republik, Türkei, Ungarn, Vereinigtes Königreich, Vereinigte Staaten, Zypern</span><span class="sxs-lookup"><span data-stu-id="0a391-130">Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom, United States</span></span>
+
+## <a name="why-am-i-not-getting-incoming-call-notifications"></a><span data-ttu-id="0a391-131">Warum werde ich nicht über eingehende Anrufe benachrichtigt?</span><span class="sxs-lookup"><span data-stu-id="0a391-131">Why am I not getting incoming call notifications?</span></span>
+
+<span data-ttu-id="0a391-132">Dies kann beispielsweise der Fall sein, wenn Sie sich bei [!include[pn-remote-assist](../includes/pn-remote-assist.md)] mit einem anderen Konto angemeldet haben als dem, das Sie für die Anmeldung bei Ihrem [!include[pn-hololens](../includes/pn-hololens.md)] verwendet haben.</span><span class="sxs-lookup"><span data-stu-id="0a391-132">This can happen if you’re signed in to [!include[pn-remote-assist](../includes/pn-remote-assist.md)] with a different account than the one you used to sign in to your [!include[pn-hololens](../includes/pn-hololens.md)].</span></span> <span data-ttu-id="0a391-133">Achten Sie darauf, dass Sie sich bei der App und dem Gerät mit demselben Konto anmelden.</span><span class="sxs-lookup"><span data-stu-id="0a391-133">Make sure you’re signed in to both the app and the device with the same account.</span></span> 
+
+## <a name="i-see-a-message-saying-i-have-no-internet-connection"></a><span data-ttu-id="0a391-134">In einer Meldung wird angegeben, dass kein Zugang zum Internet möglich ist.</span><span class="sxs-lookup"><span data-stu-id="0a391-134">I see a message saying I have no internet connection.</span></span>
+
+<span data-ttu-id="0a391-135">Zum Verwenden von [!include[pn-remote-assist](../includes/pn-remote-assist.md)] benötigen Sie eine WLAN-Verbindung.</span><span class="sxs-lookup"><span data-stu-id="0a391-135">To use [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you need a Wi-Fi connection.</span></span> <span data-ttu-id="0a391-136">Sorgen Sie dafür, dass Ihr [!include[pn-hololens](../includes/pn-hololens.md)] [mit einem WLAN verbunden ist](https://support.microsoft.com/en-us/help/12629).</span><span class="sxs-lookup"><span data-stu-id="0a391-136">Make sure your [!include[pn-hololens](../includes/pn-hololens.md)] is [connected to Wi-Fi](https://support.microsoft.com/en-us/help/12629).</span></span>
+
+## <a name="remote-assist-is-frozen-or-unresponsive"></a><span data-ttu-id="0a391-137">Remote Assist ist gesperrt oder reagiert nicht.</span><span class="sxs-lookup"><span data-stu-id="0a391-137">Remote Assist is frozen or unresponsive.</span></span>
+
+<span data-ttu-id="0a391-138">Schließen Sie [!include[pn-remote-assist](../includes/pn-remote-assist.md)] und öffnen Sie es neu.</span><span class="sxs-lookup"><span data-stu-id="0a391-138">Try closing and reopening [!include[pn-remote-assist](../includes/pn-remote-assist.md)].</span></span> <span data-ttu-id="0a391-139">Wenn es weiter Probleme gibt, [starten Sie HoloLens](https://support.microsoft.com/en-us/help/12642) neu.</span><span class="sxs-lookup"><span data-stu-id="0a391-139">If you’re still having problems, [restart your HoloLens](https://support.microsoft.com/en-us/help/12642).</span></span>
+
+## <a name="remote-assist-isnt-showing-my-contacts"></a><span data-ttu-id="0a391-140">Remote Assist zeigt meine Kontakte nicht an.</span><span class="sxs-lookup"><span data-stu-id="0a391-140">Remote Assist isn't showing my contacts.</span></span>
+
+<span data-ttu-id="0a391-141">Wenn Sie die erwarteten Kontakte nicht sehen, versuchen Sie Folgendes:</span><span class="sxs-lookup"><span data-stu-id="0a391-141">If you don’t see the contacts you expect, try the following:</span></span>
+
+-   <span data-ttu-id="0a391-142">Sie müssen sich mindestens einmal bei [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)] mit dem Konto angemeldet haben, das Sie in Ihrem [!include[pn-hololens](../includes/pn-hololens.md)] verwenden.</span><span class="sxs-lookup"><span data-stu-id="0a391-142">Make sure you’ve signed in to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)] at least once with the account you’re using on your [!include[pn-hololens](../includes/pn-hololens.md)].</span></span>
+
+-   <span data-ttu-id="0a391-143">Schließen Sie [!include[pn-remote-assist](../includes/pn-remote-assist.md)] und öffnen Sie es neu.</span><span class="sxs-lookup"><span data-stu-id="0a391-143">Close and reopen [!include[pn-remote-assist](../includes/pn-remote-assist.md)].</span></span>
+
+-   <span data-ttu-id="0a391-144">[Starten Sie Ihr HoloLens](https://support.microsoft.com/en-us/help/12642) neu.</span><span class="sxs-lookup"><span data-stu-id="0a391-144">[Restart your HoloLens](https://support.microsoft.com/en-us/help/12642).</span></span>
+
+## <a name="the-mixed-reality-toolbar-doesnt-appear-on-the-pc-teams-client-during-a-remote-assist-call"></a><span data-ttu-id="0a391-145">Die Mixed Reality-Symbolleiste wird während eines Remote Assist-Anrufs nicht auf dem PC Teams-Client angezeigt.</span><span class="sxs-lookup"><span data-stu-id="0a391-145">The Mixed Reality toolbar doesn’t appear on the PC Teams client during a Remote Assist call.</span></span>
+
+<span data-ttu-id="0a391-146">Dies kann passieren, wenn [!include[pn-teams](../includes/pn-teams.md)] eine neue Version des Client im Hintergrund heruntergeladen hat, aber weiterhin die ältere Version der App verwendet.</span><span class="sxs-lookup"><span data-stu-id="0a391-146">This might happen if [!include[pn-teams](../includes/pn-teams.md)] has downloaded a new version of the client in the background but is still running the older version of the app.</span></span> <span data-ttu-id="0a391-147">Durch einen Neustart des PCs wird dieses Problem normalerweise behoben.</span><span class="sxs-lookup"><span data-stu-id="0a391-147">Restarting your PC will usually fix this issue.</span></span>
+
+## <a name="why-does-audio-sometimes-cut-out-even-in-quiet-environments"></a><span data-ttu-id="0a391-148">Warum wird der Ton teilweise auch in ruhigen Umgebungen abgeschaltet?</span><span class="sxs-lookup"><span data-stu-id="0a391-148">Why does audio sometimes cut out even in quiet environments?</span></span>
+
+<span data-ttu-id="0a391-149">Wenn [!include[pn-remote-assist](../includes/pn-remote-assist.md)] in einer lauten Umgebung verwendet wird, sollten an beiden Enden Kopfhörer verwendet werden, um die Kommunikation zu verbessern.</span><span class="sxs-lookup"><span data-stu-id="0a391-149">If [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is used in a loud environment, use headphones on both ends for better communication.</span></span> <span data-ttu-id="0a391-150">Wenn Kopfhörer für beide Benutzer verwendet werden, kann Echofilterung aktiv Geräuschunterdrückung aktiviert, wodurch der Ton abgeschaltet wird.</span><span class="sxs-lookup"><span data-stu-id="0a391-150">Using headphones for both users prevents any echo filtering from proactively turning on noise cancellation, which turns off audio.</span></span>
+
+## <a name="can-i-use-remote-assist-to-place-a-call-between-two-separate-tenants"></a><span data-ttu-id="0a391-151">Kann ich mit Remote Assist einen Anruf zwischen zwei separaten Mandanten vornehmen?</span><span class="sxs-lookup"><span data-stu-id="0a391-151">Can I use Remote Assist to place a call between two separate tenants?</span></span>
+
+<span data-ttu-id="0a391-152">Ja, aber nur, wenn der Experte als Gast vom Mandanten des anderen Benutzers aus anruft.</span><span class="sxs-lookup"><span data-stu-id="0a391-152">Yes, but only if the expert is calling as a guest on the other user’s tenant.</span></span>
+<span data-ttu-id="0a391-153">Derzeit bietet [!include[pn-remote-assist](../includes/pn-remote-assist.md)] keine Unterstützung für zwei Benutzer, die sich gegenseitig anrufen, auch wenn zwei Mandanten verbunden sind.</span><span class="sxs-lookup"><span data-stu-id="0a391-153">Currently, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] doesn’t support two users calling each other even if two tenants are joined by federation.</span></span>
+
+## <a name="does-microsoft-teams-include-the-same-remote-assist-features-on-all-platforms-and-devices"></a><span data-ttu-id="0a391-154">Enthält Microsoft Teams auf allen Plattformen und Geräten dieselben Remote Assist-Funktionen?</span><span class="sxs-lookup"><span data-stu-id="0a391-154">Does Microsoft Teams include the same Remote Assist features on all platforms and devices?</span></span>
+
+<span data-ttu-id="0a391-155">Nein.</span><span class="sxs-lookup"><span data-stu-id="0a391-155">No.</span></span> <span data-ttu-id="0a391-156">Freihand, Pfeile und Hinzufügen von Dateien ist nur auf [!include[pn-teams](../includes/pn-teams.md)] für PC verfügbar.</span><span class="sxs-lookup"><span data-stu-id="0a391-156">Ink, arrows, and adding files are only available on [!include[pn-teams](../includes/pn-teams.md)] for PC.</span></span>
+
+## <a name="i-signed-in-to-my-hololens-but-i-still-cant-sign-in-to-remote-assist"></a><span data-ttu-id="0a391-157">Ich habe mich bei meinem HoloLens angemeldet, kann mich aber dennoch nicht bei Remote Assist anmelden.</span><span class="sxs-lookup"><span data-stu-id="0a391-157">I signed in to my HoloLens, but I still can't sign in to Remote Assist.</span></span>
+
+<span data-ttu-id="0a391-158">Wenn Sie Schwierigkeiten haben, sich bei [!include[pn-remote-assist](../includes/pn-remote-assist.md)] anzumelden, versuchen Sie Folgendes:</span><span class="sxs-lookup"><span data-stu-id="0a391-158">If you’re having trouble signing in to [!include[pn-remote-assist](../includes/pn-remote-assist.md)], try the following:</span></span>
+
+-   <span data-ttu-id="0a391-159">Verwenden Sie unbedingt ein Geschäfts-, Schul- oder Unikonto, kein [!include[cc-microsoft](../includes/cc-microsoft.md)]-Konto für die Anmeldung bei [!include[pn-hololens](../includes/pn-hololens.md)].</span><span class="sxs-lookup"><span data-stu-id="0a391-159">Make sure you’re using a work or school account, not a [!include[cc-microsoft](../includes/cc-microsoft.md)] account, to sign in to [!include[pn-hololens](../includes/pn-hololens.md)].</span></span>
+
+-   <span data-ttu-id="0a391-160">Stellen Sie sicher, dass das Arbeits- oder Schulkonto, das Sie verwenden, über ein gültiges Abonnement für [Office 365 Business](https://products.office.com/en-us/business/office) Premium oder Essentials mit aktiviertem [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software) verfügt.</span><span class="sxs-lookup"><span data-stu-id="0a391-160">Make sure that the work or school account you’re using has a valid [Office 365 Business](https://products.office.com/en-us/business/office) Premium or Essentials subscription with [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software) enabled.</span></span>
+
+-   <span data-ttu-id="0a391-161">Sorgen Sie dafür, dass Ihr [!include[pn-hololens](../includes/pn-hololens.md)] mit dem Internet verbunden ist.</span><span class="sxs-lookup"><span data-stu-id="0a391-161">Make sure your [!include[pn-hololens](../includes/pn-hololens.md)] is connected to the internet.</span></span>
+
+-   <span data-ttu-id="0a391-162">Fragen Sie bei Ihrem Administrator nach, ob Ihr Gerät und Netzwerk für die Arbeit mit [!include[pn-remote-assist](../includes/pn-remote-assist.md)] eingerichtet sind.</span><span class="sxs-lookup"><span data-stu-id="0a391-162">Check with your administrator to make sure your device and network are set up to work with [!include[pn-remote-assist](../includes/pn-remote-assist.md)].</span></span>
+
+## <a name="how-do-i-set-up-dynamics-365-for-field-service-to-work-with-remote-assist"></a><span data-ttu-id="0a391-163">Wie richte ich Dynamics 365 for Field Service für die Funktion mit Remote Assist ein?</span><span class="sxs-lookup"><span data-stu-id="0a391-163">How do I set up Dynamics 365 for Field Service to work with Remote Assist?</span></span>
+
+<span data-ttu-id="0a391-164">Informationen zum Einrichten der [!include[pn-field-service](../includes/pn-field-service.md)]-Integration mit [!include[pn-remote-assist](../includes/pn-remote-assist.md)], sodass ein Mitarbeiter mit direktem Kundenkontakt einen Experten zu einem [!include[pn-field-service](../includes/pn-field-service.md)]-Arbeitsauftrag anrufen kann, finden Sie unter [Problembehandlung für die Field Service-Integration mit Remote Assist](troubleshoot-field-service.md).</span><span class="sxs-lookup"><span data-stu-id="0a391-164">To learn how to set up [!include[pn-field-service](../includes/pn-field-service.md)] integration with [!include[pn-remote-assist](../includes/pn-remote-assist.md)] so that a first-line worker can call an expert in the context of a [!include[pn-field-service](../includes/pn-field-service.md)] work order, see [Troubleshoot Field Service integration with Remote Assist](troubleshoot-field-service.md).</span></span>
+
+## <a name="is-group-calling-available-in-remote-assist"></a><span data-ttu-id="0a391-165">Sind Gruppenanrufe in Remote Assist möglich?</span><span class="sxs-lookup"><span data-stu-id="0a391-165">Is group calling available in Remote Assist?</span></span>
+
+<span data-ttu-id="0a391-166">Ja, Gruppenanrufe sind seit der Aprilversion von [!include[pn-remote-assist](../includes/pn-remote-assist.md)] möglich.</span><span class="sxs-lookup"><span data-stu-id="0a391-166">Yes, group calling is available starting in the April release of [!include[pn-remote-assist](../includes/pn-remote-assist.md)].</span></span> <span data-ttu-id="0a391-167">An einem Videoanruf können bis zu 50 Personen teilnehmen.</span><span class="sxs-lookup"><span data-stu-id="0a391-167">Up to 50 people can be on the same video call.</span></span>
+
+## <a name="what-file-formats-does-the-insert-file-feature-support"></a><span data-ttu-id="0a391-168">Welche Dateiformate unterstützt die Funktion zum Einfügen von Dateien?</span><span class="sxs-lookup"><span data-stu-id="0a391-168">What file formats does the Insert file feature support?</span></span>
+
+<span data-ttu-id="0a391-169">Die Funktion zum Dateieinfügen unterstützt die meisten Bildformate (JPG, GIF, PNG) und PDF-Dateien.</span><span class="sxs-lookup"><span data-stu-id="0a391-169">The Insert file feature supports most image formats (JPG, GIF, PNG) and PDF files.</span></span>
+
+## <a name="can-i-share-files-from-sharepoint-on-remote-assist"></a><span data-ttu-id="0a391-170">Kann ich Dateien von SharePoint auf Remote Assist freigeben?</span><span class="sxs-lookup"><span data-stu-id="0a391-170">Can I share files from SharePoint on Remote Assist?</span></span>
+
+<span data-ttu-id="0a391-171">Nein, Sie können nur lokale Dateien und Dateien aus [!include[pn-onedrive](../includes/pn-onedrive.md)] freigeben.</span><span class="sxs-lookup"><span data-stu-id="0a391-171">No, you can only share local files and files from [!include[pn-onedrive](../includes/pn-onedrive.md)].</span></span>
+
+<span data-ttu-id="0a391-172">Brauchen Sie noch Hilfe?</span><span class="sxs-lookup"><span data-stu-id="0a391-172">Still need help?</span></span> <span data-ttu-id="0a391-173">Sehen Sie sich auch unsere [Benutzerforen](https://community.dynamics.com/365/remoteassist) an.</span><span class="sxs-lookup"><span data-stu-id="0a391-173">Try our [user forums](https://community.dynamics.com/365/remoteassist).</span></span> 
+
+### <a name="see-also"></a><span data-ttu-id="0a391-174">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="0a391-174">See also</span></span>
+[<span data-ttu-id="0a391-175">Überblick über Remote Assist</span><span class="sxs-lookup"><span data-stu-id="0a391-175">Overview of Remote Assist</span></span>](index.md)<br/>
+[<span data-ttu-id="0a391-176">Anforderungen</span><span class="sxs-lookup"><span data-stu-id="0a391-176">Requirements</span></span>](requirements.md)<br/>
+[<span data-ttu-id="0a391-177">Benutzerhandbuch</span><span class="sxs-lookup"><span data-stu-id="0a391-177">User guide</span></span>](user-guide.md)<br/>
+[<span data-ttu-id="0a391-178">Microsoft Teams mit Remote Assist einrichten und verwenden</span><span class="sxs-lookup"><span data-stu-id="0a391-178">Set up and use Microsoft Teams with Remote Assist</span></span>](use-microsoft-teams-with-remote-assist.md)<br/>
+[<span data-ttu-id="0a391-179">Anleitungsvideos</span><span class="sxs-lookup"><span data-stu-id="0a391-179">How-to videos</span></span>](videos.md)<br/>

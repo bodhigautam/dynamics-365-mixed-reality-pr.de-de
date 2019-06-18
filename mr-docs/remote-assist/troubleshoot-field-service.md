@@ -1,339 +1,154 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff xmlns:logoport="urn:logoport:xliffeditor:xliff-extras:1.0" xmlns:tilt="urn:logoport:xliffeditor:tilt-non-translatables:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en-US" original="troubleshoot-field-service.md" target-language="de-DE">
-    <header>
-      <tool tool-company="Microsoft" tool-version="1.0-d915bc8" tool-name="mdxliff" tool-id="mdxliff"/>
-      <xliffext:skl_file_name>troubleshoot-field-service.24f40b.71d89b161d269c5559344f021f6f5aaa1a8aa3ce.skl</xliffext:skl_file_name>
-      <xliffext:version>1.2</xliffext:version>
-      <xliffext:ms.openlocfilehash>71d89b161d269c5559344f021f6f5aaa1a8aa3ce</xliffext:ms.openlocfilehash>
-      <xliffext:ms.sourcegitcommit>80c2a9dc71cab3914d3a96d37904bd1e16e4b450</xliffext:ms.sourcegitcommit>
-      <xliffext:ms.lasthandoff>06/03/2019</xliffext:ms.lasthandoff>
-      <xliffext:ms.openlocfilepath>mr-docs\remote-assist\troubleshoot-field-service.md</xliffext:ms.openlocfilepath>
-    </header>
-    <body>
-      <group extype="content" id="content">
-        <trans-unit xml:space="preserve" translate="yes" id="101" restype="x-metadata">
-          <source>How to make sure you have the right version, views, and data to integrate Dynamics 365 for Field Service with Dynamics 365 Remote Assist</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">So können Sie prüfen, ob Sie die richtige Version, Ansichten und Daten für die Integration von Dynamics 365 for Field Service in Dynamics 365 Remote Assist haben</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="102" restype="x-metadata">
-          <source>Integrate Dynamics 365 for Field Service with Dynamics 365 Remote Assist</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Dynamics 365 for Field Service in Dynamics 365 Remote Assist integrieren</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="103">
-          <source>Troubleshoot Field Service integration with Dynamics 365 Remote Assist</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Problembehandlung für die Field Service-Integration Dynamics 365 Remote Assist</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="104">
-          <source>If your organization uses <bpt id="p1">[</bpt>Dynamics 365 for Field Service<ept id="p1">](https://dynamics.microsoft.com/en-us/field-service/overview/?&amp;OCID=AID720979_SEM_yeaT05hp&amp;lnkd=Bing_D365_Brand)</ept> to manage <ph id="ph1">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> work orders, the first-line worker using <ph id="ph2">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> can view <ph id="ph3">[!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]</ph> bookings from <ph id="ph4">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> and quickly call the expert listed in the <bpt id="p2">**</bpt>Support Contact<ept id="p2">**</ept> field when needed.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wenn Ihre Organisation <bpt id="p1">[</bpt>Dynamics 365 for Field Service<ept id="p1">](https://dynamics.microsoft.com/en-us/field-service/overview/?&amp;OCID=AID720979_SEM_yeaT05hp&amp;lnkd=Bing_D365_Brand)</ept> verwendet, um <ph id="ph1">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> Arbeitsaufträge zu verwalten, kann der Mitarbeiter mit direktem Kundenkontakt, der <ph id="ph2">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> verwendet, <ph id="ph3">[!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]</ph> Buchungen von <ph id="ph4">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> aus anzeigen und schnell die im Feld <bpt id="p2">**</bpt>Supportkontakt<ept id="p2">**</ept> aufgeführten Experten anzeigen.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="105">
-          <source>This enables first-line workers to do heads-up, hands-free calling through <ph id="ph1">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> in the context of a <ph id="ph2">[!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]</ph> booking.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Dadurch können Mitarbeiter mit direktem Kundenkontakt Freisprechanrufe über <ph id="ph1">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> im Kontext einer <ph id="ph2">[!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]</ph> Buchung durchführen.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="106">
-          <source>This topic describes:</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">In diesem Thema wird beschrieben:</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="107">
-          <source>Requirements for <ph id="ph1">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> integration</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Anforderungen für die Integration von <ph id="ph1">[!include[pn-field-service](../includes/pn-field-service.md)]</ph></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="108">
-          <source>How to make sure <ph id="ph1">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> is set up correctly</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">So sorgen Sie dafür, dass <ph id="ph1">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> korrekt eingerichtet ist</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="109">
-          <source>How to upgrade the <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> instance if you don’t have the correct <ph id="ph2">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> version</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">So aktualisieren Sie die Instanz von <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph>, wenn Sie nicht die korrekte Version von <ph id="ph2">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> haben</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="110">
-          <source>How to add data for required fields in a <ph id="ph1">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> work order and booking</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">So fügen Sie Daten für erforderliche Felder in einen <ph id="ph1">[!include[pn-field-service](../includes/pn-field-service.md)]</ph>-Arbeitsauftrag und eine Buchung ein</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="111">
-          <source>How to customize the <bpt id="p1">**</bpt><ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph><ept id="p1">**</ept> pane that appears in <ph id="ph2">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">So passen Sie den Bereich <bpt id="p1">**</bpt><ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph><ept id="p1">**</ept> an, der in <ph id="ph2">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> angezeigt wird</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="112">
-          <source>Requirements</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Anforderungen</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="113">
-          <source>Before you begin, make sure you have the following set up:</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Bevor Sie beginnen, stellen Sie sicher, dass Sie Folgendes eingerichtet haben:</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="114">
-          <source>A <ph id="ph1">[!include[cc-microsoft](../includes/cc-microsoft.md)]</ph> <ph id="ph2">[!include[pn-azure](../includes/pn-azure.md)]</ph> tenant with a <ph id="ph3">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> subscription <bpt id="p1">**</bpt>and<ept id="p1">**</ept> a <ph id="ph4">[!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]</ph> subscription.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Ein <ph id="ph1">[!include[cc-microsoft](../includes/cc-microsoft.md)]</ph> <ph id="ph2">[!include[pn-azure](../includes/pn-azure.md)]</ph> Mandant mit einem Abonnement von <ph id="ph3">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> <bpt id="p1">**</bpt>und<ept id="p1">**</ept> einem <ph id="ph4">[!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]</ph> Abonnement.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="115">
-          <source>Both are required—<ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> is not included in any <ph id="ph2">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> bundle.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Beide sind erforderlich – <ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> ist nicht in einem <ph id="ph2">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> Paket enthalten.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="116">
-          <source>The tenant can have more than one <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> instance.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Der Mandant kann mehr als eine Instanz von <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> enthalten.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="117">
-          <source><ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> has the option to select an instance from within the app.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><ph id="ph1">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> hat die Möglichkeit, eine Instanz in der App auszuwählen.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="118">
-          <source>You must have admin access to add or update the <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> tenant instance.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Sie benötigen Administratorzugriffsrechte, um die Mandantinstanz von <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> hinzuzufügen oder zu aktualisieren.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="119">
-          <source>The <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> instance must have the <ph id="ph2">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> app installed, and it must include the <bpt id="p1">**</bpt>My In Progress Bookings<ept id="p1">**</ept> view.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">In der Instanz <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> muss die App <ph id="ph2">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> installiert sein und sie muss die Ansicht <bpt id="p1">**</bpt>My In Progress Bookings<ept id="p1">**</ept> enthalten.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="120">
-          <source>To make sure this view is installed, we recommend <ph id="ph1">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> version 8.2 or later.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Um sicherzugehen, dass diese Ansicht installiert ist, empfehlen wir die <ph id="ph1">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> Version 8.2 oder später.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="121">
-          <source>This topic describes how to make sure you have the correct version and view.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">In diesem Thema wird beschrieben, wie Sie sicherstellen können, dass Sie die korrekte Version und Ansicht haben.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="122">
-          <source>The tenant must have at least two user accounts.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Der Mandant muss mindestens zwei Benutzerkonten haben.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="123">
-          <source>The user accounts must have the following licenses assigned:</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Den Benutzerkonten müssen die folgenden Lizenzen zugeordnet sein:</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="124">
-          <source><ph id="ph1">[!include[pn-office-365](../includes/pn-office-365.md)]</ph> license that includes <ph id="ph2">[!include[cc-microsoft](../includes/cc-microsoft.md)]</ph> <ph id="ph3">[!include[pn-teams](../includes/pn-teams.md)]</ph></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><ph id="ph1">[!include[pn-office-365](../includes/pn-office-365.md)]</ph> Lizenz, die <ph id="ph2">[!include[cc-microsoft](../includes/cc-microsoft.md)]</ph> <ph id="ph3">[!include[pn-teams](../includes/pn-teams.md)]</ph> enthält</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="125">
-          <source>A <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> license that includes <ph id="ph2">[!include[pn-field-service](../includes/pn-field-service.md)]</ph></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">A <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> Lizenz, die <ph id="ph2">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> enthält</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="126">
-          <source>Confirm that the <bpt id="p1">**</bpt>My In Progress Bookings<ept id="p1">**</ept> view is included</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Bestätigen Sie, dass die Ansicht <bpt id="p1">**</bpt>Meine in Bearbeitung befindlichen Buchungen<ept id="p1">**</ept> enthalten ist</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="127">
-          <source>If you have an instance but aren’t sure if the correct view is installed, follow these steps to confirm:</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wenn Sie eine Instanz haben, aber nicht sicher sein, ob die korrekte Ansicht installiert ist, führen Sie zur Bestätigung die folgenden Schritte durch:</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="128">
-          <source>Make sure you’re signed in as an admin for the <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> instance.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Stellen Sie sicher, dass Sie als Administrator für die <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph>-Instanz angemeldet sind.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="129">
-          <source>Select <bpt id="p1">**</bpt>Service<ept id="p1">**</ept><ph id="ph1"> &gt; </ph><bpt id="p2">**</bpt>Settings<ept id="p2">**</ept><ph id="ph2"> &gt; </ph><bpt id="p3">**</bpt>Customizations<ept id="p3">**</ept><ph id="ph3"> &gt; </ph><bpt id="p4">**</bpt>Customize the System<ept id="p4">**</ept>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wählen Sie <bpt id="p1">**</bpt>Service<ept id="p1">**</ept><ph id="ph1"> &gt; </ph><bpt id="p2">**</bpt>Einstellungen<ept id="p2">**</ept><ph id="ph2"> &gt; </ph><bpt id="p3">**</bpt>Anpassungen<ept id="p3">**</ept><ph id="ph3"> &gt; </ph><bpt id="p4">**</bpt>System anpassen<ept id="p4">**</ept> aus.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="130">
-          <source><bpt id="p1">![</bpt>Selecting Customizations<ept id="p1">]</ept><bpt id="p2">(media/Customizations.PNG "</bpt>Selecting Customizations<ept id="p2">")</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">![</bpt>Anpassungen auswählen<ept id="p1">]</ept><bpt id="p2">(media/Customizations.PNG "</bpt>Anpassungen auswählen<ept id="p2">")</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="131">
-          <source>In the <ph id="ph1">[!include[pn-powerapps](../includes/pn-powerapps.md)]</ph> screen, expand <bpt id="p1">**</bpt>Entities<ept id="p1">**</ept>, expand the <bpt id="p2">**</bpt>Bookable Resource Booking<ept id="p2">**</ept> entity, and then select <bpt id="p3">**</bpt>Views<ept id="p3">**</ept>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Erweitern Sie auf dem <ph id="ph1">[!include[pn-powerapps](../includes/pn-powerapps.md)]</ph> Bildschirm <bpt id="p1">**</bpt>Entitäten<ept id="p1">**</ept>, erweitern Sie die Entität <bpt id="p2">**</bpt>Buchbare Ressourcenbuchung<ept id="p2">**</ept> und wählen Sie dann <bpt id="p3">**</bpt>Ansichten<ept id="p3">**</ept> aus.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="132">
-          <source>In the <bpt id="p1">**</bpt>Views<ept id="p1">**</ept> screen, verify that the <bpt id="p2">**</bpt>My In Progress Bookings<ept id="p2">**</ept> view is listed.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Überprüfen Sie auf dem Bildschirm <bpt id="p1">**</bpt>Ansichten<ept id="p1">**</ept>, ob die Ansicht <bpt id="p2">**</bpt>Meine in Bearbeitung befindlichen Buchungen<ept id="p2">**</ept> aufgelistet ist.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="133">
-          <source><bpt id="p1">![</bpt>Bookable Resource view<ept id="p1">]</ept><bpt id="p2">(media/bookable-resource-views.PNG "</bpt>Bookable Resource view<ept id="p2">")</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">![</bpt>Ansicht „Buchbare Ressource“<ept id="p1">]</ept><bpt id="p2">(media/bookable-resource-views.PNG "</bpt>Ansicht „Buchbare Ressource“<ept id="p2">")</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="134">
-          <source>Do one of the following:</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Führen Sie einen der folgenden Schritte aus:</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="135">
-          <source>If the view is listed, go to <bpt id="p1">[</bpt>Add a work order and booking<ept id="p1">](#add-a-work-order-and-booking)</ept> later in this topic.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wenn die Ansicht aufgelistet ist, fahren Sie mit <bpt id="p1">[</bpt>Einen Arbeitsauftrag und Buchung hinzufügen<ept id="p1">](#add-a-work-order-and-booking)</ept> weiter hinten in diesem Thema fort.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="136">
-          <source>If the view is not listed, go to <bpt id="p1">[</bpt>Upgrade the Dynamics 365 instance<ept id="p1">](#upgrade-the-dynamics-365-instance)</ept>, the next procedure in this topic.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wenn die Ansicht nicht aufgeführt ist, in, <bpt id="p1">[</bpt>aktualisieren Sie die Dynamics 365 Instanz<ept id="p1">](#upgrade-the-dynamics-365-instance)</ept>, wie in der nächsten Prozedur in diesem Thema beschrieben.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="137">
-          <source>Upgrade the Dynamics 365 instance</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Die Dynamics 365-Instanz aktualisieren</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="138">
-          <source>If the <bpt id="p1">**</bpt>My In Progress Bookings<ept id="p1">**</ept> view is not listed as described in the previous procedure, you’ll need to upgrade your <ph id="ph1">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> version to 8.2 or later.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wenn die Ansicht <bpt id="p1">**</bpt>Meine in Bearbeitung befindlichen Buchungen<ept id="p1">**</ept> nicht aufgeführt ist, wie in der vorherigen Prozedur beschrieben, müssen Sie Ihre <ph id="ph1">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> Version auf mindestens 8.2 aktualisieren.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="139">
-          <source><ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> upgrades don’t happen automatically; they’re driven by customers.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> Aktualisierungen werden nicht automatisch ausgeführt; sie werden von Kunden bestimmt.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="140">
-          <source>To upgrade an instance:</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">So aktualisieren Sie eine Instanz:</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="141">
-          <source>Go to the <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> Admin Center, select the <bpt id="p1">**</bpt>Instances<ept id="p1">**</ept> tab, and then select <bpt id="p2">**</bpt>Solutions<ept id="p2">**</ept> to see which version of <ph id="ph2">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> you have.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Rufen Sie das <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> Admin Center auf, wählen Sie die Registerkarte <bpt id="p1">**</bpt>Instanzen<ept id="p1">**</ept> und dann <bpt id="p2">**</bpt>Lösungen<ept id="p2">**</ept> aus, um zu sehen, welche Version von <ph id="ph2">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> Sie haben.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="142">
-          <source><bpt id="p1">![</bpt>Admin center showing Field Service version<ept id="p1">]</ept><bpt id="p2">(media/admin-center.PNG "</bpt>Admin center showing Field Service version<ept id="p2">")</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">![</bpt>Admin Center mit der Anzeige der Field Service-Version<ept id="p1">]</ept><bpt id="p2">(media/admin-center.PNG "</bpt>Admin Center mit der Anzeige der Field Service-Version<ept id="p2">")</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="143">
-          <source>Do one of the following:</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Führen Sie einen der folgenden Schritte aus:</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="144">
-          <source>If you don’t have version 8.2 or later, an <bpt id="p1">**</bpt>Upgrade<ept id="p1">**</ept> button will appear on the right side of the screen in the <bpt id="p2">**</bpt><ph id="ph1">[!include[pn-field-service](../includes/pn-field-service.md)]</ph><ept id="p2">**</ept> box.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wenn Sie nicht die Version 8.2 oder später haben, wird die Schaltfläche <bpt id="p1">**</bpt>Upgrade<ept id="p1">**</ept> auf der rechten Seite des Bildschirms im Feld <bpt id="p2">**</bpt><ph id="ph1">[!include[pn-field-service](../includes/pn-field-service.md)]</ph><ept id="p2">**</ept> angezeigt.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="145">
-          <source>Select the <bpt id="p1">**</bpt>Upgrade<ept id="p1">**</ept> button to start the upgrade process.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wählen Sie die Schaltfläche <bpt id="p1">**</bpt>Upgrade<ept id="p1">**</ept> aus, um das Upgrade zu beginnen.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="146">
-          <source>If there’s no <bpt id="p1">**</bpt>Upgrade<ept id="p1">**</ept> button, you can obtain version 8.2 or later by <bpt id="p2">[</bpt>signing up for a trial<ept id="p2">](https://appsource.microsoft.com/en-us/product/dynamics-365/mscrm.40fd37ef-dca4-4b0d-9f41-d16703b7d070?tab=Overview)</ept> or by going to the <bpt id="p3">[</bpt>Dynamics Insider Portal<ept id="p3">](http://experience.dynamics.com/insider)</ept>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wenn keine Schaltfläche <bpt id="p1">**</bpt>Upgrade<ept id="p1">**</ept> vorhanden ist, können Sie die Version 8.2 oder später abrufen, indem Sie <bpt id="p2">[</bpt>sich für eine Testversion anmelden<ept id="p2">](https://appsource.microsoft.com/en-us/product/dynamics-365/mscrm.40fd37ef-dca4-4b0d-9f41-d16703b7d070?tab=Overview)</ept> oder das <bpt id="p3">[</bpt>Dynamics Insider Portal<ept id="p3">](http://experience.dynamics.com/insider)</ept> aufrufen.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="147">
-          <source>If the <ph id="ph1">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> installation fails, you might need to reset or create a new instance.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wenn die <ph id="ph1">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> Installation fehlschlägt, können Sie es zurücksetzen oder eine neue Instanz erstellen.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="148">
-          <source><ph id="ph1">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> installation requires specific steps and doing the steps out of order can cause the installation to fail.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Für die <ph id="ph1">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> Installation sind bestimmte Schritte erforderlich und die Installation kann fehlschlagen, wenn die Schritte in anderer Reihenfolge durchgeführt werden.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="149">
-          <source><bpt id="p1">[</bpt>Learn more about Field Service installation.<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/field-service/install-field-service)</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">[</bpt>Weitere Informationen zur Field Service-Installation.<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/field-service/install-field-service)</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="150">
-          <source>If the right version of <ph id="ph1">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> is installed and the <bpt id="p1">**</bpt>My In Progress Bookings<ept id="p1">**</ept> view is included, go to <bpt id="p2">[</bpt>Add a work order and booking<ept id="p2">](#add-a-work-order-and-booking)</ept>, the next procedure in this topic.</source><target logoport:matchpercent="98" state="translated" state-qualifier="fuzzy-match">Wenn die richtige Version von <ph id="ph1">[!include[pn-field-service](../includes/pn-field-service.md)]</ph> installiert und die Ansicht <bpt id="p1">**</bpt>Meine in Bearbeitung befindlichen Buchungen<ept id="p1">**</ept> enthalten ist, fahren Sie mit dem nächsten Schritt <bpt id="p2">[</bpt>Einen Arbeitsauftrag und Buchung hinzufügen<ept id="p2">](#add-a-work-order-and-booking)</ept> aus diesem Abschnitt fort.</target>
-        </trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="151">
-          <source>Add a work order and booking</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Einen Arbeitsauftrag und Buchung hinzufügen</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="152">
-          <source>Data will not appear in the <bpt id="p1">**</bpt><ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph><ept id="p1">**</ept> pane in <ph id="ph2">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> unless the following requirements are met:</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Daten werden nicht im Bereich <bpt id="p1">**</bpt><ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph><ept id="p1">**</ept> in <ph id="ph2">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> angezeigt, außer die folgenden Anforderungen sind erfüllt:</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="153">
-          <source>There must be at least one work order.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Es muss mindestens ein Arbeitsauftrag.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="154">
-          <source>The following fields in the work order must have a value:</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Die folgenden Felder im Arbeitsauftrag müssen einen Wert haben:</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="155">
-          <source><bpt id="p1">**</bpt>Field<ept id="p1">**</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">**</bpt>Feld<ept id="p1">**</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="156">
-          <source><bpt id="p1">**</bpt>Value<ept id="p1">**</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">**</bpt>Wert<ept id="p1">**</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="157">
-          <source>System Status</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Systemstatus</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="158">
-          <source>The value for this field must be set to <bpt id="p1">**</bpt>In Progress<ept id="p1">**</ept>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Der Wert in diesem Feld muss <bpt id="p1">**</bpt>In Bearbeitung<ept id="p1">**</ept> sein.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="159">
-          <source>Resource</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Ressource</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="160">
-          <source>Stores the email address for the <ph id="ph1">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> user.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Speichert die E-Mail-Adresse für den <ph id="ph1">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> Benutzer.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="161">
-          <source>This address must match the email address for the <ph id="ph1">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> user.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Diese Adresse muss der E-Mail-Adresse für den <ph id="ph1">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> Benutzer entsprechen.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="162">
-          <source>Create a work order</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Arbeitsauftrag erstellen</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="163">
-          <source>Open the <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> instance in your browser.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Öffnen Sie die <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> Instanz in Ihrem Browser.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="164">
-          <source>Select the pull-down menu next to <bpt id="p1">**</bpt><ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph><ept id="p1">**</ept>, select <bpt id="p2">**</bpt><ph id="ph2">[!include[pn-field-service](../includes/pn-field-service.md)]</ph><ept id="p2">**</ept>, and then select <bpt id="p3">**</bpt>New<ept id="p3">**</ept>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wählen Sie das Pull-down-Menü neben <bpt id="p1">**</bpt><ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph><ept id="p1">**</ept>, wählen Sie <bpt id="p2">**</bpt><ph id="ph2">[!include[pn-field-service](../includes/pn-field-service.md)]</ph><ept id="p2">**</ept> und anschließend <bpt id="p3">**</bpt>Neu<ept id="p3">**</ept> aus.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="165">
-          <source>Fill in all fields that contain an asterisk.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Füllen Sie alle Felder aus, die ein Sternchen enthalten.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="166">
-          <source><bpt id="p1">![</bpt>Work order screen<ept id="p1">]</ept><bpt id="p2">(media/work-order.PNG "</bpt>Work order screen<ept id="p2">")</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">![</bpt>Arbeitsauftragsbildschirm<ept id="p1">]</ept><bpt id="p2">(media/work-order.PNG "</bpt>Arbeitsauftragsbildschirm<ept id="p2">")</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="167">
-          <source>Select <bpt id="p1">**</bpt>Save<ept id="p1">**</ept> in the lower-right corner of the window.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wählen Sie in rechten unteren Ecke <bpt id="p1">**</bpt>Speichern<ept id="p1">**</ept> aus.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="168">
-          <source>Add values for the required fields</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Werte für die erforderlichen Felder einfügen</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="169">
-          <source>Select the <bpt id="p1">**</bpt>Settings<ept id="p1">**</ept> tab.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wählen Sie die Registerkarte <bpt id="p1">**</bpt>Einstellungen<ept id="p1">**</ept> aus.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="170">
-          <source>Select the <bpt id="p1">**</bpt>Book<ept id="p1">**</ept> option at the top of the screen.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wählen Sie die Option <bpt id="p1">**</bpt>Buchen<ept id="p1">**</ept> am oberen Rand des Bildschirms aus.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="171">
-          <source>You use this option to book a time for the resource to perform the work.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Sie verwenden diese Option, um eine Zeit zu buchen, in der die Ressource die Arbeit ausführt.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="172">
-          <source>In the <bpt id="p1">**</bpt>Resource<ept id="p1">**</ept> field, enter the resource for the <ph id="ph1">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> user.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Geben Sie im Feld <bpt id="p1">**</bpt>Ressource<ept id="p1">**</ept> die Ressource für den <ph id="ph1">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> Benutzer ein.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="173">
-          <source>The resource’s email address must match the email address for the <ph id="ph1">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> user.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Die E-Mail-Adresse der Ressource muss der E-Mail-Adresse für den <ph id="ph1">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> Benutzer entsprechen.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="174">
-          <source>If you don’t select a resource or if the email addresses don’t match, data won’t appear in the <bpt id="p1">**</bpt><ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph><ept id="p1">**</ept> pane in <ph id="ph2">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wenn Sie keine Ressource auswählen oder die E-Mail-Adresse nicht übereinstimmt, werden keine Daten im <bpt id="p1">**</bpt><ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph><ept id="p1">**</ept> Bereich in <ph id="ph2">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> angezeigt.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="175">
-          <source>Select the booking information, and then set the <bpt id="p1">**</bpt>Booking Status<ept id="p1">**</ept> field to <bpt id="p2">**</bpt>In Progress<ept id="p2">**</ept>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wählen Sie die Buchungsinformationen aus und setzen Sie das Feld <bpt id="p1">**</bpt>Buchungsstatus<ept id="p1">**</ept> dann auf <bpt id="p2">**</bpt>In Bearbeitung<ept id="p2">**</ept>.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="176">
-          <source><bpt id="p1">![</bpt>Booking status field<ept id="p1">]</ept><bpt id="p2">(media/booking-status.PNG "</bpt>Booking status field<ept id="p2">")</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">![</bpt>Feld Buchungsstatus<ept id="p1">]</ept><bpt id="p2">(media/booking-status.PNG "</bpt>Feld Buchungsstatus<ept id="p2">")</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="177">
-          <source>Make changes to other fields as desired (no other data is required for the data to appear in the <bpt id="p1">**</bpt><ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph><ept id="p1">**</ept> pane in <ph id="ph2">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph>).</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Nehmen Sie die gewünschten Änderungen an anderen Feldern vor (keine anderen Daten sind erforderlich, damit die Daten im <bpt id="p1">**</bpt><ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph><ept id="p1">**</ept> Bereich in <ph id="ph2">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph>) angezeigt werden können.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="178">
-          <source>Save your changes.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Speichern Sie Ihre Änderungen.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="179">
-          <source>Add custom fields to the <bpt id="p1">**</bpt>Dynamics 365<ept id="p1">**</ept> pane in Remote Assist (optional)</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Benutzerdefinierte Felder in den Bereich <bpt id="p1">**</bpt>Dynamics 365<ept id="p1">**</ept> in Remote Assist einfügen (optional)</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="180">
-          <source>You can customize the <bpt id="p1">**</bpt><ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph><ept id="p1">**</ept> pane in <ph id="ph2">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> by customizing fields, forms, or the <bpt id="p2">**</bpt>My In Progress Bookings<ept id="p2">**</ept> view in <ph id="ph3">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Sie können den Bereich <bpt id="p1">**</bpt><ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph><ept id="p1">**</ept> in <ph id="ph2">[!include[pn-remote-assist](../includes/pn-remote-assist.md)]</ph> verändern, indem Sie Felder, Formulare oder die Ansicht <bpt id="p2">**</bpt>My In Progress Bookings<ept id="p2">**</ept> in <ph id="ph3">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> anpassen.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="181">
-          <source>To customize fields, forms, or views in <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph>:</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Weitere Felder, Formulare oder Ansichten in <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph>anpassen:</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="182">
-          <source>Select <bpt id="p1">**</bpt>Service<ept id="p1">**</ept><ph id="ph1"> &gt; </ph><bpt id="p2">**</bpt>Settings<ept id="p2">**</ept><ph id="ph2"> &gt; </ph><bpt id="p3">**</bpt>Customizations<ept id="p3">**</ept><ph id="ph3"> &gt; </ph><bpt id="p4">**</bpt>Customize the System<ept id="p4">**</ept>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wählen Sie <bpt id="p1">**</bpt>Service<ept id="p1">**</ept><ph id="ph1"> &gt; </ph><bpt id="p2">**</bpt>Einstellungen<ept id="p2">**</ept><ph id="ph2"> &gt; </ph><bpt id="p3">**</bpt>Anpassungen<ept id="p3">**</ept><ph id="ph3"> &gt; </ph><bpt id="p4">**</bpt>System anpassen<ept id="p4">**</ept> aus.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="183">
-          <source><bpt id="p1">![</bpt>Selecting Customizations<ept id="p1">]</ept><bpt id="p2">(media/Customizations.PNG "</bpt>Selecting Customizations<ept id="p2">")</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">![</bpt>Anpassungen auswählen<ept id="p1">]</ept><bpt id="p2">(media/Customizations.PNG "</bpt>Anpassungen auswählen<ept id="p2">")</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="184">
-          <source>Expand <bpt id="p1">**</bpt>Entities<ept id="p1">**</ept>, open the entity you want to modify, and then select <bpt id="p2">**</bpt>Fields<ept id="p2">**</ept>, <bpt id="p3">**</bpt>Forms<ept id="p3">**</ept>, or <bpt id="p4">**</bpt>Views<ept id="p4">**</ept>, depending on what you want to do.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Erweitern Sie <bpt id="p1">**</bpt>Entitäten<ept id="p1">**</ept>, öffnen Sie die Entität, die Sie verändern möchten, und wählen Sie dann je nachdem, was Sie tun möchten, <bpt id="p2">**</bpt>Felder<ept id="p2">**</ept>, <bpt id="p3">**</bpt>Formulare<ept id="p3">**</ept> oder <bpt id="p4">**</bpt>Ansichten<ept id="p4">**</ept> aus.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="185">
-          <source>The following table shows examples of the types of changes you might want to make in <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph>, and how to make them.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Die folgende Tabelle enthält Beispiele der Arten von Änderung, die in <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> möglich sind, und beschreibt, wie sie vorgenommen werden.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="186">
-          <source><bpt id="p1">**</bpt>To<ept id="p1">**</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">**</bpt>Ziel<ept id="p1">**</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="187">
-          <source><bpt id="p1">**</bpt>Do this<ept id="p1">**</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">**</bpt>Vorgehensweise<ept id="p1">**</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="188">
-          <source><bpt id="p1">**</bpt>Example<ept id="p1">**</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">**</bpt>Beispiel<ept id="p1">**</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="189">
-          <source>Add a new field that doesn’t already exist in <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Ein neues Feld hinzufügen, das noch nicht in <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph> vorhanden ist</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="190">
-          <source>Create the field in the entity you want to edit, and then add that field to the <bpt id="p1">**</bpt>My In Progress Bookings<ept id="p1">**</ept> view.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Erstellen Sie das Feld in der zu bearbeitenden Entität und fügen Sie dieses Feld in die Ansicht <bpt id="p1">**</bpt>Meine in Bearbeitung befindlichen Buchungen<ept id="p1">**</ept> ein.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="191">
-          <source>In the <bpt id="p1">**</bpt>Customizations<ept id="p1">**</ept> screen, open the <bpt id="p2">**</bpt>Work Order<ept id="p2">**</ept> entity, and then add the field you want.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Öffnen Sie im Fenster <bpt id="p1">**</bpt>Anpassungen<ept id="p1">**</ept> die Entität <bpt id="p2">**</bpt>Arbeitsauftrag<ept id="p2">**</ept> und fügen Sie das gewünschte Feld ein.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="192">
-          <source><bpt id="p1">**</bpt>Note<ept id="p1">**</ept> Make sure to add data to the field.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">**</bpt>Hinweis<ept id="p1">**</ept> In das Feld müssen Daten eingefügt werden.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="193">
-          <source>The field won’t appear if there’s no data.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Das Feld wird nur angezeigt, wenn es Daten enthält.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="194">
-          <source>Add an existing field to the <bpt id="p1">**</bpt>My In Progress Bookings<ept id="p1">**</ept> view</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Ein vorhandenes Feld in die Ansicht <bpt id="p1">**</bpt>Meine in Bearbeitung befindlichen Buchungen<ept id="p1">**</ept> einfügen</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="195">
-          <source>In the <bpt id="p1">**</bpt>My In Progress Bookings<ept id="p1">**</ept> view, add a column for the field.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Fügen Sie in der Ansicht <bpt id="p1">**</bpt>Meine in Bearbeitung befindlichen Buchungen<ept id="p1">**</ept> eine Spalte für das Feld ein.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="196">
-          <source>You can add a field from any entity in <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Sie können ein Feld aus jeder Entität in <ph id="ph1">[!include[pn-dyn-365](../includes/pn-dyn-365.md)]</ph>einfügen.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="197">
-          <source>In the <bpt id="p1">**</bpt>Customizations<ept id="p1">**</ept> screen, open the <bpt id="p2">**</bpt>Bookable Resource Booking<ept id="p2">**</ept> entity, select the <bpt id="p3">**</bpt>My In Progress Bookings<ept id="p3">**</ept> view, and then choose <bpt id="p4">**</bpt>Add Columns<ept id="p4">**</ept>.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Öffnen Sie im Fenster <bpt id="p1">**</bpt>Anpassungen<ept id="p1">**</ept> die Entität <bpt id="p2">**</bpt>Buchbare Ressourcenbuchung<ept id="p2">**</ept>, wählen Sie die Ansicht <bpt id="p3">**</bpt>Meine in Bearbeitung befindlichen Buchungen<ept id="p3">**</ept> aus und wählen Sie dann <bpt id="p4">**</bpt>Spalten hinzufügen<ept id="p4">**</ept> aus.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="198">
-          <source><bpt id="p1">**</bpt>Note<ept id="p1">**</ept>  Make sure to add data to the field.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">**</bpt>Hinweis<ept id="p1">**</ept> In das Feld müssen Daten eingefügt werden.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="199">
-          <source>The field won’t appear if there’s no data.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Das Feld wird nur angezeigt, wenn es Daten enthält.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="200">
-          <source>Add a <ph id="ph1">[!include[pn-power-bi](../includes/pn-power-bi.md)]</ph> web link.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Fügen Sie einen <ph id="ph1">[!include[pn-power-bi](../includes/pn-power-bi.md)]</ph>-Weblink ein.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="201">
-          <source>In <ph id="ph1">[!include[pn-hololens](../includes/pn-hololens.md)]</ph>, when the user selects the link, it will automatically open in the <ph id="ph2">[!include[pn-edge](../includes/pn-edge.md)]</ph> browser.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wenn der Benutzer in <ph id="ph1">[!include[pn-hololens](../includes/pn-hololens.md)]</ph> den Link auswählt, wird er automatisch im <ph id="ph2">[!include[pn-edge](../includes/pn-edge.md)]</ph>-Browser geöffnet.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="202">
-          <source>Create a field that supports text strings.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Erstellen Sie ein Feld, das Textzeichenfolgen unterstützt.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="203">
-          <source>Enter any web link in the field data, such as one that opens a <ph id="ph1">[!include[pn-power-bi](../includes/pn-power-bi.md)]</ph> dashboard.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Geben Sie einen Weblink in den Felddaten ein, zum Beispiel den zum Öffnen eines <ph id="ph1">[!include[pn-power-bi](../includes/pn-power-bi.md)]</ph>-Dashboards verwendeten.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="204">
-          <source>As long as it’s a valid URL, it will automatically become a link.</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Wenn es eine gültige URL ist, wird sie automatisch ein Link.</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="205">
-          <source>See also</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Siehe auch</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="206">
-          <source><bpt id="p1">[</bpt>Create or edit fields in Dynamics 365<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/customize/create-edit-fields)</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">[</bpt>Felder in Dynamics 365 erstellen oder bearbeiten<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/customize/create-edit-fields)</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="207">
-          <source><bpt id="p1">[</bpt>Create or edit views in Dynamics 365<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/customize/create-edit-views)</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">[</bpt>Ansichten in Dynamics 365 erstellen oder bearbeiten<ept id="p1">](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/customize/create-edit-views)</ept></target></trans-unit>
-      </group>
-    </body>
-  </file>
-</xliff>
+---
+author: bencorn
+description: So können Sie prüfen, ob Sie die richtige Version, Ansichten und Daten für die Integration von Dynamics 365 for Field Service in Dynamics 365 Remote Assist haben
+ms.author: bencorn
+ms.date: 06/04/2019
+ms.service: crm-online
+ms.topic: article
+title: Dynamics 365 for Field Service in Dynamics 365 Remote Assist integrieren
+ms.reviewer: v-brycho
+ms.openlocfilehash: 71d89b161d269c5559344f021f6f5aaa1a8aa3ce
+ms.sourcegitcommit: 80c2a9dc71cab3914d3a96d37904bd1e16e4b450
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "1617259"
+---
+# <a name="troubleshoot-field-service-integration-with-dynamics-365-remote-assist"></a><span data-ttu-id="38ff8-103">Problembehandlung für die Field Service-Integration Dynamics 365 Remote Assist</span><span class="sxs-lookup"><span data-stu-id="38ff8-103">Troubleshoot Field Service integration with Dynamics 365 Remote Assist</span></span>
+
+<span data-ttu-id="38ff8-104">Wenn Ihre Organisation [Dynamics 365 for Field Service](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) verwendet, um [!include[pn-field-service](../includes/pn-field-service.md)] Arbeitsaufträge zu verwalten, kann der Mitarbeiter mit direktem Kundenkontakt, der [!include[pn-hololens](../includes/pn-hololens.md)] verwendet, [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] Buchungen von [!include[pn-remote-assist](../includes/pn-remote-assist.md)] aus anzeigen und schnell die im Feld **Supportkontakt** aufgeführten Experten anzeigen.</span><span class="sxs-lookup"><span data-stu-id="38ff8-104">If your organization uses [Dynamics 365 for Field Service](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) to manage [!include[pn-field-service](../includes/pn-field-service.md)] work orders, the first-line worker using [!include[pn-hololens](../includes/pn-hololens.md)] can view [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] bookings from [!include[pn-remote-assist](../includes/pn-remote-assist.md)] and quickly call the expert listed in the **Support Contact** field when needed.</span></span> <span data-ttu-id="38ff8-105">Dadurch können Mitarbeiter mit direktem Kundenkontakt Freisprechanrufe über [!include[pn-hololens](../includes/pn-hololens.md)] im Kontext einer [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] Buchung durchführen.</span><span class="sxs-lookup"><span data-stu-id="38ff8-105">This enables first-line workers to do heads-up, hands-free calling through [!include[pn-hololens](../includes/pn-hololens.md)] in the context of a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] booking.</span></span>
+
+<span data-ttu-id="38ff8-106">In diesem Thema wird beschrieben:</span><span class="sxs-lookup"><span data-stu-id="38ff8-106">This topic describes:</span></span>
+
+- <span data-ttu-id="38ff8-107">Anforderungen für die Integration von [!include[pn-field-service](../includes/pn-field-service.md)]</span><span class="sxs-lookup"><span data-stu-id="38ff8-107">Requirements for [!include[pn-field-service](../includes/pn-field-service.md)] integration</span></span>
+- <span data-ttu-id="38ff8-108">So sorgen Sie dafür, dass [!include[pn-field-service](../includes/pn-field-service.md)] korrekt eingerichtet ist</span><span class="sxs-lookup"><span data-stu-id="38ff8-108">How to make sure [!include[pn-field-service](../includes/pn-field-service.md)] is set up correctly</span></span> 
+- <span data-ttu-id="38ff8-109">So aktualisieren Sie die Instanz von [!include[pn-dyn-365](../includes/pn-dyn-365.md)], wenn Sie nicht die korrekte Version von [!include[pn-field-service](../includes/pn-field-service.md)] haben</span><span class="sxs-lookup"><span data-stu-id="38ff8-109">How to upgrade the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] instance if you don’t have the correct [!include[pn-field-service](../includes/pn-field-service.md)] version</span></span>
+- <span data-ttu-id="38ff8-110">So fügen Sie Daten für erforderliche Felder in einen [!include[pn-field-service](../includes/pn-field-service.md)]-Arbeitsauftrag und eine Buchung ein</span><span class="sxs-lookup"><span data-stu-id="38ff8-110">How to add data for required fields in a [!include[pn-field-service](../includes/pn-field-service.md)] work order and booking</span></span>
+- <span data-ttu-id="38ff8-111">So passen Sie den Bereich **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** an, der in [!include[pn-remote-assist](../includes/pn-remote-assist.md)] angezeigt wird</span><span class="sxs-lookup"><span data-stu-id="38ff8-111">How to customize the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** pane that appears in [!include[pn-remote-assist](../includes/pn-remote-assist.md)]</span></span>
+
+## <a name="requirements"></a><span data-ttu-id="38ff8-112">Anforderungen</span><span class="sxs-lookup"><span data-stu-id="38ff8-112">Requirements</span></span>
+
+<span data-ttu-id="38ff8-113">Bevor Sie beginnen, stellen Sie sicher, dass Sie Folgendes eingerichtet haben:</span><span class="sxs-lookup"><span data-stu-id="38ff8-113">Before you begin, make sure you have the following set up:</span></span>
+
+- <span data-ttu-id="38ff8-114">Ein [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-azure](../includes/pn-azure.md)] Mandant mit einem Abonnement von [!include[pn-dyn-365](../includes/pn-dyn-365.md)] **und** einem [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] Abonnement.</span><span class="sxs-lookup"><span data-stu-id="38ff8-114">A [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-azure](../includes/pn-azure.md)] tenant with a [!include[pn-dyn-365](../includes/pn-dyn-365.md)] subscription **and** a [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] subscription.</span></span> <span data-ttu-id="38ff8-115">Beide sind erforderlich – [!include[pn-remote-assist](../includes/pn-remote-assist.md)] ist nicht in einem [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Paket enthalten.</span><span class="sxs-lookup"><span data-stu-id="38ff8-115">Both are required—[!include[pn-remote-assist](../includes/pn-remote-assist.md)] is not included in any [!include[pn-dyn-365](../includes/pn-dyn-365.md)] bundle.</span></span>
+
+  > [!NOTE]  
+  > <span data-ttu-id="38ff8-116">Der Mandant kann mehr als eine Instanz von [!include[pn-dyn-365](../includes/pn-dyn-365.md)] enthalten.</span><span class="sxs-lookup"><span data-stu-id="38ff8-116">The tenant can have more than one [!include[pn-dyn-365](../includes/pn-dyn-365.md)] instance.</span></span> [!include[pn-remote-assist](../includes/pn-remote-assist.md)] <span data-ttu-id="38ff8-117">hat die Möglichkeit, eine Instanz in der App auszuwählen.</span><span class="sxs-lookup"><span data-stu-id="38ff8-117">has the option to select an instance from within the app.</span></span>
+
+- <span data-ttu-id="38ff8-118">Sie benötigen Administratorzugriffsrechte, um die Mandantinstanz von [!include[pn-dyn-365](../includes/pn-dyn-365.md)] hinzuzufügen oder zu aktualisieren.</span><span class="sxs-lookup"><span data-stu-id="38ff8-118">You must have admin access to add or update the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] tenant instance.</span></span>
+- <span data-ttu-id="38ff8-119">In der Instanz [!include[pn-dyn-365](../includes/pn-dyn-365.md)] muss die App [!include[pn-field-service](../includes/pn-field-service.md)] installiert sein und sie muss die Ansicht **My In Progress Bookings** enthalten.</span><span class="sxs-lookup"><span data-stu-id="38ff8-119">The [!include[pn-dyn-365](../includes/pn-dyn-365.md)] instance must have the [!include[pn-field-service](../includes/pn-field-service.md)] app installed, and it must include the **My In Progress Bookings** view.</span></span> <span data-ttu-id="38ff8-120">Um sicherzugehen, dass diese Ansicht installiert ist, empfehlen wir die [!include[pn-field-service](../includes/pn-field-service.md)] Version 8.2 oder später.</span><span class="sxs-lookup"><span data-stu-id="38ff8-120">To make sure this view is installed, we recommend [!include[pn-field-service](../includes/pn-field-service.md)] version 8.2 or later.</span></span> <span data-ttu-id="38ff8-121">In diesem Thema wird beschrieben, wie Sie sicherstellen können, dass Sie die korrekte Version und Ansicht haben.</span><span class="sxs-lookup"><span data-stu-id="38ff8-121">This topic describes how to make sure you have the correct version and view.</span></span>
+- <span data-ttu-id="38ff8-122">Der Mandant muss mindestens zwei Benutzerkonten haben.</span><span class="sxs-lookup"><span data-stu-id="38ff8-122">The tenant must have at least two user accounts.</span></span>
+- <span data-ttu-id="38ff8-123">Den Benutzerkonten müssen die folgenden Lizenzen zugeordnet sein:</span><span class="sxs-lookup"><span data-stu-id="38ff8-123">The user accounts must have the following licenses assigned:</span></span>
+  - [!include[pn-office-365](../includes/pn-office-365.md)] <span data-ttu-id="38ff8-124">Lizenz, die [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)] enthält</span><span class="sxs-lookup"><span data-stu-id="38ff8-124">license that includes [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)]</span></span>
+  - [!include[pn-remote-assist](../includes/pn-remote-assist.md)]
+  - <span data-ttu-id="38ff8-125">A [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Lizenz, die [!include[pn-field-service](../includes/pn-field-service.md)] enthält</span><span class="sxs-lookup"><span data-stu-id="38ff8-125">A [!include[pn-dyn-365](../includes/pn-dyn-365.md)] license that includes [!include[pn-field-service](../includes/pn-field-service.md)]</span></span>
+
+## <a name="confirm-that-the-my-in-progress-bookings-view-is-included"></a><span data-ttu-id="38ff8-126">Bestätigen Sie, dass die Ansicht **Meine in Bearbeitung befindlichen Buchungen** enthalten ist</span><span class="sxs-lookup"><span data-stu-id="38ff8-126">Confirm that the **My In Progress Bookings** view is included</span></span>
+
+<span data-ttu-id="38ff8-127">Wenn Sie eine Instanz haben, aber nicht sicher sein, ob die korrekte Ansicht installiert ist, führen Sie zur Bestätigung die folgenden Schritte durch:</span><span class="sxs-lookup"><span data-stu-id="38ff8-127">If you have an instance but aren’t sure if the correct view is installed, follow these steps to confirm:</span></span>
+
+1. <span data-ttu-id="38ff8-128">Stellen Sie sicher, dass Sie als Administrator für die [!include[pn-dyn-365](../includes/pn-dyn-365.md)]-Instanz angemeldet sind.</span><span class="sxs-lookup"><span data-stu-id="38ff8-128">Make sure you’re signed in as an admin for the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] instance.</span></span>
+
+2. <span data-ttu-id="38ff8-129">Wählen Sie **Service** > **Einstellungen** > **Anpassungen** > **System anpassen** aus.</span><span class="sxs-lookup"><span data-stu-id="38ff8-129">Select **Service** > **Settings** > **Customizations** > **Customize the System**.</span></span>
+
+   <span data-ttu-id="38ff8-130">![Anpassungen auswählen](media/Customizations.PNG "Anpassungen auswählen")</span><span class="sxs-lookup"><span data-stu-id="38ff8-130">![Selecting Customizations](media/Customizations.PNG "Selecting Customizations")</span></span>
+   
+3. <span data-ttu-id="38ff8-131">Erweitern Sie auf dem [!include[pn-powerapps](../includes/pn-powerapps.md)] Bildschirm **Entitäten**, erweitern Sie die Entität **Buchbare Ressourcenbuchung** und wählen Sie dann **Ansichten** aus.</span><span class="sxs-lookup"><span data-stu-id="38ff8-131">In the [!include[pn-powerapps](../includes/pn-powerapps.md)] screen, expand **Entities**, expand the **Bookable Resource Booking** entity, and then select **Views**.</span></span>
+
+4. <span data-ttu-id="38ff8-132">Überprüfen Sie auf dem Bildschirm **Ansichten**, ob die Ansicht **Meine in Bearbeitung befindlichen Buchungen** aufgelistet ist.</span><span class="sxs-lookup"><span data-stu-id="38ff8-132">In the **Views** screen, verify that the **My In Progress Bookings** view is listed.</span></span>
+
+   <span data-ttu-id="38ff8-133">![Ansicht „Buchbare Ressource“](media/bookable-resource-views.PNG "Ansicht „Buchbare Ressource“")</span><span class="sxs-lookup"><span data-stu-id="38ff8-133">![Bookable Resource view](media/bookable-resource-views.PNG "Bookable Resource view")</span></span>
+   
+5. <span data-ttu-id="38ff8-134">Führen Sie einen der folgenden Schritte aus:</span><span class="sxs-lookup"><span data-stu-id="38ff8-134">Do one of the following:</span></span>
+
+   - <span data-ttu-id="38ff8-135">Wenn die Ansicht aufgelistet ist, fahren Sie mit [Einen Arbeitsauftrag und Buchung hinzufügen](#add-a-work-order-and-booking) weiter hinten in diesem Thema fort.</span><span class="sxs-lookup"><span data-stu-id="38ff8-135">If the view is listed, go to [Add a work order and booking](#add-a-work-order-and-booking) later in this topic.</span></span>
+   
+   - <span data-ttu-id="38ff8-136">Wenn die Ansicht nicht aufgeführt ist, in, [aktualisieren Sie die Dynamics 365 Instanz](#upgrade-the-dynamics-365-instance), wie in der nächsten Prozedur in diesem Thema beschrieben.</span><span class="sxs-lookup"><span data-stu-id="38ff8-136">If the view is not listed, go to [Upgrade the Dynamics 365 instance](#upgrade-the-dynamics-365-instance), the next procedure in this topic.</span></span>
+   
+## <a name="upgrade-the-dynamics-365-instance"></a><span data-ttu-id="38ff8-137">Die Dynamics 365-Instanz aktualisieren</span><span class="sxs-lookup"><span data-stu-id="38ff8-137">Upgrade the Dynamics 365 instance</span></span>
+
+<span data-ttu-id="38ff8-138">Wenn die Ansicht **Meine in Bearbeitung befindlichen Buchungen** nicht aufgeführt ist, wie in der vorherigen Prozedur beschrieben, müssen Sie Ihre [!include[pn-field-service](../includes/pn-field-service.md)] Version auf mindestens 8.2 aktualisieren.</span><span class="sxs-lookup"><span data-stu-id="38ff8-138">If the **My In Progress Bookings** view is not listed as described in the previous procedure, you’ll need to upgrade your [!include[pn-field-service](../includes/pn-field-service.md)] version to 8.2 or later.</span></span> [!include[pn-dyn-365](../includes/pn-dyn-365.md)] <span data-ttu-id="38ff8-139">Aktualisierungen werden nicht automatisch ausgeführt; sie werden von Kunden bestimmt.</span><span class="sxs-lookup"><span data-stu-id="38ff8-139">upgrades don’t happen automatically; they’re driven by customers.</span></span> 
+
+<span data-ttu-id="38ff8-140">So aktualisieren Sie eine Instanz:</span><span class="sxs-lookup"><span data-stu-id="38ff8-140">To upgrade an instance:</span></span>
+
+1. <span data-ttu-id="38ff8-141">Rufen Sie das [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Admin Center auf, wählen Sie die Registerkarte **Instanzen** und dann **Lösungen** aus, um zu sehen, welche Version von [!include[pn-field-service](../includes/pn-field-service.md)] Sie haben.</span><span class="sxs-lookup"><span data-stu-id="38ff8-141">Go to the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Admin Center, select the **Instances** tab, and then select **Solutions** to see which version of [!include[pn-field-service](../includes/pn-field-service.md)] you have.</span></span> 
+
+   <span data-ttu-id="38ff8-142">![Admin Center mit der Anzeige der Field Service-Version](media/admin-center.PNG "Admin Center mit der Anzeige der Field Service-Version")</span><span class="sxs-lookup"><span data-stu-id="38ff8-142">![Admin center showing Field Service version](media/admin-center.PNG "Admin center showing Field Service version")</span></span>
+
+2. <span data-ttu-id="38ff8-143">Führen Sie einen der folgenden Schritte aus:</span><span class="sxs-lookup"><span data-stu-id="38ff8-143">Do one of the following:</span></span>
+
+   - <span data-ttu-id="38ff8-144">Wenn Sie nicht die Version 8.2 oder später haben, wird die Schaltfläche **Upgrade** auf der rechten Seite des Bildschirms im Feld **[!include[pn-field-service](../includes/pn-field-service.md)]** angezeigt.</span><span class="sxs-lookup"><span data-stu-id="38ff8-144">If you don’t have version 8.2 or later, an **Upgrade** button will appear on the right side of the screen in the **[!include[pn-field-service](../includes/pn-field-service.md)]** box.</span></span> <span data-ttu-id="38ff8-145">Wählen Sie die Schaltfläche **Upgrade** aus, um das Upgrade zu beginnen.</span><span class="sxs-lookup"><span data-stu-id="38ff8-145">Select the **Upgrade** button to start the upgrade process.</span></span> 
+   
+     <span data-ttu-id="38ff8-146">Wenn keine Schaltfläche **Upgrade** vorhanden ist, können Sie die Version 8.2 oder später abrufen, indem Sie [sich für eine Testversion anmelden](https://appsource.microsoft.com/en-us/product/dynamics-365/mscrm.40fd37ef-dca4-4b0d-9f41-d16703b7d070?tab=Overview) oder das [Dynamics Insider Portal](http://experience.dynamics.com/insider) aufrufen.</span><span class="sxs-lookup"><span data-stu-id="38ff8-146">If there’s no **Upgrade** button, you can obtain version 8.2 or later by [signing up for a trial](https://appsource.microsoft.com/en-us/product/dynamics-365/mscrm.40fd37ef-dca4-4b0d-9f41-d16703b7d070?tab=Overview) or by going to the [Dynamics Insider Portal](http://experience.dynamics.com/insider).</span></span>
+
+     > [!NOTE]
+     > <span data-ttu-id="38ff8-147">Wenn die [!include[pn-field-service](../includes/pn-field-service.md)] Installation fehlschlägt, können Sie es zurücksetzen oder eine neue Instanz erstellen.</span><span class="sxs-lookup"><span data-stu-id="38ff8-147">If the [!include[pn-field-service](../includes/pn-field-service.md)] installation fails, you might need to reset or create a new instance.</span></span> <span data-ttu-id="38ff8-148">Für die [!include[pn-field-service](../includes/pn-field-service.md)] Installation sind bestimmte Schritte erforderlich und die Installation kann fehlschlagen, wenn die Schritte in anderer Reihenfolge durchgeführt werden.</span><span class="sxs-lookup"><span data-stu-id="38ff8-148">[!include[pn-field-service](../includes/pn-field-service.md)] installation requires specific steps and doing the steps out of order can cause the installation to fail.</span></span> [<span data-ttu-id="38ff8-149">Weitere Informationen zur Field Service-Installation.</span><span class="sxs-lookup"><span data-stu-id="38ff8-149">Learn more about Field Service installation.</span></span>](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/field-service/install-field-service)
+
+   - <span data-ttu-id="38ff8-150">Wenn die richtige Version von [!include[pn-field-service](../includes/pn-field-service.md)] installiert und die Ansicht **Meine in Bearbeitung befindlichen Buchungen** enthalten ist, fahren Sie mit dem nächsten Schritt [Einen Arbeitsauftrag und Buchung hinzufügen](#add-a-work-order-and-booking) aus diesem Abschnitt fort.</span><span class="sxs-lookup"><span data-stu-id="38ff8-150">If the right version of [!include[pn-field-service](../includes/pn-field-service.md)] is installed and the **My In Progress Bookings** view is included, go to [Add a work order and booking](#add-a-work-order-and-booking), the next procedure in this topic.</span></span>
+   
+## <a name="add-a-work-order-and-booking"></a><span data-ttu-id="38ff8-151">Einen Arbeitsauftrag und Buchung hinzufügen</span><span class="sxs-lookup"><span data-stu-id="38ff8-151">Add a work order and booking</span></span>
+   
+<span data-ttu-id="38ff8-152">Daten werden nicht im Bereich **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** in [!include[pn-remote-assist](../includes/pn-remote-assist.md)] angezeigt, außer die folgenden Anforderungen sind erfüllt:</span><span class="sxs-lookup"><span data-stu-id="38ff8-152">Data will not appear in the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** pane in [!include[pn-remote-assist](../includes/pn-remote-assist.md)] unless the following requirements are met:</span></span>
+   
+- <span data-ttu-id="38ff8-153">Es muss mindestens ein Arbeitsauftrag.</span><span class="sxs-lookup"><span data-stu-id="38ff8-153">There must be at least one work order.</span></span>
+
+- <span data-ttu-id="38ff8-154">Die folgenden Felder im Arbeitsauftrag müssen einen Wert haben:</span><span class="sxs-lookup"><span data-stu-id="38ff8-154">The following fields in the work order must have a value:</span></span>
+   
+   |<span data-ttu-id="38ff8-155">**Feld**</span><span class="sxs-lookup"><span data-stu-id="38ff8-155">**Field**</span></span>|<span data-ttu-id="38ff8-156">**Wert**</span><span class="sxs-lookup"><span data-stu-id="38ff8-156">**Value**</span></span>|
+   |------------------|---------------------------------------------------------------------------------------------------|
+   |<span data-ttu-id="38ff8-157">Systemstatus</span><span class="sxs-lookup"><span data-stu-id="38ff8-157">System Status</span></span>|<span data-ttu-id="38ff8-158">Der Wert in diesem Feld muss **In Bearbeitung** sein.</span><span class="sxs-lookup"><span data-stu-id="38ff8-158">The value for this field must be set to **In Progress**.</span></span>|
+   |<span data-ttu-id="38ff8-159">Ressource</span><span class="sxs-lookup"><span data-stu-id="38ff8-159">Resource</span></span>|<span data-ttu-id="38ff8-160">Speichert die E-Mail-Adresse für den [!include[pn-hololens](../includes/pn-hololens.md)] Benutzer.</span><span class="sxs-lookup"><span data-stu-id="38ff8-160">Stores the email address for the [!include[pn-hololens](../includes/pn-hololens.md)] user.</span></span> <span data-ttu-id="38ff8-161">Diese Adresse muss der E-Mail-Adresse für den [!include[pn-hololens](../includes/pn-hololens.md)] Benutzer entsprechen.</span><span class="sxs-lookup"><span data-stu-id="38ff8-161">This address must match the email address for the [!include[pn-hololens](../includes/pn-hololens.md)] user.</span></span>|
+ 
+### <a name="create-a-work-order"></a><span data-ttu-id="38ff8-162">Arbeitsauftrag erstellen</span><span class="sxs-lookup"><span data-stu-id="38ff8-162">Create a work order</span></span>
+   
+1.  <span data-ttu-id="38ff8-163">Öffnen Sie die [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Instanz in Ihrem Browser.</span><span class="sxs-lookup"><span data-stu-id="38ff8-163">Open the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] instance in your browser.</span></span>
+
+2.  <span data-ttu-id="38ff8-164">Wählen Sie das Pull-down-Menü neben **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]**, wählen Sie **[!include[pn-field-service](../includes/pn-field-service.md)]** und anschließend **Neu** aus.</span><span class="sxs-lookup"><span data-stu-id="38ff8-164">Select the pull-down menu next to **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]**, select **[!include[pn-field-service](../includes/pn-field-service.md)]**, and then select **New**.</span></span>
+
+3.  <span data-ttu-id="38ff8-165">Füllen Sie alle Felder aus, die ein Sternchen enthalten.</span><span class="sxs-lookup"><span data-stu-id="38ff8-165">Fill in all fields that contain an asterisk.</span></span>
+
+    <span data-ttu-id="38ff8-166">![Arbeitsauftragsbildschirm](media/work-order.PNG "Arbeitsauftragsbildschirm")</span><span class="sxs-lookup"><span data-stu-id="38ff8-166">![Work order screen](media/work-order.PNG "Work order screen")</span></span>
+    
+4.  <span data-ttu-id="38ff8-167">Wählen Sie in rechten unteren Ecke **Speichern** aus.</span><span class="sxs-lookup"><span data-stu-id="38ff8-167">Select **Save** in the lower-right corner of the window.</span></span>
+
+### <a name="add-values-for-the-required-fields"></a><span data-ttu-id="38ff8-168">Werte für die erforderlichen Felder einfügen</span><span class="sxs-lookup"><span data-stu-id="38ff8-168">Add values for the required fields</span></span>
+
+1.  <span data-ttu-id="38ff8-169">Wählen Sie die Registerkarte **Einstellungen** aus.</span><span class="sxs-lookup"><span data-stu-id="38ff8-169">Select the **Settings** tab.</span></span>  
+
+2.  <span data-ttu-id="38ff8-170">Wählen Sie die Option **Buchen** am oberen Rand des Bildschirms aus.</span><span class="sxs-lookup"><span data-stu-id="38ff8-170">Select the **Book** option at the top of the screen.</span></span> <span data-ttu-id="38ff8-171">Sie verwenden diese Option, um eine Zeit zu buchen, in der die Ressource die Arbeit ausführt.</span><span class="sxs-lookup"><span data-stu-id="38ff8-171">You use this option to book a time for the resource to perform the work.</span></span>
+
+3.  <span data-ttu-id="38ff8-172">Geben Sie im Feld **Ressource** die Ressource für den [!include[pn-hololens](../includes/pn-hololens.md)] Benutzer ein.</span><span class="sxs-lookup"><span data-stu-id="38ff8-172">In the **Resource** field, enter the resource for the [!include[pn-hololens](../includes/pn-hololens.md)] user.</span></span> <span data-ttu-id="38ff8-173">Die E-Mail-Adresse der Ressource muss der E-Mail-Adresse für den [!include[pn-hololens](../includes/pn-hololens.md)] Benutzer entsprechen.</span><span class="sxs-lookup"><span data-stu-id="38ff8-173">The resource’s email address must match the email address for the [!include[pn-hololens](../includes/pn-hololens.md)] user.</span></span> <span data-ttu-id="38ff8-174">Wenn Sie keine Ressource auswählen oder die E-Mail-Adresse nicht übereinstimmt, werden keine Daten im **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** Bereich in [!include[pn-remote-assist](../includes/pn-remote-assist.md)] angezeigt.</span><span class="sxs-lookup"><span data-stu-id="38ff8-174">If you don’t select a resource or if the email addresses don’t match, data won’t appear in the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** pane in [!include[pn-remote-assist](../includes/pn-remote-assist.md)].</span></span>
+
+4.  <span data-ttu-id="38ff8-175">Wählen Sie die Buchungsinformationen aus und setzen Sie das Feld **Buchungsstatus** dann auf **In Bearbeitung**.</span><span class="sxs-lookup"><span data-stu-id="38ff8-175">Select the booking information, and then set the **Booking Status** field to **In Progress**.</span></span>
+
+    <span data-ttu-id="38ff8-176">![Feld Buchungsstatus](media/booking-status.PNG "Feld Buchungsstatus")</span><span class="sxs-lookup"><span data-stu-id="38ff8-176">![Booking status field](media/booking-status.PNG "Booking status field")</span></span>
+    
+5.  <span data-ttu-id="38ff8-177">Nehmen Sie die gewünschten Änderungen an anderen Feldern vor (keine anderen Daten sind erforderlich, damit die Daten im **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** Bereich in [!include[pn-remote-assist](../includes/pn-remote-assist.md)]) angezeigt werden können.</span><span class="sxs-lookup"><span data-stu-id="38ff8-177">Make changes to other fields as desired (no other data is required for the data to appear in the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** pane in [!include[pn-remote-assist](../includes/pn-remote-assist.md)]).</span></span>
+
+6.  <span data-ttu-id="38ff8-178">Speichern Sie Ihre Änderungen.</span><span class="sxs-lookup"><span data-stu-id="38ff8-178">Save your changes.</span></span>
+
+## <a name="add-custom-fields-to-the-dynamics-365-pane-in-remote-assist-optional"></a><span data-ttu-id="38ff8-179">Benutzerdefinierte Felder in den Bereich **Dynamics 365** in Remote Assist einfügen (optional)</span><span class="sxs-lookup"><span data-stu-id="38ff8-179">Add custom fields to the **Dynamics 365** pane in Remote Assist (optional)</span></span>
+
+<span data-ttu-id="38ff8-180">Sie können den Bereich **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** in [!include[pn-remote-assist](../includes/pn-remote-assist.md)] verändern, indem Sie Felder, Formulare oder die Ansicht **My In Progress Bookings** in [!include[pn-dyn-365](../includes/pn-dyn-365.md)] anpassen.</span><span class="sxs-lookup"><span data-stu-id="38ff8-180">You can customize the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** pane in [!include[pn-remote-assist](../includes/pn-remote-assist.md)] by customizing fields, forms, or the **My In Progress Bookings** view in [!include[pn-dyn-365](../includes/pn-dyn-365.md)].</span></span>
+
+<span data-ttu-id="38ff8-181">Weitere Felder, Formulare oder Ansichten in [!include[pn-dyn-365](../includes/pn-dyn-365.md)]anpassen:</span><span class="sxs-lookup"><span data-stu-id="38ff8-181">To customize fields, forms, or views in [!include[pn-dyn-365](../includes/pn-dyn-365.md)]:</span></span>
+
+1. <span data-ttu-id="38ff8-182">Wählen Sie **Service** > **Einstellungen** > **Anpassungen** > **System anpassen** aus.</span><span class="sxs-lookup"><span data-stu-id="38ff8-182">Select **Service** > **Settings** > **Customizations** > **Customize the System**.</span></span>
+
+   <span data-ttu-id="38ff8-183">![Anpassungen auswählen](media/Customizations.PNG "Anpassungen auswählen")</span><span class="sxs-lookup"><span data-stu-id="38ff8-183">![Selecting Customizations](media/Customizations.PNG "Selecting Customizations")</span></span>
+    
+2. <span data-ttu-id="38ff8-184">Erweitern Sie **Entitäten**, öffnen Sie die Entität, die Sie verändern möchten, und wählen Sie dann je nachdem, was Sie tun möchten, **Felder**, **Formulare** oder **Ansichten** aus.</span><span class="sxs-lookup"><span data-stu-id="38ff8-184">Expand **Entities**, open the entity you want to modify, and then select **Fields**, **Forms**, or **Views**, depending on what you want to do.</span></span> 
+
+<span data-ttu-id="38ff8-185">Die folgende Tabelle enthält Beispiele der Arten von Änderung, die in [!include[pn-dyn-365](../includes/pn-dyn-365.md)] möglich sind, und beschreibt, wie sie vorgenommen werden.</span><span class="sxs-lookup"><span data-stu-id="38ff8-185">The following table shows examples of the types of changes you might want to make in [!include[pn-dyn-365](../includes/pn-dyn-365.md)], and how to make them.</span></span>
+
+|<span data-ttu-id="38ff8-186">**Ziel**</span><span class="sxs-lookup"><span data-stu-id="38ff8-186">**To**</span></span>|<span data-ttu-id="38ff8-187">**Vorgehensweise**</span><span class="sxs-lookup"><span data-stu-id="38ff8-187">**Do this**</span></span>|<span data-ttu-id="38ff8-188">**Beispiel**</span><span class="sxs-lookup"><span data-stu-id="38ff8-188">**Example**</span></span>|
+|------------------|---------------------------------------------------|--------------------------------------------------------|
+|<span data-ttu-id="38ff8-189">Ein neues Feld hinzufügen, das noch nicht in [!include[pn-dyn-365](../includes/pn-dyn-365.md)] vorhanden ist</span><span class="sxs-lookup"><span data-stu-id="38ff8-189">Add a new field that doesn’t already exist in [!include[pn-dyn-365](../includes/pn-dyn-365.md)]</span></span>|<span data-ttu-id="38ff8-190">Erstellen Sie das Feld in der zu bearbeitenden Entität und fügen Sie dieses Feld in die Ansicht **Meine in Bearbeitung befindlichen Buchungen** ein.</span><span class="sxs-lookup"><span data-stu-id="38ff8-190">Create the field in the entity you want to edit, and then add that field to the **My In Progress Bookings** view.</span></span>|<span data-ttu-id="38ff8-191">Öffnen Sie im Fenster **Anpassungen** die Entität **Arbeitsauftrag** und fügen Sie das gewünschte Feld ein.</span><span class="sxs-lookup"><span data-stu-id="38ff8-191">In the **Customizations** screen, open the **Work Order** entity, and then add the field you want.</span></span><br /><br /><span data-ttu-id="38ff8-192">**Hinweis** In das Feld müssen Daten eingefügt werden.</span><span class="sxs-lookup"><span data-stu-id="38ff8-192">**Note** Make sure to add data to the field.</span></span> <span data-ttu-id="38ff8-193">Das Feld wird nur angezeigt, wenn es Daten enthält.</span><span class="sxs-lookup"><span data-stu-id="38ff8-193">The field won’t appear if there’s no data.</span></span>|
+|<span data-ttu-id="38ff8-194">Ein vorhandenes Feld in die Ansicht **Meine in Bearbeitung befindlichen Buchungen** einfügen</span><span class="sxs-lookup"><span data-stu-id="38ff8-194">Add an existing field to the **My In Progress Bookings** view</span></span>|<span data-ttu-id="38ff8-195">Fügen Sie in der Ansicht **Meine in Bearbeitung befindlichen Buchungen** eine Spalte für das Feld ein.</span><span class="sxs-lookup"><span data-stu-id="38ff8-195">In the **My In Progress Bookings** view, add a column for the field.</span></span> <span data-ttu-id="38ff8-196">Sie können ein Feld aus jeder Entität in [!include[pn-dyn-365](../includes/pn-dyn-365.md)]einfügen.</span><span class="sxs-lookup"><span data-stu-id="38ff8-196">You can add a field from any entity in [!include[pn-dyn-365](../includes/pn-dyn-365.md)].</span></span>|<span data-ttu-id="38ff8-197">Öffnen Sie im Fenster **Anpassungen** die Entität **Buchbare Ressourcenbuchung**, wählen Sie die Ansicht **Meine in Bearbeitung befindlichen Buchungen** aus und wählen Sie dann **Spalten hinzufügen** aus.</span><span class="sxs-lookup"><span data-stu-id="38ff8-197">In the **Customizations** screen, open the **Bookable Resource Booking** entity, select the **My In Progress Bookings** view, and then choose **Add Columns**.</span></span><br /><br /><span data-ttu-id="38ff8-198">**Hinweis** In das Feld müssen Daten eingefügt werden.</span><span class="sxs-lookup"><span data-stu-id="38ff8-198">**Note**  Make sure to add data to the field.</span></span> <span data-ttu-id="38ff8-199">Das Feld wird nur angezeigt, wenn es Daten enthält.</span><span class="sxs-lookup"><span data-stu-id="38ff8-199">The field won’t appear if there’s no data.</span></span>|
+|<span data-ttu-id="38ff8-200">Fügen Sie einen [!include[pn-power-bi](../includes/pn-power-bi.md)]-Weblink ein.</span><span class="sxs-lookup"><span data-stu-id="38ff8-200">Add a [!include[pn-power-bi](../includes/pn-power-bi.md)] web link.</span></span> <span data-ttu-id="38ff8-201">Wenn der Benutzer in [!include[pn-hololens](../includes/pn-hololens.md)] den Link auswählt, wird er automatisch im [!include[pn-edge](../includes/pn-edge.md)]-Browser geöffnet.</span><span class="sxs-lookup"><span data-stu-id="38ff8-201">In [!include[pn-hololens](../includes/pn-hololens.md)], when the user selects the link, it will automatically open in the [!include[pn-edge](../includes/pn-edge.md)] browser.</span></span>|<span data-ttu-id="38ff8-202">Erstellen Sie ein Feld, das Textzeichenfolgen unterstützt.</span><span class="sxs-lookup"><span data-stu-id="38ff8-202">Create a field that supports text strings.</span></span>|<span data-ttu-id="38ff8-203">Geben Sie einen Weblink in den Felddaten ein, zum Beispiel den zum Öffnen eines [!include[pn-power-bi](../includes/pn-power-bi.md)]-Dashboards verwendeten.</span><span class="sxs-lookup"><span data-stu-id="38ff8-203">Enter any web link in the field data, such as one that opens a [!include[pn-power-bi](../includes/pn-power-bi.md)] dashboard.</span></span>  <span data-ttu-id="38ff8-204">Wenn es eine gültige URL ist, wird sie automatisch ein Link.</span><span class="sxs-lookup"><span data-stu-id="38ff8-204">As long as it’s a valid URL, it will automatically become a link.</span></span>|
+
+### <a name="see-also"></a><span data-ttu-id="38ff8-205">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="38ff8-205">See also</span></span>
+
+- [<span data-ttu-id="38ff8-206">Felder in Dynamics 365 erstellen oder bearbeiten</span><span class="sxs-lookup"><span data-stu-id="38ff8-206">Create or edit fields in Dynamics 365</span></span>](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/customize/create-edit-fields)
+
+- [<span data-ttu-id="38ff8-207">Ansichten in Dynamics 365 erstellen oder bearbeiten</span><span class="sxs-lookup"><span data-stu-id="38ff8-207">Create or edit views in Dynamics 365</span></span>](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/customize/create-edit-views)
