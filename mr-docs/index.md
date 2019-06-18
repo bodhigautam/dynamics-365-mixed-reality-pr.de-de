@@ -1,196 +1,156 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff xmlns:logoport="urn:logoport:xliffeditor:xliff-extras:1.0" xmlns:tilt="urn:logoport:xliffeditor:tilt-non-translatables:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en-US" original="index.md" target-language="de-DE">
-    <header>
-      <tool tool-company="Microsoft" tool-version="1.0-7889195" tool-name="mdxliff" tool-id="mdxliff"/>
-      <xliffext:skl_file_name>index.f02828.89754be234874ca21f1fe4c5ada5f9c92e9d9916.skl</xliffext:skl_file_name>
-      <xliffext:version>1.2</xliffext:version>
-      <xliffext:ms.openlocfilehash>89754be234874ca21f1fe4c5ada5f9c92e9d9916</xliffext:ms.openlocfilehash>
-      <xliffext:ms.sourcegitcommit>3c070faecbdaab5c7294efc4fbe405412f48cf26</xliffext:ms.sourcegitcommit>
-      <xliffext:ms.lasthandoff>05/20/2019</xliffext:ms.lasthandoff>
-      <xliffext:ms.openlocfilepath>mr-docs\index.md</xliffext:ms.openlocfilepath>
-    </header>
-    <body>
-      <group extype="content" id="content">
-        <trans-unit xml:space="preserve" translate="yes" id="101" restype="x-metadata">
-          <source>Dynamics 365 Mixed reality apps | Microsoft Docs</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Dynamics 365 Mixed Reality-Apps | Microsoft-Dokumentation</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="102" restype="x-metadata">
-          <source>Dynamics 365 Mixed reality apps</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Dynamics 365 Mixed-Reality-Apps</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="103">
-          <source>Dynamics 365 Mixed reality apps</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Dynamics 365 Mixed-Reality-Apps</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="104">
-          <source>&amp;#160;</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">&amp;#160;</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="105">
-          <source><bpt id="p1">
-                &lt;a href="#mixed-reality-apps"&gt;</bpt>Mixed reality apps<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
-                </ph></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">
-                &lt;a href="#mixed-reality-apps"&gt;</bpt>Mixed Reality-Apps<ept id="p1">&lt;/a&gt;</ept><ph id="ph1">
-                </ph></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="106">
-          <source><bpt id="p1">&lt;span style="font-size: 50%; color: #7f7f7f"&gt;</bpt>DYNAMICS 365<ept id="p1">&lt;/span&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;span style="font-size: 50%; color: #7f7f7f"&gt;</bpt>DYNAMICS 365<ept id="p1">&lt;/span&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="107">
-          <source>Guides (in preview)</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Guides (Vorschau)</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="108">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/guides/index"&gt;</bpt>Overview<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/guides/index"&gt;</bpt>Übersicht<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="109">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/guides/setup"&gt;</bpt>Sign up for preview<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/guides/setup"&gt;</bpt>Zur Vorschau anmelden<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="110">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/guides/get-started"&gt;</bpt>Get started<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/guides/get-started"&gt;</bpt>Erste Schritte<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="111">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/guides/authoring-overview"&gt;</bpt>Author a guide<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/guides/authoring-overview"&gt;</bpt>Handbuch erstellen<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="112">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/guides/operator-guide"&gt;</bpt>Operator’s manual<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/guides/operator-guide"&gt;</bpt>Bedienerhandbuch<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="113">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/guides/analytics-guide"&gt;</bpt>Analyze your guides<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/guides/analytics-guide"&gt;</bpt>Handbücher analysieren<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="114">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/guides/glossary"&gt;</bpt>Glossary<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/guides/glossary"&gt;</bpt>Glossar<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="115">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/guides/known-issues"&gt;</bpt>Known issues<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/guides/known-issues"&gt;</bpt>Bekannte Probleme<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="116">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/guides/faq"&gt;</bpt>FAQ<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/guides/faq"&gt;</bpt>Häufig gestellte Fragen<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="117">
-          <source><bpt id="p1">&lt;span style="font-size: 50%; color: #7f7f7f"&gt;</bpt>DYNAMICS 365<ept id="p1">&lt;/span&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;span style="font-size: 50%; color: #7f7f7f"&gt;</bpt>DYNAMICS 365<ept id="p1">&lt;/span&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="118">
-          <source>Import Tool (in preview)</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Import Tool (Vorschau)</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="119">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/import-tool/index"&gt;</bpt>Overview<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/import-tool/index"&gt;</bpt>Übersicht<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="120">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/import-tool/convert-models"&gt;</bpt>Convert your 3D (CAD) models<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/import-tool/convert-models"&gt;</bpt>3D-Modelle (CAD) konvertieren<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="121">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/import-tool/optimize-models"&gt;</bpt>Optimize your 3D models<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/import-tool/optimize-models"&gt;</bpt>3D-Modelle optimieren<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="122">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/import-tool/best-practices"&gt;</bpt>Best practices for 3D models<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/import-tool/best-practices"&gt;</bpt>Bewährte Methoden für 3D-Modelle<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="123">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/import-tool/requirements"&gt;</bpt>Requirements for installing Import Tool<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/import-tool/requirements"&gt;</bpt>Import Tool-Installationsanforderungen<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="124">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/import-tool/try-import-tool-free"&gt;</bpt>Try Import Tool free<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/import-tool/try-import-tool-free"&gt;</bpt>Import Tool kostenlos testen<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="125">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/import-tool/install"&gt;</bpt>Install Import Tool<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/import-tool/install"&gt;</bpt>Import Tool installieren<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="126">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/import-tool/import-tool"&gt;</bpt>Use the Import Tool<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/import-tool/import-tool"&gt;</bpt>Import Tool verwenden<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="127">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/import-tool/layout"&gt;</bpt>Work with Dynamics 365 Layout<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/import-tool/layout"&gt;</bpt>Verwenden von Dynamics 365 Layout<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="128">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/import-tool/guides"&gt;</bpt>Work with Dynamics 365 Guides<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/import-tool/guides"&gt;</bpt>Verwenden von Dynamics 365 Guides<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="129">
-          <source><bpt id="p1">&lt;span style="font-size: 50%; color: #7f7f7f"&gt;</bpt>DYNAMICS 365<ept id="p1">&lt;/span&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;span style="font-size: 50%; color: #7f7f7f"&gt;</bpt>DYNAMICS 365<ept id="p1">&lt;/span&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="130">
-          <source>Layout</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Layout</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="131">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/layout/index"&gt;</bpt>Overview<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/layout/index"&gt;</bpt>Übersicht<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="132">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/layout/requirements"&gt;</bpt>Requirements<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/layout/requirements"&gt;</bpt>Anforderungen<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="133">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/layout/try-layout-free"&gt;</bpt>Try Layout free<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/layout/try-layout-free"&gt;</bpt>Layout kostenlos testen<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="134">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/layout/buy-and-deploy"&gt;</bpt>Buy and deploy<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/layout/buy-and-deploy"&gt;</bpt>Kaufen und bereitstellen<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="135">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/layout/user-guide"&gt;</bpt>User Guide<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/layout/user-guide"&gt;</bpt>Benutzerhandbuch<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="136">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/layout/import-tool"&gt;</bpt>Use Import Tool<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/layout/import-tool"&gt;</bpt>Import Tool verwenden<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="137">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/layout/videos"&gt;</bpt>Videos<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/layout/videos"&gt;</bpt>Videos<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="138">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/layout/faq"&gt;</bpt>FAQ<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/layout/faq"&gt;</bpt>Häufig gestellte Fragen<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="139">
-          <source><bpt id="p1">&lt;span style="font-size: 50%; color: #7f7f7f"&gt;</bpt>DYNAMICS 365<ept id="p1">&lt;/span&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;span style="font-size: 50%; color: #7f7f7f"&gt;</bpt>DYNAMICS 365<ept id="p1">&lt;/span&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="140">
-          <source>Product Visualize (in preview)</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Product Visualize (Vorschau)</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="141">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/product-visualize/index"&gt;</bpt>Overview<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/product-visualize/index"&gt;</bpt>Übersicht<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="142">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/product-visualize/requirements"&gt;</bpt>Requirements<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/product-visualize/requirements"&gt;</bpt>Anforderungen<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="143">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/product-visualize/setup"&gt;</bpt>Setup<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/product-visualize/setup"&gt;</bpt>Einrichtung<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="144">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/product-visualize/admin-guide"&gt;</bpt>Admin Guide<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/product-visualize/admin-guide"&gt;</bpt>Administratorhandbuch<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="145">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/product-visualize/user-guide"&gt;</bpt>User Guide<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/product-visualize/user-guide"&gt;</bpt>Benutzerhandbuch<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="146">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/product-visualize/faq"&gt;</bpt>FAQ<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/product-visualize/faq"&gt;</bpt>Häufig gestellte Fragen<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="147">
-          <source><bpt id="p1">&lt;span style="font-size: 50%; color: #7f7f7f"&gt;</bpt>DYNAMICS 365<ept id="p1">&lt;/span&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;span style="font-size: 50%; color: #7f7f7f"&gt;</bpt>DYNAMICS 365<ept id="p1">&lt;/span&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="148">
-          <source>Remote Assist</source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm">Remote Assist</target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="149">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/remote-assist/index"&gt;</bpt>Overview<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/remote-assist/index"&gt;</bpt>Übersicht<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="150">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/remote-assist/requirements"&gt;</bpt>Requirements<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/remote-assist/requirements"&gt;</bpt>Anforderungen<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="151">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/remote-assist/try-remote-assist-free"&gt;</bpt>Try Remote Assist free<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/remote-assist/try-remote-assist-free"&gt;</bpt>Remote Assist kostenlos testen<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="152">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/remote-assist/buy-and-deploy"&gt;</bpt>Buy and deploy<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/remote-assist/buy-and-deploy"&gt;</bpt>Kaufen und bereitstellen<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="153">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/remote-assist/user-guide"&gt;</bpt>HoloLens User Guide<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/remote-assist/user-guide"&gt;</bpt>HoloLens-Benutzerhandbuch<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="154">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/remote-assist/mobile-app"&gt;</bpt>Mobile app User Guide<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/remote-assist/mobile-app"&gt;</bpt>Benutzerhandbuch zur mobilen App<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="155">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/remote-assist/use-microsoft-teams-with-remote-assist"&gt;</bpt>Use with Teams<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/remote-assist/use-microsoft-teams-with-remote-assist"&gt;</bpt>Verwendung mit Teams<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="156">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/remote-assist/protocol-activation"&gt;</bpt>Launch from another app<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/remote-assist/protocol-activation"&gt;</bpt>Von einer anderen App aus starten<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="157">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/remote-assist/videos"&gt;</bpt>Videos<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/remote-assist/videos"&gt;</bpt>Videos<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-        <trans-unit xml:space="preserve" translate="yes" id="158">
-          <source><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/remote-assist/faq"&gt;</bpt>FAQ<ept id="p1">&lt;/a&gt;</ept></source>
-        <target logoport:matchpercent="101" state="translated" state-qualifier="leveraged-tm"><bpt id="p1">&lt;a href="/dynamics365/mixed-reality/remote-assist/faq"&gt;</bpt>Häufig gestellte Fragen<ept id="p1">&lt;/a&gt;</ept></target></trans-unit>
-      </group>
-    </body>
-  </file>
-</xliff>
+---
+layout: HubPage
+hide_bc: true
+title: Dynamics 365 Mixed Reality-Apps | Microsoft-Dokumentation
+description: Dynamics 365 Mixed-Reality-Apps
+ms.service: dynamics-365-crossapp
+ms.custom:
+- dyn365-hub
+ms.openlocfilehash: 89754be234874ca21f1fe4c5ada5f9c92e9d9916
+ms.sourcegitcommit: 3c070faecbdaab5c7294efc4fbe405412f48cf26
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "1593031"
+---
+<div id="main" class="v2">
+    <div class="container">
+        <h1 class="">Dynamics 365 Mixed-Reality-Apps</h1>
+        <p>&#160;</p>
+        <ul class="pivots">
+            <li>
+                <a href="#mixed-reality-apps">Mixed Reality-Apps</a>
+                <ul id="mixed-reality-apps" class="cardsF">
+                    <li>
+                        <a data-default="true" href="#mr-sub"></a>
+                        <ul id="mr-sub" class="cardsF">
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img alt="" src="/dynamics365/images/Guides_outline_36px_blue.svg">
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3 style="font-size: 1.8rem; font-weight: 500; font-family: segoe-ui, Segoe UI, Segoe WP, Frutiger, Helvetica Neue, Helvetica, sans-serif"><span style="font-size: 50%; color: #7f7f7f">DYNAMICS 365</span><br />Guides (Vorschau)</h3>
+                                                <p><a href="/dynamics365/mixed-reality/guides/index">Übersicht</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/guides/setup">Zur Vorschau anmelden</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/guides/get-started">Erste Schritte</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/guides/authoring-overview">Handbuch erstellen</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/guides/operator-guide">Bedienerhandbuch</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/guides/analytics-guide">Handbücher analysieren</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/guides/glossary">Glossar</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/guides/known-issues">Bekannte Probleme</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/guides/faq">Häufig gestellte Fragen</a></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img alt="" src="/dynamics365/images/ImportMixedRealityLayoutLogoExtensions-03.svg">
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3 style="font-size: 1.8rem; font-weight: 500; font-family: segoe-ui, Segoe UI, Segoe WP, Frutiger, Helvetica Neue, Helvetica, sans-serif"><span style="font-size: 50%; color: #7f7f7f">DYNAMICS 365</span><br />Import Tool (Vorschau)</h3>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/index">Übersicht</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/convert-models">3D-Modelle (CAD) konvertieren</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/optimize-models">3D-Modelle optimieren</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/best-practices">Bewährte Methoden für 3D-Modelle</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/requirements">Import Tool-Installationsanforderungen</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/try-import-tool-free">Import Tool kostenlos testen</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/install">Import Tool installieren</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/import-tool">Import Tool verwenden</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/layout">Verwenden von Dynamics 365 Layout</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/guides">Verwenden von Dynamics 365 Guides</a></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img alt="" src="/dynamics365/images/Layout_outline_36px_blue.svg">
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3 style="font-size: 1.8rem; font-weight: 500; font-family: segoe-ui, Segoe UI, Segoe WP, Frutiger, Helvetica Neue, Helvetica, sans-serif"><span style="font-size: 50%; color: #7f7f7f">DYNAMICS 365</span><br />Layout</h3>
+                                                <p><a href="/dynamics365/mixed-reality/layout/index">Übersicht</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/layout/requirements">Anforderungen</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/layout/try-layout-free">Layout kostenlos testen</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/layout/buy-and-deploy">Kaufen und bereitstellen</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/layout/user-guide">Benutzerhandbuch</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/layout/import-tool">Import Tool verwenden</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/layout/videos">Videos</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/layout/faq">Häufig gestellte Fragen</a></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img alt="" src="/dynamics365/images/ProductVisualize_outline_36px_blue.svg">
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3 style="font-size: 1.8rem; font-weight: 500; font-family: segoe-ui, Segoe UI, Segoe WP, Frutiger, Helvetica Neue, Helvetica, sans-serif"><span style="font-size: 50%; color: #7f7f7f">DYNAMICS 365</span><br />Product Visualize (Vorschau)</h3>
+                                                <p><a href="/dynamics365/mixed-reality/product-visualize/index">Übersicht</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/product-visualize/requirements">Anforderungen</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/product-visualize/setup">Einrichtung</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/product-visualize/admin-guide">Administratorhandbuch</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/product-visualize/user-guide">Benutzerhandbuch</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/product-visualize/faq">Häufig gestellte Fragen</a></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img alt="" src="/dynamics365/images/RemoteAssist_outline_36px_blue.svg">
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3 style="font-size: 1.8rem; font-weight: 500; font-family: segoe-ui, Segoe UI, Segoe WP, Frutiger, Helvetica Neue, Helvetica, sans-serif"><span style="font-size: 50%; color: #7f7f7f">DYNAMICS 365</span><br />Remote Assist</h3>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/index">Übersicht</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/requirements">Anforderungen</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/try-remote-assist-free">Remote Assist kostenlos testen</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/buy-and-deploy">Kaufen und bereitstellen</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/user-guide">HoloLens-Benutzerhandbuch</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/mobile-app">Benutzerhandbuch zur mobilen App</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/use-microsoft-teams-with-remote-assist">Verwendung mit Teams</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/protocol-activation">Von einer anderen App aus starten</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/videos">Videos</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/faq">Häufig gestellte Fragen</a></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</div>
