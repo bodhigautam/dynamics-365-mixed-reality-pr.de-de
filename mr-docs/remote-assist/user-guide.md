@@ -1,18 +1,18 @@
 ---
-author: bencorn
+author: drpusey
 description: Dynamics 365 Remote Assist-Benutzerhandbuch (zu HoloLens)
-ms.author: becorn
-ms.date: 05/6/2019
+ms.author: drpusey
+ms.date: 06/19/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist-Benutzerhandbuch (zu HoloLens)
 ms.reviewer: v-brycho
-ms.openlocfilehash: 0daf3cc404cb9eb783a1b7f419310ef17de9a2e3
-ms.sourcegitcommit: a9ae3e613938a7c53b2de2ce787fae6a3499c9ae
+ms.openlocfilehash: 57b1cb8cfc0de579a3407bcb131d2bc6c993270d
+ms.sourcegitcommit: cb58ebe19de3647d35bd7f8694b3adecaab55256
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "1593629"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "1691561"
 ---
 # <a name="dynamics-365-remote-assist-user-guide-for-hololens"></a>Dynamics 365 Remote Assist-Benutzerhandbuch (zu HoloLens)
 
@@ -53,7 +53,10 @@ Wenn Ihr [!include[pn-hololens](../includes/pn-hololens.md)] das April 2018 Upda
 
 ## <a name="using-the-user-interface-or-voice-commands"></a>Verwenden der Benutzeroberfläche oder von Sprachbefehlen
 
-Die Abläufe in diesem Benutzerhandbuch beschreiben, wie Sie Aufgaben über die Benutzeroberfläche oder mit Sprachbefehlen (wenn verfügbar) ausführen. Um Sprachbefehle zu verwenden, sagen Sie „[!include[pn-remote-assist](../includes/pn-remote-assist.md)]” und anschließend den Sprachbefehl. [Erfahren Sie mehr über Sprachbefehle.](#voice)
+Die Abläufe in diesem Benutzerhandbuch beschreiben, wie Sie Aufgaben über die Benutzeroberfläche oder mit Sprachbefehlen (wenn verfügbar) ausführen. Um Sprachbefehle zu verwenden, sagen Sie „[!include[pn-remote-assist](../includes/pn-remote-assist.md)]“ und anschließend den Sprachbefehl. [Erfahren Sie mehr über Sprachbefehle.](#voice)
+
+> [!NOTE]
+> Sprachbefehle und Spracherkennung sind derzeit [für bestimmte Sprachen verfügbar](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for). 
 
 ## <a name="make-and-receive-calls"></a>Anrufe tätigen und empfangen
 
@@ -160,11 +163,11 @@ Es gibt zwei Möglichkeiten, Anrufe aufzeichnen:
 
 1.  Tätigen Sie den Gruppenanruf oder treten Sie diesem bei.
 
-2.  Zum Beginnen der Aufzeichnung wählen Sie **Weitere Optionen** ( ... ) > **Aufzeichnung beginnen**.
+2.  Zum Beginnen der Aufzeichnung wählen Sie **Weitere Optionen** (...) > **Aufzeichnung beginnen**.
 
     ![Schaltfläche „Aufzeichnung beginnen”](media/start-recording.PNG "Schaltfläche „Aufzeichnung beginnen”")
  
-3.  Zum Beenden der Aufzeichnung, wählen Sie **Weitere Optionen** ( ... ) > **Aufzeichnung beenden**.
+3.  Zum Beenden der Aufzeichnung, wählen Sie **Weitere Optionen** (...) > **Aufzeichnung beenden**.
 
     ![Schaltfläche „Aufzeichnung beenden”](media/stop-recording.PNG "Schaltfläche „Aufzeichnung beenden”") 
  
@@ -304,10 +307,10 @@ Um Ihre letzte Aktion rückgängig zu machen, einschließlich **Alle löschen**:
 
 ## Verwenden Sie Sprachbefehle und visieren Sie <a name="voice"></a>an.
 
-In vielen Fällen können Sie Sprachbefehle und statt Gesten Anvisieren verwenden. Einige Sprachbefehle sind kontextabhängig, sodass sie nur in bestimmten Bereichen der Benutzeroberfläche funktionieren.
+In vielen Fällen können Sie Sprachbefehle und statt Gesten Anvisieren verwenden. Einige Sprachbefehle sind kontextabhängig, sodass sie nur in bestimmten Bereichen der Benutzeroberfläche funktionieren. Beachten Sie, dass Sprachbefehle und Spracherkennung derzeit [für bestimmte Sprachen verfügbar sind](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for). 
 
 > [!IMPORTANT]
-> Um Sprachbefehle zu verwenden, sagen Sie „[!include[pn-remote-assist](../includes/pn-remote-assist.md)]” und anschließend einen der Befehle aus der folgenden Tabelle. Sagen Sie beispielsweise „[!include[pn-remote-assist](../includes/pn-remote-assist.md)], bewegen”, um in den Bewegungsmodus für Tafeln (Fenster) zu gelangen. Sie können auch eine Schaltfläche anvisieren und „[!include[pn-remote-assist](../includes/pn-remote-assist.md)], auswählen” sagen, um diese Schaltfläche auszuwählen.
+> Um Sprachbefehle zu verwenden, sagen Sie „[!include[pn-remote-assist](../includes/pn-remote-assist.md)]“ und anschließend einen der Befehle aus der folgenden Tabelle. Sagen Sie beispielsweise „[!include[pn-remote-assist](../includes/pn-remote-assist.md)], bewegen”, um in den Bewegungsmodus für Tafeln (Fenster) zu gelangen. Sie können auch eine Schaltfläche anvisieren und „[!include[pn-remote-assist](../includes/pn-remote-assist.md)], auswählen” sagen, um diese Schaltfläche auszuwählen.
 
 | **Sprachbefehl**            | **Beschreibung**                                                                      |
 |------------------------------|--------------------------------------------------------------------------------------|

@@ -7,12 +7,12 @@ ms.service: crm-online
 ms.topic: article
 title: Anforderungen für Dynamics 365 Remote Assist
 ms.reviewer: v-brycho
-ms.openlocfilehash: 191c3880a4d1a4c0a4d77ba393147dea8df508c7
-ms.sourcegitcommit: 0cb918a4505c43abfb65ca9aab9e5b3cd71211a0
+ms.openlocfilehash: b940ea97540650e5a9f96a1faf7052b40ccaa1b3
+ms.sourcegitcommit: 21c2ba57557afc0090b7b5f1f5e8f8c9d0f7def5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "1594121"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "1631937"
 ---
 # <a name="requirements-for-setting-up-dynamics-365-remote-assist"></a>Anforderungen für die Einrichtung von Dynamics 365 Remote Assist
 
@@ -23,8 +23,8 @@ In der folgenden Tabelle sind technischer Anforderungen für die Bereitstellung 
 | **Gerät**               | **Betriebssystemanforderungen**                                                                                                                                                  | **Details**                                                                                                                                                                                                                    |
 |--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [!include[pn-hololens](../includes/pn-hololens.md)]                 | Build 10.0.14393.0 oder höher. [!include[pn-hololens](../includes/pn-hololens.md)] Ab Build 10.0.14393.0 wird [!include[pn-remote-assist](../includes/pn-remote-assist.md)] unterstützt. Es wird empfohlen [!include[pn-hololens](../includes/pn-hololens.md)] auf neuere Versionen zu aktualisieren, falls verfügbar. | In [Updates von HoloLens verwalten](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) finden Sie Anweisungen zur Verwendung von [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business, Mobile Device Management (MDM) und [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Server Update Services (WSUS). |
-| [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC (optional) | Beliebige [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 Build.| Ein PC mit [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 kann mithilfe von [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)] mit [!include[pn-hololens](../includes/pn-hololens.md)] verwendet werden.|
-|Mobiles Gerät (optional)|Beliebiges iOS- oder [!include[tn-android](../includes/tn-android.md)-Smartphone oder -Tablet, auf dem [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md) Mobile installiert ist.|Ein Smartphone oder Tablet, auf dem [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md) Mobile ausgeführt wird, kann mit [!include[pn-hololens](../includes/pn-hololens.md)] verwendet werden.|
+| [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC (optional) | Beliebige [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 Build.| Ein [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC kann mit [!include[pn-hololens](../includes/pn-hololens.md)] mithilfe von [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)] verwendet werden.|
+|Mobiles Gerät (optional)|Beliebiges IOS- oder [!include[tn-android](../includes/tn-android.md)]-Smartphone oder -Tablet mit [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] Mobile-App.|Ein Smartphone oder Tablet, auf dem [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] Mobile-App ausgeführt wird, kann mit [!include[pn-hololens](../includes/pn-hololens.md)] verwendet werden.|
 
 ## <a name="licensing-and-product-requirements"></a>Lizenzierungs- und Produktanforderungen
 

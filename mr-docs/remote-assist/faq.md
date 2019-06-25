@@ -1,18 +1,18 @@
 ---
-author: MatthewJonPaul
+author: drpusey
 description: Antworten auf häufige Fragen zur Verwendung von Microsoft Dynamics 365 Remote Assist.
-ms.author: mapau
-ms.date: 4/26/2019
+ms.author: drpusey
+ms.date: 6/19/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist – Häufig gestellte Fragen
 ms.reviewer: v-brycho
-ms.openlocfilehash: b096d85f0264294c3a7d6bc25a296592992d049a
-ms.sourcegitcommit: a9ae3e613938a7c53b2de2ce787fae6a3499c9ae
+ms.openlocfilehash: f64c6007d062dd0cf640fd5a4c08e95c2a0ad335
+ms.sourcegitcommit: 588b7d38c459f54b81ff5c116f68d2190ac1944b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "1593559"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "1690678"
 ---
 # <a name="dynamics-365-remote-assist-faq"></a>Dynamics 365 Remote Assist – Häufig gestellte Fragen
 
@@ -52,7 +52,23 @@ Rufen Sie **Einstellungen** auf, und suchen Sie unter **Info** die Versionsnumme
 
 Derzeit gibt es [!include[pn-remote-assist](../includes/pn-remote-assist.md)] auf Englisch und Japanisch.
 
-## <a name="where-is-remote-assist-available"></a>Wo ist Remote Assist erhältlich?
+## <a name="what-languages-are-voice-commands-and-speech-recognition-available-for"></a>In welchen Sprachen sind Sprachbefehle und Spracherkennung verfügbar?
+
+Sprachbefehle und Spracherkennung sind derzeit für die folgenden Sprachen verfügbar:
+
+-   Englisch (US)
+-   Englisch (Kanada)
+-   Englisch (Vereinigtes Königreich)
+-   Englisch (Australien)
+-   Chinesisch (China)
+-   Französisch (Frankreich)
+-   Französisch (Kanada)
+-   Deutsch (Deutschland)
+-   Italienisch (Italien)
+-   Japanisch (Japan)
+-   Spanisch (Spanien)
+
+## <a name="where-is-remote-assist-available"></a>Wo ist Remote Assist verfügbar?
 
 [!include[pn-remote-assist](../includes/pn-remote-assist.md)], das [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] erfordert, ist weltweit verfügbar.
 

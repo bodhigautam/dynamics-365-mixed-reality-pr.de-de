@@ -7,46 +7,46 @@ ms.service: crm-online
 ms.topic: article
 title: Benutzerhandbuch zur mobilen App von Dynamics 365 Remote Assist
 ms.reviewer: v-brycho
-ms.openlocfilehash: 8ba9499624601020050e2dcd0956ddfdc57ccee9
-ms.sourcegitcommit: 9d8a56918b33fb84d4232d1a6fd4fd65fedd157e
+ms.openlocfilehash: 8004747d1811543b7ad6f40a31303fce531d2400
+ms.sourcegitcommit: 21c2ba57557afc0090b7b5f1f5e8f8c9d0f7def5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "1622123"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "1631942"
 ---
 # <a name="dynamics-365-remote-assist-mobile-user-guide-in-preview"></a>Benutzerhandbuch zu Dynamics 365 Remote Assist Mobile (Vorschau)
 
 [Dieses Thema ist Teil der Dokumentation zur Vorabversion und kann geändert werden.]
 
-Mithilfe der mobilen App von [!include[cc-microsoft](../includes/cc-microsoft.md) [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] funktioniert [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] mit [!include[tn-android](../includes/tn-android.md)] ARCore-fähigen Smartphones (neben [!include[cc-microsoft](../includes/cc-microsoft.md) [!include[pn-HoloLens](../includes/pn-HoloLens.md)). Techniker können sich per Telefon mit einem Experten von [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] in Verbindung setzen. Mithilfe von Videoanrufen und Mixed Reality-Anmerkungen können sie das, was sie sehen, dem Experten zeigen, um Probleme gemeinsam schneller zu lösen. 
+Die mobile [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]-App erweitert die Funktionen von [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] für die Arbeit mit [!include[tn-android](../includes/tn-android.md)] ARCore-fähigen Telefonen (zusätzlich zu [!include[cc-microsoft](../includes/cc-microsoft.md)]  [!include[pn-HoloLens](../includes/pn-HoloLens.md)]. Techniker können sich per Telefon mit einem Experten von [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] in Verbindung setzen. Mithilfe von Videoanrufen und Mixed Reality-Anmerkungen können sie das, was sie sehen, dem Experten zeigen, um Probleme gemeinsam schneller zu lösen. 
 
 ## <a name="what-youll-need"></a>Was Sie benötigen
 
 Voraussetzungen zur Verwendung der mobilen App von [!include[pn-remote-assist](../includes/pn-remote-assist.md)]:
 
-- Ein [!include[tn-android](../includes/tn-android.md) ARCore-fähiges Smartphone (Tablets werden derzeit nicht unterstützt), auf dem ARCore installiert ist. [Eine vollständige Liste der unterstützten Geräte finden Sie hier.](https://developers.google.com/ar/discover/supported-devices) 
+- An [!include[tn-android](../includes/tn-android.md)] ARCore-fähiges Smartphone (Tablets werden derzeit nicht unterstützt) mit ARCore installiert. [Eine vollständige Liste der unterstützten Geräte finden Sie hier.](https://developers.google.com/ar/discover/supported-devices) 
 
 - Ein [!include[tn-google](../includes/tn-google.md)] Play Store-Konto.
 
-- Die mobile App von [!include[pn-remote-assist](../includes/pn-remote-assist.md).
+- Die mobile [!include[pn-remote-assist](../includes/pn-remote-assist.md)]-App.
 
 - Ein [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)]-Konto (kostenlos erhältlich).
 
-- Ein [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)]-Desktopclient, auf dem [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md) 10 ausgeführt wird (für den Remote-Experten, der den Anruf erhält).
+- Ein [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)]-Desktopclient, auf dem [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 ausgeführt wird (für den Remote-Experten, der den Anruf erhält).
 
 - Eine Internetverbindung. Die besten Ergebnisse erzielen Sie mit mindestens 1,5 MB Bandbreite.
 
-Wenn Sie [!include[pn-remote-assist](../includes/pn-remote-assist.md) mit [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] verwenden möchten, um Anrufdaten automatisch in einem [!include[pn-field-service](../includes/pn-field-service.md)-Arbeitsauftrag erfassen zu können, benötigen Sie auch eine oder beide der folgenden Komponenten:
+Wenn Sie [!include[pn-remote-assist](../includes/pn-remote-assist.md)] mit [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] verwenden möchten, damit Sie automatisch Anrufdaten in einem [!include[pn-field-service](../includes/pn-field-service.md)]-Arbeitsauftrag erfassen können, benötigen Sie auch eine der folgenden Komponenten oder beide:
 
-- [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)-Webanwendung
+- [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]-Webanwendung
 
-- Mobile App von [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md) 
+- Mobile-App [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] 
 
 ## <a name="get-started"></a>Erste Schritte
 
 ### <a name="step-1-sign-up-for-a-microsoft-teams-account-free"></a>Schritt 1: Melden Sie sich bei einem Microsoft Teams-Konto an (kostenlos).
 
-Um [!include[pn-remote-assist](../includes/pn-remote-assist.md) Mobile verwenden zu können, ist ein [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)]-Konto ist erforderlich. Wenn Sie nicht bereits ein [!include[pn-teams](../includes/pn-teams.md)]-Konto haben, können Sie ein [Teams-Konto kostenlos erstellen](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader). 
+Ein [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)]-Konto ist erforderlich, um [!include[pn-remote-assist](../includes/pn-remote-assist.md)] unterwegs verwenden zu können. Wenn Sie nicht bereits ein [!include[pn-teams](../includes/pn-teams.md)]-Konto haben, können Sie ein [Teams-Konto kostenlos erstellen](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader). 
 
 ### <a name="step-2-download-the-app"></a>Schritt 2: Laden Sie die App herunter.
 
@@ -56,21 +56,21 @@ Um [!include[pn-remote-assist](../includes/pn-remote-assist.md) Mobile verwenden
  
 ### <a name="step-3-sign-in-to-the-app-for-the-first-time"></a>Schritt 3: Melden Sie sich zum ersten Mal bei der App an.
 
-1.  Nachdem Sie die App heruntergeladen haben, öffnen Sie sie auf Ihrem [!include[tn-android](../includes/tn-android.md)]-Smartphone. 
+1.  Wenn Sie die App heruntergeladen haben, öffnen Sie sie auf Ihrem [!include[tn-android](../includes/tn-android.md)]-Smartphone. 
 
-2.  Melden Sie sich mit Ihrem [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)-Konto an.
+2.  Melden Sie sich mit Ihrem [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)]-Konto an.
 
     ![Anmeldebildschirm](media/sign-in.png "Anmeldebildschirm")
   
     > [!TIP]
     > Die Anmeldeadresse hat die Form: Benutzername@Unternehmen.
     
-3.  Wählen Sie in dem daraufhin angezeigten Dialogfeld die Option **Funktion aktivieren** aus, um [!include[pn-remote-assist](../includes/pn-remote-assist.md) mit [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md) zu verknüpfen, oder wählen Sie **Überspringen** aus, wenn Sie die Apps derzeit nicht verknüpfen möchten. Sie können sie später über **Einstellungen** verknüpfen. Wenn Sie mehr zur gemeinsamen Funktion der Apps erfahren möchten, wählen Sie **Weitere Informationen** aus.
+3.  Wählen Sie in dem daraufhin angezeigten Dialogfeld **Funktion aktivieren** aus, um [!include[pn-remote-assist](../includes/pn-remote-assist.md)] mit [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] zu verknüpfen, oder wählen Sie **Überspringen** aus, wenn Sie im Moment nicht auf die Apps klicken möchten. Sie können sie später über **Einstellungen** verknüpfen. Wenn Sie mehr zur gemeinsamen Funktion der Apps erfahren möchten, wählen Sie **Weitere Informationen** aus.
 
     ![Field Service-Bildschirm](media/field-service.PNG "Field Service-Bildschirm")
   
 ## <a name="make-a-call"></a>Telefonanruf vornehmen
-Nach der Anmeldung sehen Sie die Seite **Kontakte**. Das ist die Hauptseite der mobilen App von [!include[pn-remote-assist](../includes/pn-remote-assist.md). Auf der Seite **Kontakte** sind die Kontakte nach der Aktualität der Anrufe angeordnet.
+Nach der Anmeldung sehen Sie die Seite **Kontakte**, die Hauptseite der mobilen [!include[pn-remote-assist](../includes/pn-remote-assist.md)]-App. Auf der Seite **Kontakte** sind die Kontakte nach der Aktualität der Anrufe angeordnet.
 
 ![Kontaktbildschirm](media/contacts.PNG "Kontaktbildschirm")
 
@@ -96,7 +96,7 @@ Sie können Anmerkungen in Ihren Bildschirm einfügen, um sie an einen Experten 
 ![Anmerkungen hinzufügen](media/annotation-bar-full-screen.PNG "Anmerkungen hinzufügen")
   
 > [!NOTE] 
-> Wenn Sie Ihr Telefon sperren oder [!include[pn-remote-assist](../includes/pn-remote-assist.md) minimieren, werden die erkannten Ebenen automatisch erneut angezeigt, wenn Ihr Smartphone die Umgebung erkennt.
+> Wenn Sie Ihr Telefon sperren oder [!include[pn-remote-assist](../includes/pn-remote-assist.md)] minimieren, werden die erkannten Ebenen automatisch erneut angezeigt, wenn Ihr Smartphone die Umgebung erkennt.
 
 ### <a name="add-an-annotation"></a>Eine Anmerkung hinzufügen
 Sie können eine Anmerkung mithilfe der Schaltflächen auf der Anmerkungssymbolleiste hinzufügen:
@@ -133,9 +133,9 @@ Sie können die Ausrichtung der Kameraansicht während eines Anrufs von Hochform
    
 ## <a name="use-remote-assist-together-with-dynamics-365-for-field-service"></a>Remote Assist zusammen mit Dynamics 365 for Field Service verwenden
 
-Um die Anrufdaten bei Beendigung eines Anrufs automatisch in einem [!include[pn-field-service](../includes/pn-field-service.md)-Arbeitsauftrag zu erfassen, können Sie [!include[pn-remote-assist](../includes/pn-remote-assist.md) zusammen mit [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md) verwenden. 
+Sie können [!include[pn-remote-assist](../includes/pn-remote-assist.md)] zusammen mit [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] verwenden, wenn Sie automatisch Anrufdaten für einen [!include[pn-field-service](../includes/pn-field-service.md)]-Arbeitsauftrag protokollieren möchten, wenn Sie den Anruf beenden. 
 
-Bei der erstmaligen Anmeldung in der mobilen App von [!include[pn-remote-assist](../includes/pn-remote-assist.md) werden Sie aufgefordert, [!include[pn-remote-assist](../includes/pn-remote-assist.md) mit [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md) zu verknüpfen. Wenn Sie die Apps nicht bei der ersten Anmeldung verknüpfen wollen, können Sie dies später in den Einstellungen tun.
+Wenn Sie sich zum ersten Mal bei der mobilen [!include[pn-remote-assist](../includes/pn-remote-assist.md)]-App anmelden, werden Sie aufgefordert, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] mit [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] zu verknüpfen. Wenn Sie die Apps nicht bei der ersten Anmeldung verknüpfen wollen, können Sie dies später unter **Einstellungen** tun.
 
 ### <a name="link-the-remote-assist-mobile-app-to-dynamics-365-for-field-service"></a>Mobile-App Remote Assist mit Dynamics 365 for Field Service verknüpfen
 
@@ -176,12 +176,12 @@ Bei der erstmaligen Anmeldung in der mobilen App von [!include[pn-remote-assist]
 
 ## <a name="get-support-or-provide-feedback"></a>Support erhalten oder Feedback geben
 
-Sofern Sie Direktzugriff auf das Produktteamforum wünschen und Feedback zur Vorschau der mobilen App geben möchten, gehen Sie wie folgt vor:
+Wenn Sie Direktzugriff auf das Produktteamforum erhalten und Feedback auf der Vorschau der Mobile-App geben möchten:
 
-1.  Melden Sie sich unter https://experience.dynamics.com beim Insider-Programm zur Public Preview von [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md) Mobile an. 
+1.  Melden Sie sich für das Public Preview Insiders Program der [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] Mobile-App unter https://experience.dynamics.com an. 
 
 
-2.  Wählen Sie das Feld **Insider-Programm** aus, das die Anwendung „Insider-Programm“ öffnet.
+2.  Wählen Sie das Feld **Insider-Programm** aus, das die Anwendung Insider-Programm öffnet.
 
     ![Schaltfläche „Insider-Programm“](media/insiders-program.PNG "Schaltfläche „Insider-Programm“")
  
