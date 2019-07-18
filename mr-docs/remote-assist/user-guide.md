@@ -2,17 +2,17 @@
 author: drpusey
 description: Dynamics 365 Remote Assist-Benutzerhandbuch (zu HoloLens)
 ms.author: drpusey
-ms.date: 06/19/2019
+ms.date: 06/24/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist-Benutzerhandbuch (zu HoloLens)
 ms.reviewer: v-brycho
-ms.openlocfilehash: 57b1cb8cfc0de579a3407bcb131d2bc6c993270d
-ms.sourcegitcommit: cb58ebe19de3647d35bd7f8694b3adecaab55256
+ms.openlocfilehash: bbd55764cac04e15c2f34947b3b348fa1b2aa3ff
+ms.sourcegitcommit: 9f797a3ac9f96d3e137edc3f627521a818c7dbe9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1691561"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "1702660"
 ---
 # <a name="dynamics-365-remote-assist-user-guide-for-hololens"></a>Dynamics 365 Remote Assist-Benutzerhandbuch (zu HoloLens)
 
@@ -56,7 +56,7 @@ Wenn Ihr [!include[pn-hololens](../includes/pn-hololens.md)] das April 2018 Upda
 Die Abläufe in diesem Benutzerhandbuch beschreiben, wie Sie Aufgaben über die Benutzeroberfläche oder mit Sprachbefehlen (wenn verfügbar) ausführen. Um Sprachbefehle zu verwenden, sagen Sie „[!include[pn-remote-assist](../includes/pn-remote-assist.md)]“ und anschließend den Sprachbefehl. [Erfahren Sie mehr über Sprachbefehle.](#voice)
 
 > [!NOTE]
-> Sprachbefehle und Spracherkennung sind derzeit [für bestimmte Sprachen verfügbar](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for). 
+> Für HoloLens 1 sind Sprachbefehle und Spracherkennung derzeit nur auf Englisch verfügbar. Für HoloLens 2 sind Sprachbefehle [für bestimmte Sprachen verfügbar](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for). 
 
 ## <a name="make-and-receive-calls"></a>Anrufe tätigen und empfangen
 
@@ -67,9 +67,6 @@ Wie Sie einen Anruf tätigen, hängt davon ab, ob Sie einen Kontakt inner- oder 
 -   Öffnen Sie die App, und [wählen Sie](https://support.microsoft.com/en-us/help/12644) einen Ihrer letzten Kontakte. Falls Sie den gewünschten Kontakt nicht sehen, wählen Sie **Suche** ![Suche](media/e3155cd796106ea0818d8f52c7dbfcbe.png "Suche"), und verwenden Sie anschließend die holografische Tastatur, um einen Namen oder eine E-Mail-Adresse einzugeben.
 
 Wenn Ihr Kontakt den Anruf in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)] annimmt, kann er sehen, was Sie selbst in Ihrem Raum sehen – einschließlich Hologramme.
-
-> [!NOTE]
-> Dynamic Audio passt den Lautstärkepegel basierend auf den Umgebungsgeräuschen im Raum an, sodass Sie auch in einer lauten Umgebung etwas hören können.
 
 ### <a name="make-a-call-to-a-contact-outside-your-company"></a>Einen Kontakt außerhalb Ihres Unternehmens anrufen
 
@@ -307,7 +304,7 @@ Um Ihre letzte Aktion rückgängig zu machen, einschließlich **Alle löschen**:
 
 ## Verwenden Sie Sprachbefehle und visieren Sie <a name="voice"></a>an.
 
-In vielen Fällen können Sie Sprachbefehle und statt Gesten Anvisieren verwenden. Einige Sprachbefehle sind kontextabhängig, sodass sie nur in bestimmten Bereichen der Benutzeroberfläche funktionieren. Beachten Sie, dass Sprachbefehle und Spracherkennung derzeit [für bestimmte Sprachen verfügbar sind](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for). 
+In vielen Fällen können Sie Sprachbefehle und statt Gesten Anvisieren verwenden. Einige Sprachbefehle sind kontextabhängig, sodass sie nur in bestimmten Bereichen der Benutzeroberfläche funktionieren. Beachten Sie, dass Sprachbefehle und Spracherkennung für HoloLens 1 derzeit nur auf Englisch und [für HoloLens 2 für bestimmte Sprachen](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for) verfügbar sind. 
 
 > [!IMPORTANT]
 > Um Sprachbefehle zu verwenden, sagen Sie „[!include[pn-remote-assist](../includes/pn-remote-assist.md)]“ und anschließend einen der Befehle aus der folgenden Tabelle. Sagen Sie beispielsweise „[!include[pn-remote-assist](../includes/pn-remote-assist.md)], bewegen”, um in den Bewegungsmodus für Tafeln (Fenster) zu gelangen. Sie können auch eine Schaltfläche anvisieren und „[!include[pn-remote-assist](../includes/pn-remote-assist.md)], auswählen” sagen, um diese Schaltfläche auszuwählen.

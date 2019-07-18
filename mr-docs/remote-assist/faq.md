@@ -2,17 +2,17 @@
 author: drpusey
 description: Antworten auf häufige Fragen zur Verwendung von Microsoft Dynamics 365 Remote Assist.
 ms.author: drpusey
-ms.date: 6/19/2019
+ms.date: 6/24/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist – Häufig gestellte Fragen
 ms.reviewer: v-brycho
-ms.openlocfilehash: f64c6007d062dd0cf640fd5a4c08e95c2a0ad335
-ms.sourcegitcommit: 588b7d38c459f54b81ff5c116f68d2190ac1944b
+ms.openlocfilehash: abe458b3aa16be12be18d0c2a7e48c5e79927f38
+ms.sourcegitcommit: 9f797a3ac9f96d3e137edc3f627521a818c7dbe9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1690678"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "1702665"
 ---
 # <a name="dynamics-365-remote-assist-faq"></a>Dynamics 365 Remote Assist – Häufig gestellte Fragen
 
@@ -54,7 +54,7 @@ Derzeit gibt es [!include[pn-remote-assist](../includes/pn-remote-assist.md)] au
 
 ## <a name="what-languages-are-voice-commands-and-speech-recognition-available-for"></a>In welchen Sprachen sind Sprachbefehle und Spracherkennung verfügbar?
 
-Sprachbefehle und Spracherkennung sind derzeit für die folgenden Sprachen verfügbar:
+Für HoloLens 1 sind Sprachbefehle und Spracherkennung derzeit nur auf Englisch verfügbar. Für HoloLens 2 sind Sprachbefehle und Spracherkennung für die folgenden Sprachen verfügbar:
 
 -   Englisch (US)
 -   Englisch (Kanada)
