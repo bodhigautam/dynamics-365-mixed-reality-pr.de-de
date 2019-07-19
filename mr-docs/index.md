@@ -132,16 +132,16 @@ ms.locfileid: "1593031"
                                             </div>
                                             <div class="cardText">
                                                 <h3 style="font-size: 1.8rem; font-weight: 500; font-family: segoe-ui, Segoe UI, Segoe WP, Frutiger, Helvetica Neue, Helvetica, sans-serif"><span style="font-size: 50%; color: #7f7f7f">DYNAMICS 365</span><br />Remote Assist</h3>
-                                                <p><a href="/dynamics365/mixed-reality/remote-assist/index">Overview</a></p>
-                                                <p><a href="/dynamics365/mixed-reality/remote-assist/requirements">Requirements</a></p>
-                                                <p><a href="/dynamics365/mixed-reality/remote-assist/try-remote-assist-free">Try Remote Assist free</a></p>
-                                                <p><a href="/dynamics365/mixed-reality/remote-assist/buy-and-deploy">Buy and deploy</a></p>
-                                                <p><a href="/dynamics365/mixed-reality/remote-assist/user-guide">HoloLens User Guide</a></p>
-                                                <p><a href="/dynamics365/mixed-reality/remote-assist/mobile-app">Mobile app User Guide</a></p>
-                                                <p><a href="/dynamics365/mixed-reality/remote-assist/use-microsoft-teams-with-remote-assist">Use with Teams</a></p>
-                                                <p><a href="/dynamics365/mixed-reality/remote-assist/protocol-activation">Launch from another app</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/index">Übersicht</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/requirements">Anforderungen</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/try-remote-assist-free">Remote Assist kostenlos testen</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/buy-and-deploy">Kaufen und bereitstellen</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/user-guide">HoloLens-Benutzerhandbuch</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/mobile-app">Benutzerhandbuch zur mobilen App</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/use-microsoft-teams-with-remote-assist">Verwendung mit Teams</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/protocol-activation">Von einer anderen App aus starten</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/remote-assist/videos">Videos</a></p>
-                                                <p><a href="/dynamics365/mixed-reality/remote-assist/faq">FAQ</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/faq">Häufig gestellte Fragen</a></p>
                                             </div>
                                         </div>
                                     </div>
