@@ -178,7 +178,7 @@ Wenn Sie sich zum ersten Mal bei der mobilen [!include[pn-remote-assist](../incl
 
 Wenn Sie Direktzugriff auf das Produktteamforum erhalten und Feedback auf der Vorschau der Mobile-App geben möchten:
 
-1.  Melden Sie sich für das Public Preview Insiders Program der [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] Mobile-App unter https://experience.dynamics.com an. 
+1.  Melden Sie sich für das Öffentliche Vorschau Insiders Program der [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] Mobile-App unter https://experience.dynamics.com an. 
 
 
 2.  Wählen Sie das Feld **Insider-Programm** aus, das die Anwendung Insider-Programm öffnet.
