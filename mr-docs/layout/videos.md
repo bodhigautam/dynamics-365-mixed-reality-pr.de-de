@@ -7,21 +7,18 @@ ms.service: crm-online
 ms.topic: article
 title: Anleitungsvideos zu Dynamics 365 Layout
 ms.reviewer: v-brycho
-ms.openlocfilehash: 4f161034ffd3fecfb033ab50cc0c82e8fd075453
-ms.sourcegitcommit: cb58ebe19de3647d35bd7f8694b3adecaab55256
+ms.openlocfilehash: fabfd79f6827dc67a8de6eb1435bf6708fd0b3e7
+ms.sourcegitcommit: a50eb22358dd459b09ba77b812658d2aed925431
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1691556"
+ms.lasthandoff: 07/17/2019
+ms.locfileid: "1755832"
 ---
 # <a name="how-to-videos-for-dynamics-365-layout"></a>Anleitungsvideos zu Dynamics 365 Layout
 
 Sehen Sie sich diese kurzen Videos an, um mit [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] zu beginnen.
 
 Sie benötigen weitere Hilfe? Nehmen Sie unser [Benutzerhandbuch](user-guide.md) zur Hand.
-
-> [!TIP]
-> Um für Videos Untertitel zu aktivieren, wählen Sie die Schaltfläche **Weitere Optionen** (...), **Untertitel** und anschließend **Englisch** aus.<br></br>![Untertitel](media/closed-captions.PNG "Untertitel")<br>[!include[pn-layout](../includes/pn-layout.md)] ist derzeit nur in Englisch verfügbar.
 
 ## <a name="dynamics-365-layout-for-hololens"></a>Dynamics 365 Layout für HoloLens
 

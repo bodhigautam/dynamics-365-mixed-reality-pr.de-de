@@ -7,21 +7,18 @@ ms.service: crm-online
 ms.topic: article
 title: Anleitungsvideos für Dynamics 365 Remote Assist
 ms.reviewer: v-brycho
-ms.openlocfilehash: 9682460433115014f1930af7a27fe03692ed2ee3
-ms.sourcegitcommit: 9d8a56918b33fb84d4232d1a6fd4fd65fedd157e
+ms.openlocfilehash: 718c13b01f49df4af5e5059addc5a898ce1d4e44
+ms.sourcegitcommit: a50eb22358dd459b09ba77b812658d2aed925431
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "1622128"
+ms.lasthandoff: 07/17/2019
+ms.locfileid: "1755837"
 ---
 # <a name="how-to-videos-for-dynamics-365-remote-assist"></a>Anleitungsvideos für Dynamics 365 Remote Assist
 
 Sehen Sie sich diese kurzen Videos an, um mit Microsoft [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] zu beginnen.
 
 Sie benötigen weitere Hilfe? Nehmen Sie unser [Benutzerhandbuch](user-guide.md) zur Hand.
-
-> [!TIP]
-> Um für Videos Untertitel zu aktivieren, wählen Sie die Schaltfläche **Weitere Optionen** ( ... ), **Untertitel** und anschließend **Englisch** aus.<br></br>![Untertitel](media/closed-captions.PNG "Untertitel")<br>[!include[pn-remote-assist](../includes/pn-remote-assist.md)] ist derzeit nur in Englisch verfügbar.
 
 ## <a name="remote-assist-for-hololens"></a>Remote Assist für HoloLens
 
