@@ -2,17 +2,17 @@
 author: ornellaalt
 description: Dynamics 365 Layout-Benutzerhandbuch
 ms.author: ornella
-ms.date: 05/15/2019
+ms.date: 07/09/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Layout-Benutzerhandbuch
 ms.reviewer: v-brycho
-ms.openlocfilehash: 15d9117e892a7d4d9c61b28b4510d1b4b874465f
-ms.sourcegitcommit: a9ae3e613938a7c53b2de2ce787fae6a3499c9ae
+ms.openlocfilehash: a6bb6a819f1dd7c4ad5e7053cfe88a216d552f92
+ms.sourcegitcommit: a50eb22358dd459b09ba77b812658d2aed925431
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "1593579"
+ms.lasthandoff: 07/17/2019
+ms.locfileid: "1755842"
 ---
 # <a name="dynamics-365-layout-user-guide"></a>Dynamics 365 Layout-Benutzerhandbuch
 
@@ -168,7 +168,25 @@ In [!include[pn-hololens](../includes/pn-hololens.md)] und in [!include[pn-ms-wi
 | Kopieren         | Wählen Sie das Modell aus, und wählen Sie dann **Kopieren**. Zeigen Sie mit Ihrem Controller auf die Stelle, an der Sie die Kopie platzieren möchten. Drücken Sie den Trigger erneut, um sie zu platzieren.Um mehrere Kopien zu platzieren, zeigen und wählen Sie erneut. Sie müssen nicht zum Original zurückkehren. Wählen Sie **Fertig** nach der letzten Kopie aus.      |
 | Ändern der Größe       | Wählen Sie das Modell aus und anschließend **Größe ändern**. Zeigen Sie auf eine Kante des Objekts. Halten Sie den Trigger gedrückt. Ziehen Sie die Kante und geben Sie dann den Trigger frei.                                                                                                                      |
 | Rotieren       | Zeigen Sie auf das gewünschte Modell und halten Sie den Trigger gedrückt. Zeigen Sie anschließend auf einen der Rotationspfeile und drücken Sie den Trigger, um das Modell um 90 Grad zu drehen. Für eine präzisere Rotation verwenden Sie das runde Rotationssteuerelement: Zeigen Sie auf das Modell, ziehen und halten Sie den Trigger und bewegen Sie nun den Controller zum Drehen. |
-| Mehrfachauswahl | Zeigen Sie mit Ihrem Controller auf eine leere Stelle. Ziehen Sie halten Sie den Trigger, um über die gewünschten Modelle ein Rechteck zu ziehen. Zeigen Sie auf eines der ausgewählten Modelle, um zu sehen, was Sie mit allen Modellen machen können. |
+| Mehrfachauswahl | Zeigen Sie mit Ihrem Controller auf eine leere Stelle. Ziehen Sie halten Sie den Trigger, um über die gewünschten Modelle ein Rechteck zu ziehen. Zeigen Sie auf eins der ausgewählten Modelle, um zu sehen, was Sie damit machen können. |
+
+## <a name="lock-a-layout"></a>Sperren eines Layouts
+
+Sie können ein Layout sperren, um unbeabsichtigte Änderungen daran zu verhindern. Dies ist besonders dann hilfreich, wenn Sie ein Layout zu Überprüfungszwecken für Ihre Kollegen freigeben möchten. 
+
+Zum Sperren eines Layouts tippen Sie über **Layout sperren** im Randleistenmenü in die Luft. Dadurch wird das aktuelle Layout für die Bearbeitung gesperrt.
+
+![Layout sperren](media/locked-layout.PNG "Layout sperren")
+
+In der oberen rechten Ecke des Layout-Titels wird ein Sperrsymbol angezeigt.
+ 
+![Symbol für gesperrtes Layout](media/locked-layout-graphic.PNG "Symbol für gesperrtes Layout")
+ 
+Wenn ein Layout gesperrt ist und eine Person ein Modell im Layout auswählt, wird nach dem dritten aufeinanderfolgenden Versuch ein Popup angezeigt, um mitzuteilen, dass das Layout für die Bearbeitung gesperrt ist. Eine ähnliches Popup wird angezeigt, wenn versucht wird, ein Modell aus dem **Layout**-Menü im aktuellen Layout zu platzieren.
+
+Zum Entsperren eines Layouts tippen Sie über **Layout entsperren** im Randleistenmenü in die Luft. 
+ 
+![Layout entsperren](media/unlock-layout.PNG "Layout entsperren")
 
 ## <a name="improve-performance-when-your-models-dont-require-texture-or-multiple-colors"></a>Verbessern der Leistung, wenn Ihre Modelle keine Textur oder mehrere Farben benötigen
 

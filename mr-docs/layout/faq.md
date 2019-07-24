@@ -2,17 +2,17 @@
 author: ornellaalt
 description: Antworten auf häufige Fragen zur Verwendung von Microsoft Dynamics 365 Layout
 ms.author: ornella
-ms.date: 05/15/2019
+ms.date: 07/09/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Layout – Häufig gestellte Fragen
 ms.reviewer: v-brycho
-ms.openlocfilehash: d7b99194ab6351bb1ff4ed6fd1435e77ab4da1d5
-ms.sourcegitcommit: a9ae3e613938a7c53b2de2ce787fae6a3499c9ae
+ms.openlocfilehash: 048a9376b6db90e2346a2eae4119342835ad0925
+ms.sourcegitcommit: a50eb22358dd459b09ba77b812658d2aed925431
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "1593614"
+ms.lasthandoff: 07/17/2019
+ms.locfileid: "1755827"
 ---
 # <a name="dynamics-365-layout-faq"></a>Dynamics 365 Layout – Häufig gestellte Fragen
 
@@ -71,7 +71,20 @@ Ja, über **Einstellungen** \> **Messungen** \> **Maßeinheit** können Sie US-a
 
 ## <a name="what-languages-is-dynamics-365-layout-available-in"></a>In welchen Sprachen ist Dynamics 365 Layout erhältlich?
 
-Derzeit ist [!include[pn-layout](../includes/pn-layout.md)], das [!include[pn-import-tool](../includes/pn-import-tool.md)] und das [!include[pn-visio](../includes/pn-visio.md)]-Add-In für [!include[pn-layout](../includes/pn-layout.md)] nur auf Englisch verfügbar. Zum Installieren des Add-Ins muss außerdem [die Anzeigesprache für Microsoft Office auf Englisch gesetzt werden](https://support.office.com/article/add-an-editing-language-or-set-language-preferences-in-office-663d9d94-ca99-4a0d-973e-7c4a6b8a827d).
+[!include[pn-layout](../includes/pn-layout.md)] ist für [!include[pn-hololens](../includes/pn-hololens.md)]2 ist in folgenden Gebietsschemas verfügbar:
+
+- USA
+- Kanada (Englisch und Französisch)
+- Großbritannien
+- Australien
+- Deutschland
+- Frankreich
+- China
+- Japan
+- Taiwan (keine Sprachunterstützung)
+- Hongkong (SAR) (keine Sprachunterstützung)
+
+[!include[pn-layout](../includes/pn-layout.md)], das [!include[pn-import-tool](../includes/pn-import-tool.md)]- und das [!include[pn-visio](../includes/pn-visio.md)]-Add-In für [!include[pn-layout](../includes/pn-layout.md)] sind für [!include[pn-hololens](../includes/pn-hololens.md)]1 nur in Englisch verfügbar. Zum Installieren des Add-Ins muss außerdem [die Anzeigesprache für Microsoft Office auf Englisch festgelegt werden](https://support.office.com/article/add-an-editing-language-or-set-language-preferences-in-office-663d9d94-ca99-4a0d-973e-7c4a6b8a827d).
 
 ## <a name="where-is-dynamics-365-layout-available"></a>Wo ist Dynamics 365 Layout verfügbar?
 
